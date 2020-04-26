@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@master
       - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
         with:
-          source_dir: 'markdown'
+          source_dir: 'topics'
           container_name: 'markdown'
-          connection_string: ${{ secrets.ConnectionString }}
+          connection_string: ${{ secrets.StorageConnectionString }}
           extra_args: '--pattern *.md'
