@@ -1,6 +1,6 @@
 name: Upload To Azure Blob Storage
 on:
-  push:
+  create:
     branches:
       - master
 
