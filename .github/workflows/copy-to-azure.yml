@@ -1,0 +1,17 @@
+name: Upload To Azure Blob Storage
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+        with:
+          source_dir: 'markdown'
+          container_name: 'markdown'
+          connection_string: ${{ secrets.ConnectionString }}
+          extra_args: '--pattern *.md'
