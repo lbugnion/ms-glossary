@@ -1,6 +1,8 @@
+> YouTube: WyipNLrz2G0
+
 # Azure Words of the Day: App Service
 
-<!--YouTube: WyipNLrz2G0-->
+<!--YOUTUBEEMBED -->
 
 ## Transcript
 
