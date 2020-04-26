@@ -14,4 +14,3 @@ jobs:
           source_dir: 'topics'
           container_name: 'markdown'
           connection_string: ${{ secrets.StorageConnectionString }}
-          extra_args: '--pattern *.md'
