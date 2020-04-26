@@ -1,5 +1,7 @@
 # Azure Words of the Day: App Service
 
+<!--YouTube: WyipNLrz2G0-->
+
 ## Transcript
 
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
