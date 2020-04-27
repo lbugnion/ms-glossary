@@ -23,3 +23,12 @@ jobs:
           source_dir: 'topics'
           container_name: 'markdown'
           connection_string: ${{ secrets.StorageConnectionString }}
+  notify2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
+        with:
+          url: https://notificationsendpoint.azurewebsites.net/api/send
+          method: post
+          headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
+          data:  '{	"title": "GitHub action ended", "body": "Markdown file transfered", "channel": "WordsOfTheDay" }'
