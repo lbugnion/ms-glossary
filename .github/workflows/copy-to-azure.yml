@@ -5,6 +5,15 @@ on:
       - master
 
 jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
+        with:
+          url: https://b1a26295.ngrok.io/api/send
+          method: post
+          headers: '{ "x-functions-key": secrets.NotifyFunctionKey }'
+          data:  '{	"title": "GitHub action started", "body": "New markdown file found", "channel": "WordsOfTheDay" }'
   upload:
     runs-on: ubuntu-latest
     steps:
