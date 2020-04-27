@@ -5,6 +5,8 @@ on:
       - master
 
 jobs:
+  delete:
+    
   upload:
     runs-on: ubuntu-latest
     steps:
@@ -14,3 +16,24 @@ jobs:
           source_dir: 'topics'
           container_name: 'markdown'
           connection_string: ${{ secrets.StorageConnectionString }}
+
+
+- name: Watermelon HTTP client
+  uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
+  with:
+    # Endpoint to query
+    url: # optional, default is https://api.github.com
+    # HTTP method
+    method: # optional, default is get
+    # HTTP custom headers
+    headers: # optional
+    # HTTP request payload
+    data: # optional
+    # GraphQL query or mutation to execute. If defined, the 'data' field is automatically populated with the this payload and the 'method' is set to POST
+    graphql: # optional
+    # variables for a GraphQL mutation in JSON format
+    variables: # optional, default is {}
+    # name of the entrypoint GraphQL operation if multiple are defined in `graphql`
+    operation_name: # optional
+    # wether to print info-level statements or not
+    verbose: # optional
