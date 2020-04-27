@@ -1,13 +1,27 @@
 > YouTube: WyipNLrz2G0
 > Keywords: app service, web server, asp.net, web api
 
-# Azure Words of the Day: App Service
+# Azure Words of the Day: [App Service](/topic/app-service)
 
 <!--YOUTUBEEMBED -->
 
+## Links
+
+### Documentation
+
+- [App Service overview](http://gslb.ch/447)
+- [App Service documentation](http://gslb.ch/448)
+
+### Microsoft Learn
+
+- [Create serverless applications](http://gslb.ch/441) (*learning path*)
+- [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](http://gslb.ch/442) (*module*)
+- [Build Serverless APIs with Azure Functions](http://gslb.ch/443) (*module*)
+- [Build automated workflows to integrate data and apps with Azure Logic Apps](http://gslb.ch/444) (*learning path*)
+
 ## Transcript
 
-Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
+Hello and welcome to [Microsoft Azure Words of the Day](/), the show that teaches you the Azure vocabulary!
 
 Today's words are: App Service
 
