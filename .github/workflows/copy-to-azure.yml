@@ -23,12 +23,3 @@ jobs:
           source_dir: 'topics'
           container_name: 'markdown'
           connection_string: ${{ secrets.StorageConnectionString }}
-  upload-parts:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-      - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
-        with:
-          source_dir: 'parts'
-          container_name: 'parts'
-          connection_string: ${{ secrets.StorageConnectionString }}
