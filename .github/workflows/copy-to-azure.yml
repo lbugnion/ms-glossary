@@ -14,7 +14,7 @@ jobs:
           method: post
           headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
           data:  '{	"title": "GitHub action started", "body": "New markdown file found", "channel": "WordsOfTheDay" }'
-  upload:
+  upload-markdown:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -22,4 +22,13 @@ jobs:
         with:
           source_dir: 'topics'
           container_name: 'markdown'
+          connection_string: ${{ secrets.StorageConnectionString }}
+  upload-parts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+        with:
+          source_dir: 'parts'
+          container_name: 'parts'
           connection_string: ${{ secrets.StorageConnectionString }}
