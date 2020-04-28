@@ -1,7 +1,7 @@
 > YouTube: fRfWhMg3inU
 > Keywords: AAD, Active Directory, Authentication, Identity
 
-# Azure Words of the Day: [AAD](/topic/aad)
+# Today's word of the day is: [AAD](/topic/aad)
 
 <!--YOUTUBEEMBED -->
 

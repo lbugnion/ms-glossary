@@ -1,7 +1,7 @@
 > YouTube: WyipNLrz2G0
 > Keywords: App Service, Web Server, ASP.NET, Web Api
 
-# Azure Words of the Day: [App Service](/topic/app-service)
+# Today's word of the day is: [App Service](/topic/app-service)
 
 <!--YOUTUBEEMBED -->
 
