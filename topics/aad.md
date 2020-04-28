@@ -1,7 +1,7 @@
 > YouTube: fRfWhMg3inU
 > Keywords: AAD, Active Directory, Authentication, Identity
 
-# Today's word of the day is: [AAD](/topic/aad)
+# [AAD](/topic/aad)
 
 <!--YOUTUBEEMBED -->
 
