@@ -1,7 +1,7 @@
 > YouTube: CODE
 > Keywords: COMMA, SEPARATED, LIST
 
-# Today's word of the day is: [WORD](/topic/WORD)
+[WORD](/topic/WORD)
 
 <!--YOUTUBEEMBED -->
 

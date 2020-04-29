@@ -1,7 +1,7 @@
 > YouTube: fRfWhMg3inU
-> Keywords: AAD, Active Directory, Authentication, Identity
+> Keywords: AAD, Active Directory, Authorization, Authentication, Identity
 
-# [AAD](/topic/aad)
+# [AAD](/topic/aad/aad)
 
 <!--YOUTUBEEMBED -->
 
