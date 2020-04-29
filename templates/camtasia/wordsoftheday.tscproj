@@ -1,0 +1,1326 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "width" : 1080.0,
+  "height" : 1080.0,
+  "version" : "3.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "19.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\AppService.png",
+      "rect" : [0, 0, 1426, 364],
+      "lastMod" : "20200420T171119",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1426, 364],
+          "sampleRate" : 0,
+          "bitDepth" : 8,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T092254.536944"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\Demo.trec",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20200421T090218",
+      "sourceTracks" : [
+        {
+          "range" : [0, 6880],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 29,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T092254.570869"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\Front camera.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20200421T083140",
+      "sourceTracks" : [
+        {
+          "range" : [0, 6545168896],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "5000000/166057",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 6545168896],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -16.9297565432189,
+          "peakLevel" : 0.892261564731598,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T092256.648911"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\Side camera.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20200421T083136",
+      "sourceTracks" : [
+        {
+          "range" : [0, 6551621632],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/332891",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 6551621632],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -17.6946910926085,
+          "peakLevel" : 0.891309559345245,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T092257.881427"
+      }
+    },
+    {
+      "id" : 5,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\Intro.trec",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20200420T165724",
+      "sourceTracks" : [
+        {
+          "range" : [0, 646],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 28,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T092431.515166"
+      }
+    },
+    {
+      "id" : 6,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\MS-Azure_logo_endCard_whiteBG_1080p-60fps-REF.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20200417T131026",
+      "sourceTracks" : [
+        {
+          "range" : [0, 25000000],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/166667",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T092431.772167"
+      }
+    },
+    {
+      "id" : 7,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\1024px-Ruby_logo.svg.png",
+      "rect" : [0, 0, 500, 500],
+      "lastMod" : "20200421T120506",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 500, 500],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T120550.167188"
+      }
+    },
+    {
+      "id" : 8,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\1200px-.NET_Core_Logo.svg.png",
+      "rect" : [0, 0, 500, 500],
+      "lastMod" : "20200421T120502",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 500, 500],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T120550.184190"
+      }
+    },
+    {
+      "id" : 9,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\1920px-Node.js_logo.svg.png",
+      "rect" : [0, 0, 500, 306],
+      "lastMod" : "20200421T120457",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 500, 306],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T120550.202194"
+      }
+    },
+    {
+      "id" : 10,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\1920px-PHP-logo.svg.png",
+      "rect" : [0, 0, 500, 270],
+      "lastMod" : "20200421T120452",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 500, 270],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T120550.219195"
+      }
+    },
+    {
+      "id" : 11,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\download-.NET-Framework-windows-10.png",
+      "rect" : [0, 0, 312, 276],
+      "lastMod" : "20200421T120534",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 312, 276],
+          "sampleRate" : 0,
+          "bitDepth" : 8,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T120550.235193"
+      }
+    },
+    {
+      "id" : 12,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\800px-Java_programming_language_logo.svg.png",
+      "rect" : [0, 0, 500, 644],
+      "lastMod" : "20200421T121014",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 500, 644],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T121030.949117"
+      }
+    },
+    {
+      "id" : 13,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\Python_logo_and_wordmark.svg.png",
+      "rect" : [0, 0, 484, 485],
+      "lastMod" : "20200421T120933",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 484, 485],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T121030.968120"
+      }
+    },
+    {
+      "id" : 14,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\Twitter.png",
+      "rect" : [0, 0, 1163, 224],
+      "lastMod" : "20200421T145735",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1163, 224],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T145744.010139"
+      }
+    },
+    {
+      "id" : 15,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\800px-Tux.svg.png",
+      "rect" : [0, 0, 500, 589],
+      "lastMod" : "20200421T150502",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 500, 589],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T150528.792628"
+      }
+    },
+    {
+      "id" : 16,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\Windows-Server-2019-e1521709966109.png",
+      "rect" : [0, 0, 500, 264],
+      "lastMod" : "20200421T150436",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 500, 264],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T150528.812627"
+      }
+    },
+    {
+      "id" : 17,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\1024px-Font_Awesome_5_brands_github.svg.png",
+      "rect" : [0, 0, 500, 516],
+      "lastMod" : "20200421T151115",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 500, 516],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T151141.595006"
+      }
+    },
+    {
+      "id" : 18,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\1920px-Docker_(container_engine)_logo.svg.png",
+      "rect" : [0, 0, 500, 279],
+      "lastMod" : "20200421T151122",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 500, 279],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T151141.612123"
+      }
+    },
+    {
+      "id" : 19,
+      "src" : "C:\\Users\\lbugnion\\OneDrive\\Documents\\Microsoft\\2020\\Words of the Day\\20200420 App Service\\ZOOM0001_pan.wav",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20200421T153152",
+      "sourceTracks" : [
+        {
+          "range" : [0, 6905382313],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 1,
+          "integratedLUFS" : -12.3104177652815,
+          "peakLevel" : 1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200421T205733.119474"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 20,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 117.1,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 21,
+                    "_type" : "ScreenVMFile",
+                    "src" : 5,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Intro"
+                    },
+                    "parameters" : {
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 192,
+                    "mediaStart" : 140,
+                    "mediaDuration" : 192,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "clipSpeedAttribute" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 22,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Intro",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                    "parameters" : {
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 23,
+                          "_type" : "ScreenVMFile",
+                          "src" : 5,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Intro"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 646,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 646,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 24,
+                          "_type" : "ScreenIMFile",
+                          "src" : 5,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 0,
+                          "attributes" : {
+                            "ident" : "Intro"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 646,
+                          "duration" : 108030,
+                          "mediaStart" : 645,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False"
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 192,
+                    "duration" : 201,
+                    "mediaStart" : 429,
+                    "mediaDuration" : 201,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 25,
+                    "_type" : "VMFile",
+                    "src" : 6,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "MS-Azure_logo_endCard_whiteBG_1080p-60fps-REF"
+                    },
+                    "parameters" : {
+                      "translation1" : -9.06652530829888e-12,
+                      "scale0" : 1.00000000000025,
+                      "scale1" : 1.00000000000025
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3438,
+                    "duration" : 75,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 75,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 0.5625,
+                      "default-scale1" : 0.5625,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 15,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 21
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 7,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 22
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 10,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 25
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 26,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-rectangle",
+                      "style" : "basic",
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 340.0,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -125.409836065455,
+                      "tail-y" : -20.0,
+                      "width" : 1361.85792349673,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "App Service",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"underline","rangeEnd":11,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":11,"rangeStart":0,"value":182,"valueType":"double"},{"name":"fontName","rangeEnd":11,"rangeStart":0,"value":"Segoe UI Light","valueType":"string"},{"name":"kerning","rangeEnd":11,"rangeStart":0,"value":0,"valueType":"double"},{"name":"strikethrough","rangeEnd":11,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":11,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":11,"rangeStart":0,"value":"(47,59,68,255)","valueType":"color"},{"name":"fontWeight","rangeEnd":11,"rangeStart":0,"value":400,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -2.43218778450682e-10
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 273,
+                    "duration" : 120,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 120,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 27,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-rectangle",
+                      "style" : "basic",
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 119.333333333334,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.890196078431372,
+                      "stroke-color-green" : 0.870588235294118,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.847058823529412,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -124.666666666685,
+                      "tail-y" : -4.6666666666672,
+                      "width" : 778.00000000017,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "http://gslb.ch/435",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":18,"rangeStart":0,"value":"(47,59,68,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":18,"rangeStart":0,"value":80,"valueType":"double"},{"name":"fontName","rangeEnd":18,"rangeStart":0,"value":"Segoe UI Semibold","valueType":"string"},{"name":"fontWeight","rangeEnd":18,"rangeStart":0,"value":400,"valueType":"int"},{"name":"kerning","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"double"},{"name":"strikethrough","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -8.81605899394344e-12,
+                      "translation1" : -232.666666666588
+                    },
+                    "effects" : [
+                        {
+                          "_type" : "GenericBehaviorEffect",
+                          "effectName" : "pulsating",
+                          "start" : 0,
+                          "duration" : 78                        ,
+                          "in" : {
+                            "attributes" : {
+                              "name" : "grow",
+                              "type" : 0,
+                              "characterOrder" : 6,
+                              "offsetBetweenCharacters" : 1,
+                              "suggestedDurationPerCharacter" : 18,
+                              "overlapProportion" : "3/4",
+                              "movement" : 30,
+                              "springDamping" : 5.0,
+                              "springStiffness" : 50.0,
+                              "bounceBounciness" : 0.45
+                            }
+                          
+                          },
+                          "center" : {
+                            "attributes" : {
+                              "name" : "pulsate",
+                              "type" : 0,
+                              "characterOrder" : 6,
+                              "offsetBetweenCharacters" : "21/10",
+                              "secondsPerLoop" : 1,
+                              "numberOfLoops" : -1,
+                              "delayBetweenLoops" : 0,
+                              "offsetBetweenCharacters" : "21/10"
+                            },
+                            "parameters" : {
+                              "movement" : {
+                                "type" : "int",
+                                "valueBounds" : {
+                                  "minValue" : 0,
+                                  "maxValue" : 31,
+                                  "defaultValue" : 27
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 4,
+                                  "unitType" : 0
+                                },
+                                "keyframes" : [
+                                  {
+                                    "endTime" : 0,
+                                    "time" : 0,
+                                    "value" : 27,
+                                    "duration" : 0
+                                  }
+                                ]
+                              },
+                              "scale" : {
+                                "type" : "double",
+                                "defaultValue" : 1.08,
+                                "valueBounds" : {
+                                  "minValue" : 0.01,
+                                  "maxValue" : 2.0,
+                                  "defaultValue" : 1.08
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 1,
+                                  "unitType" : 1
+                                }
+                              }
+                            }
+                          
+                          },
+                          "out" : {
+                            "attributes" : {
+                              "name" : "shrink",
+                              "type" : 0,
+                              "characterOrder" : 6,
+                              "offsetBetweenCharacters" : 1,
+                              "suggestedDurationPerCharacter" : "29/2",
+                              "overlapProportion" : "1/10",
+                              "movement" : 11,
+                              "springDamping" : 5.0,
+                              "springStiffness" : 50.0,
+                              "bounceBounciness" : 0.45
+                            }
+                          
+                          }
+                        }
+                    ],
+                    "start" : 3159,
+                    "duration" : 66,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 66,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-text-attributes" : "[{\"name\":\"fontSize\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":80,\"valueType\":\"double\"},{\"name\":\"fontName\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":\"Segoe UI Semibold\",\"valueType\":\"string\"},{\"name\":\"fontWeight\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":400,\"valueType\":\"int\"},{\"name\":\"underline\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"kerning\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":0,\"valueType\":\"double\"},{\"name\":\"strikethrough\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"fontItalic\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"fgColor\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":\"(47,59,68,255)\",\"valueType\":\"color\"}]",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 28,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-rectangle",
+                      "style" : "basic",
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 119.333333333334,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.890196078431372,
+                      "stroke-color-green" : 0.870588235294118,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.847058823529412,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -124.666666666685,
+                      "tail-y" : -4.6666666666672,
+                      "width" : 778.00000000017,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "http://gslb.ch/435",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"kerning","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"double"},{"name":"strikethrough","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":18,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontItalic","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":18,"rangeStart":0,"value":"Segoe UI Semibold","valueType":"string"},{"name":"fontSize","rangeEnd":18,"rangeStart":0,"value":80,"valueType":"double"},{"name":"underline","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":18,"rangeStart":0,"value":"(47,59,68,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -8.81605899394344e-12,
+                      "translation1" : -232.666666666588
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3225,
+                    "duration" : 143,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 143,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-text-attributes" : "[{\"name\":\"fontName\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":\"Segoe UI Semibold\",\"valueType\":\"string\"},{\"name\":\"strikethrough\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"fontWeight\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":400,\"valueType\":\"int\"},{\"name\":\"fontSize\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":80,\"valueType\":\"double\"},{\"name\":\"fgColor\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":\"(47,59,68,255)\",\"valueType\":\"color\"},{\"name\":\"fontItalic\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"underline\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"kerning\",\"rangeEnd\":18,\"rangeStart\":0,\"value\":0,\"valueType\":\"double\"}]",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 29,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-rectangle",
+                      "style" : "basic",
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 119.333333333334,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.890196078431372,
+                      "stroke-color-green" : 0.870588235294118,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.847058823529412,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -124.666666666685,
+                      "tail-y" : -4.6666666666672,
+                      "width" : 778.00000000017,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "App Service",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"underline","rangeEnd":11,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":11,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":11,"rangeStart":0,"value":"Segoe UI Semibold","valueType":"string"},{"name":"fontWeight","rangeEnd":11,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fgColor","rangeEnd":11,"rangeStart":0,"value":"(47,59,68,255)","valueType":"color"},{"name":"kerning","rangeEnd":11,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontItalic","rangeEnd":11,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":11,"rangeStart":0,"value":80,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -8.81605899394344e-12,
+                      "translation1" : -232.666666666588
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3368,
+                    "duration" : 70,
+                    "mediaStart" : -16,
+                    "mediaDuration" : 70,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 7,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 26
+                  },
+                  {
+                    "name" : "PageRoll",
+                    "duration" : 15,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 28,
+                    "rightMedia" : 29
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 10,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 29
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 30,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 30,
+                    "attributes" : {
+                      "ident" : "AppService"
+                    },
+                    "parameters" : {
+                      "translation0" : -2.42614817125286e-10,
+                      "translation1" : -308.000000000033,
+                      "scale0" : 0.482468443197843,
+                      "scale1" : 0.482468443197843
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 303,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 0.757363253856942,
+                      "default-scale1" : 0.757363253856942,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 31,
+                    "_type" : "IMFile",
+                    "src" : 14,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "Twitter"
+                    },
+                    "parameters" : {
+                      "translation0" : -4.34985381048136e-11,
+                      "translation1" : -418.551473462027,
+                      "scale0" : 0.690455717970875,
+                      "scale1" : 0.690455717970875
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3288,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 0.928632846087704,
+                      "default-scale1" : 0.928632846087704,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 15,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 30
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 7,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 30
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 15,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 31
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 10,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 31
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 39,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\lbugnion\\AppData\\Local\\TechSmith\\Camtasia Studio\\19.0\\Auto-Saves\\20200420 App Service Take 025011fb6.autosave.tscproj",
+    "CanvasZoom" : 100,
+    "Date" : "2020-04-21 11:22:43 AM",
+    "Fit" : 1,
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "MP4 only (up to 1080p)",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "20200420 App Service Take 02",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}
