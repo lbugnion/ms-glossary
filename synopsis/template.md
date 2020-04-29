@@ -6,23 +6,23 @@
 
 > Enter your email address here
 
-## Pronunciation
+## Phonetics
 
 https://tophonetics.com/
 
 > Add an image of the phonetics for the word or the expression.
-> [See the notes](template-notes.md#phonetics)
+> [See the notes](../instructions/synopsis-template-notes.md#phonetics)
 
 ![Phonetics image](images/serverless-phonetics.png)
 
 ## Topics
 
-> TODO
+> A list of topics you want to treat in this video.
 
 ## Keywords:
 
 > List of keywords or keyphrases, comma separated.
-> [See the notes](template-notes.md#keywords)
+> [See the notes](../instructions/synopsis-template-notes.md#keywords)
 
 > For example
 
@@ -31,14 +31,14 @@ AAD, Active Directory, Authentication, Identity
 ## Demos
 
 > Quick list of the demos you want to show.
-> [See the notes](template-notes.md#demos)
+> [See the notes](../instructions/synopsis-template-notes.md#demos)
 
 - Short description of the demo.
 
 ## Links to docs
 
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-> [See the notes](template-notes.md#docs)
+> [See the notes](../instructions/synopsis-template-notes.md#docs)
 
 >For example:
 
@@ -47,7 +47,7 @@ AAD, Active Directory, Authentication, Identity
 ## Links to Learn
 
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-> [See the notes](template-notes.md#learn)
+> [See the notes](../instructions/synopsis-template-notes.md#learn)
 
 >For example:
 
@@ -57,4 +57,4 @@ AAD, Active Directory, Authentication, Identity
 ## Script
 
 > A transcript of what you are planning to say on camera, including demos etc. 
-> [See the notes](template-notes.md#script)
+> [See the notes](../instructions/synopsis-template-notes.md#script)

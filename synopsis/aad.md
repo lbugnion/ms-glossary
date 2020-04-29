@@ -4,7 +4,7 @@
 
 LBugnion@Microsoft.com
 
-## Pronunciation
+## Phonetics
 
 eɪ-eɪ-diː
 

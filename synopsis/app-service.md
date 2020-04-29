@@ -4,7 +4,7 @@
 
 LBugnion@Microsoft.com
 
-## Pronunciation
+## Phonetics
 
 ![Phonetics image](images/app-service/AppService.png)
 
