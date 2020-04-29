@@ -4,6 +4,8 @@
 
 LBugnion@Microsoft.com
 
+> [This topic was published here](http://azurewordsoftheday.cloud/topic/app-service/app-service).
+
 ## Phonetics
 
 ![Phonetics image](images/app-service/AppService.png)

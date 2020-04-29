@@ -1,4 +1,5 @@
 > YouTube: CODE
+
 > Keywords: Cosmos DB, 
 
 # [Cosmos DB](/topic/cosmos-db/cosmos-db)

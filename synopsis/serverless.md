@@ -4,6 +4,8 @@
 
 LBugnion@Microsoft.com
 
+> [This topic was published here](http://azurewordsoftheday.cloud/topic/serverless/serverless).
+
 ## Phonetics
 
 ˈsɜːvəlɛs
