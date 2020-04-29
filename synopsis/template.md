@@ -13,7 +13,11 @@ https://tophonetics.com/
 > Add an image of the phonetics for the word or the expression.
 > [See the notes](template-notes.md#phonetics)
 
-![Phonetics image, see notes below](images/serverless-phonetics.png)
+![Phonetics image](images/serverless-phonetics.png)
+
+## Topics
+
+> TODO
 
 ## Keywords:
 

@@ -1,7 +1,10 @@
 # Synopsis: AAD
 
+## Submitted by
+
+LBugnion@Microsoft.com
+
 ## Pronunciation
-https://tophonetics.com/
 
 eɪ-eɪ-diː
 
@@ -26,6 +29,10 @@ dəˈrɛktəri
 - Editions
 - Integration in MS Cloud, MS 365, PaaS, Windows 10.
 - Using MFA.
+
+## Keywords:
+
+AAD, Active Directory, Authorization, Authentication, Identity
 
 ## Demos 
 

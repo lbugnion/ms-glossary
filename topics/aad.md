@@ -14,8 +14,8 @@
 
 ### Microsoft Learn
 
-- [What is Azure Active Directory?](http://gslb.ch/450) (*learning path*)
-- [Secure your identities by using Azure Active Directory](http://gslb.ch/451) (*module*)
+- [What is Azure Active Directory?](http://gslb.ch/450) *(learning path)*
+- [Secure your identities by using Azure Active Directory](http://gslb.ch/451) *(module)*
 
 ## Transcript
 
