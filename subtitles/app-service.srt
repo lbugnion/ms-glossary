@@ -1,0 +1,168 @@
+﻿1
+00:00:00,659 --> 00:00:03,357
+Hello and welcome to
+Microsoft Azure Words of the Day
+
+2
+00:00:03,382 --> 00:00:06,340
+this is the show that
+teaches you Azure vocabulary!
+
+3
+00:00:07,244 --> 00:00:10,394
+Today's words of the day are: App Service
+
+4
+00:00:13,506 --> 00:00:17,704
+An App Service is a web server
+running as a service on Azure.
+
+5
+00:00:17,792 --> 00:00:22,361
+So you can run web based applications,
+that means HTTP based applications
+
+6
+00:00:22,386 --> 00:00:26,450
+for example a mobile backend,
+a website, a web API etc.
+
+7
+00:00:26,610 --> 00:00:28,927
+The really cool thing is that
+you can choose Windows
+
+8
+00:00:28,952 --> 00:00:31,793
+or Linux as your operating
+system, so you have a choice.
+
+9
+00:00:31,961 --> 00:00:35,453
+And you can deploy your code,
+either in a Docker container
+
+10
+00:00:35,548 --> 00:00:38,111
+or directly from a
+Github repository,
+
+11
+00:00:38,136 --> 00:00:42,018
+other repositories or from a
+continuous deployment solution.
+
+12
+00:00:42,125 --> 00:00:45,313
+Around App Services,
+you can also configure a lot of features
+
+13
+00:00:45,338 --> 00:00:47,752
+for example different
+deployment solutions,
+
+14
+00:00:47,918 --> 00:00:50,013
+Authorization and
+Authentication,
+
+15
+00:00:50,038 --> 00:00:53,873
+Identity, Backups,
+Custom domains,
+
+16
+00:00:53,945 --> 00:00:56,921
+TLS and SSL to enable
+HTTPS,
+
+17
+00:00:57,112 --> 00:00:59,928
+you can also automatically
+scale up and scale down
+
+18
+00:00:59,953 --> 00:01:03,196
+for example to respond to a
+lot of demand very fast.
+
+19
+00:01:03,444 --> 00:01:05,293
+Let's check the application
+
+20
+00:01:05,318 --> 00:01:08,056
+now this here is an
+ASP.NET Core application
+
+21
+00:01:08,081 --> 00:01:11,969
+running a React.JS front end,
+but App Services also support
+
+22
+00:01:11,994 --> 00:01:18,148
+classic .NET, Java,
+Node.js, Ruby, Python, PHP,
+
+23
+00:01:18,173 --> 00:01:20,364
+so you have a choice
+for your framework.
+
+24
+00:01:20,514 --> 00:01:24,205
+In the Azure portal you can check
+the health of your app service,
+
+25
+00:01:24,230 --> 00:01:28,586
+and there is also Application Insights
+which is a very rich monitoring solution.
+
+26
+00:01:28,912 --> 00:01:32,547
+If I scroll down further we can
+see more monitoring solutions,
+
+27
+00:01:32,572 --> 00:01:35,278
+for example the Log Stream
+which allows me to see
+
+28
+00:01:35,303 --> 00:01:38,395
+what is happening in my
+application in real time
+
+29
+00:01:38,462 --> 00:01:41,415
+That's quite handy to avoid
+having to download the logs.
+
+30
+00:01:41,588 --> 00:01:44,008
+App Services have a lot of
+additional functionalities,
+
+31
+00:01:44,033 --> 00:01:46,262
+so don't forget to
+check the links here
+
+32
+00:01:46,287 --> 00:01:47,914
+in order to know
+more about that.
+
+33
+00:01:48,041 --> 00:01:51,295
+Thank you so much for watching
+Microsoft Azure Words of the Day
+
+34
+00:01:51,334 --> 00:01:54,198
+Today's words of the
+day were: App Service.
+
