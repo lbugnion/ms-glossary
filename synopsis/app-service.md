@@ -8,7 +8,7 @@ LBugnion@Microsoft.com
 
 ## Phonetics
 
-![Phonetics image](images/app-service/AppService.png)
+![Phonetics image](images/app-service/app-service.png)
 
 ## Keywords:
 

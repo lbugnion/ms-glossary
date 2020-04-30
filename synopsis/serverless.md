@@ -10,7 +10,7 @@ LBugnion@Microsoft.com
 
 ˈsɜːvəlɛs
 
-![Phonetics image](images/serverless/serverless.png)
+![Phonetics image](images/serverless/Serverless.png)
 
 ## Keywords:
 
