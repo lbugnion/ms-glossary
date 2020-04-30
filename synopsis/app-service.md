@@ -1,4 +1,4 @@
-# Synopsis: App Service
+# Azure Words of the Day Synopsis: App Service
 
 ## Submitted by
 

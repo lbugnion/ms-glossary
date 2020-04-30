@@ -1,4 +1,4 @@
-# Synopsis: Serverless
+# Azure Words of the Day Synopsis: Serverless
 
 ## Submitted by
 

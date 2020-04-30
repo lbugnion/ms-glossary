@@ -1,4 +1,4 @@
-# Synopsis: WORD
+# Azure Words of the Day Synopsis: WORD
 
 > This is a template to help you create a synopsis. [You can see an example here](../synopsis/aad.md).
 

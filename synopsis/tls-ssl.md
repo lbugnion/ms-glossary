@@ -1,4 +1,4 @@
-# Synopsis: TLS / SSL
+# Azure Words of the Day Synopsis: TLS / SSL
 
 ## Submitted by
 

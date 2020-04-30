@@ -1,4 +1,4 @@
-# Synopsis: AAD
+# Azure Words of the Day Synopsis: AAD
 
 ## Submitted by
 
