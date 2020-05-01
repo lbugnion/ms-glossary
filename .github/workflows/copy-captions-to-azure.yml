@@ -1,0 +1,25 @@
+name: Upload captions To Azure Blob Storage
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
+        with:
+          url: https://notificationsendpoint.azurewebsites.net/api/send
+          method: post
+          headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
+          data:  '{	"title": "GitHub action started", "body": "Copying the captions", "channel": "WordsOfTheDay" }'
+  upload-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+        with:
+          source_dir: 'captions'
+          container_name: 'captions'
+          connection_string: ${{ secrets.StorageConnectionString }}
