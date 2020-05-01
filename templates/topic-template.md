@@ -8,7 +8,7 @@
 
 ## Links
 
-?WT.mc_id=wordsoftheday-video-lbugnion
+> Use the following tracking for your links: ?WT.mc_id=wordsoftheday-video-AUTHOR
 
 ### Documentation
 

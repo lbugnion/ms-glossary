@@ -26,7 +26,7 @@
 
 Hello and welcome to [Microsoft Azure Words of the Day](/), this is the show that teaches you the Azure vocabulary!
 
-Today's word is: Serverless
+Today's word of the day is: Serverless
 
 Serverless means that your code is running on a server, but you don't have to worry about that server. It is abstracted. On Microsoft Azure, there are a few solutions you can use to run code in a serverless manner, for example Azure Functions, Logic Apps, SignalR as a service, etc etc
 

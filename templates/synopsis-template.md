@@ -13,7 +13,7 @@ https://tophonetics.com/
 > Add an image of the phonetics for the word or the expression.
 > [See the notes](../instructions/synopsis-template-notes.md#phonetics)
 
-![Phonetics image](images/serverless-phonetics.png)
+![Phonetics image](images/Serverless.png)
 
 ## Topics
 
