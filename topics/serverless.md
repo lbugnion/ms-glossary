@@ -6,7 +6,9 @@
 
 # [Serverless](/topic/serverless/serverless)
 
-<!--YOUTUBEEMBED -->
+<!-- YOUTUBEEMBED -->
+
+[*(Download the video and captions)*](#download)
 
 ## Links
 
@@ -21,6 +23,18 @@
 - [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](http://gslb.ch/442) (*module*)
 - [Build Serverless APIs with Azure Functions](http://gslb.ch/443) (*module*)
 - [Build automated workflows to integrate data and apps with Azure Logic Apps](http://gslb.ch/444) (*learning path*)
+
+<a id="download"></a>
+
+## Download
+
+[You can download this video here](<!-- DOWNLOAD -->).
+
+There are also captions for the following language(s):
+
+<!-- DOWNLOAD-CAPTIONS -->
+
+> Learn about [downloading and showing captions here](/captions).
 
 ## Transcript
 

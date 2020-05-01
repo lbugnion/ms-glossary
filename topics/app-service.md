@@ -6,7 +6,9 @@
 
 # [App Service](/topic/app-service/app-service)
 
-<!--YOUTUBEEMBED -->
+<!-- YOUTUBEEMBED -->
+
+[*(Download the video and captions)*](#download)
 
 ## Links
 
@@ -20,6 +22,18 @@
 - [Deploy a website to Azure with Azure App Service](http://gslb.ch/454) *(learning path)*
 - [Capture Web Application Logs with App Service Diagnostics Logging](http://gslb.ch/455) *(module)*
 - [Create and publish a web application with Azure App Service and Visual Studio Code](http://gslb.ch/456) *(module)*
+
+<a id="download"></a>
+
+## Download
+
+[You can download this video here](<!-- DOWNLOAD -->).
+
+There are also captions for the following language(s):
+
+<!-- DOWNLOAD-CAPTIONS -->
+
+> Learn about [downloading and showing captions here](/captions).
 
 ## Transcript
 

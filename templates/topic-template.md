@@ -4,7 +4,9 @@
 
 [WORD](/topic/WORD)
 
-<!--YOUTUBEEMBED -->
+<!-- YOUTUBEEMBED -->
+
+[*(Download the video and captions)*](#download)
 
 ## Links
 
@@ -18,6 +20,18 @@
 
 - [TITLE](LINK) (*learning path*)
 - [TITLE](LINK) (*module*)
+
+<a id="download"></a>
+
+## Download
+
+[You can download this video here](<!-- DOWNLOAD -->).
+
+There are also captions for the following language(s):
+
+<!-- DOWNLOAD-CAPTIONS -->
+
+> Learn about [downloading and showing captions here](/captions).
 
 ## Transcript
 

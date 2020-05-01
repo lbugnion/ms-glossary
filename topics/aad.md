@@ -6,7 +6,9 @@
 
 # [AAD](/topic/aad/aad)
 
-<!--YOUTUBEEMBED -->
+<!-- YOUTUBEEMBED -->
+
+[*(Download the video and captions)*](#download)
 
 ## Links
 
@@ -19,6 +21,18 @@
 
 - [What is Azure Active Directory?](http://gslb.ch/450) *(learning path)*
 - [Secure your identities by using Azure Active Directory](http://gslb.ch/451) *(module)*
+
+<a id="download"></a>
+
+## Download
+
+[You can download this video here](<!-- DOWNLOAD -->).
+
+There are also captions for the following language(s):
+
+<!-- DOWNLOAD-CAPTIONS -->
+
+> Learn about [downloading and showing captions here](/captions).
 
 ## Transcript
 
