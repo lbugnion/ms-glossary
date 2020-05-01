@@ -23,4 +23,4 @@ jobs:
           url: https://notificationsendpoint.azurewebsites.net/api/send
           method: post
           headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
-          data:  '{	"title": "Captions copies", "body": "Captions were copied to Azure", "channel": "WordsOfTheDay" }'
+          data:  '{	"title": "Captions copied", "body": "Captions were copied to Azure", "channel": "WordsOfTheDay" }'
