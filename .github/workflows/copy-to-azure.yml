@@ -12,7 +12,7 @@ jobs:
       - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
         with:
           source_dir: 'topics'
-          container_name: 'markdown'
+          container_name: 'topics-upload'
           connection_string: ${{ secrets.StorageConnectionString }}
   notify:
     runs-on: ubuntu-latest
