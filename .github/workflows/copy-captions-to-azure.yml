@@ -5,8 +5,18 @@ on:
       - master
 
 jobs:
+  notify-before:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
+        with:
+          url: https://notificationsendpoint.azurewebsites.net/api/send
+          method: post
+          headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
+          data:  '{	"title": "Starting captions copy", "body": "Captions are being copied to Azure", "channel": "WordsOfTheDay" }'
   upload-captions:
     runs-on: ubuntu-latest
+    needs: notify-before
     steps:
       - uses: actions/checkout@master
       - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
@@ -14,7 +24,7 @@ jobs:
           source_dir: 'captions'
           container_name: 'captions'
           connection_string: ${{ secrets.StorageConnectionString }}
-  notify:
+  notify-after:
     runs-on: ubuntu-latest
     needs: upload-captions
     steps:
@@ -23,4 +33,4 @@ jobs:
           url: https://notificationsendpoint.azurewebsites.net/api/send
           method: post
           headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
-          data:  '{	"title": "Captions copied", "body": "Captions were copied to Azure", "channel": "WordsOfTheDay" }'
+          data:  '{	"title": "Captions copied", "body": "Captions copy to Azure is done", "channel": "WordsOfTheDay" }'
