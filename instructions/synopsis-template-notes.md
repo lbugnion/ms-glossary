@@ -26,7 +26,9 @@ The goal of showing a phonetic transcription of the word is mostly to create a f
 ![phonetics](images/Phonetics.png)
 
 > *Try to create an image close to this one for consistency*
+
 > *This image uses the Calibri font at 192 pt*
+
 > *[There is a template for Paint.NET here](../templates/Phonetics.pdn)*
 
 8. Save the image in the [synopsis/images](../synopsis/images/) folder.

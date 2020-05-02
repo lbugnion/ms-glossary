@@ -13,7 +13,9 @@ https://tophonetics.com/
 > Add an image of the phonetics for the word or the expression.
 > [See the notes](../instructions/synopsis-template-notes.md#phonetics)
 
-![Phonetics image](images/Serverless.png)
+wɜrd
+
+![Phonetics image](images/WORD/Phonetics.png)
 
 ## Topics
 
@@ -58,3 +60,11 @@ AAD, Active Directory, Authentication, Identity
 
 > A transcript of what you are planning to say on camera, including demos etc. 
 > [See the notes](../instructions/synopsis-template-notes.md#script)
+
+Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
+
+Today's word of the day is: WORD
+Today's words of the day are: EXPRESSION
+Today's word of the day is an abbreviation: ABBREVIATION
+
+> For abbreviations, also mention the full expression in the intro and show phonetics too.
