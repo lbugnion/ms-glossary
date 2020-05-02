@@ -19,6 +19,8 @@
 
 ### Microsoft Learn
 
+- [Security, responsibility, and trust in Azure](http://gslb.ch/459) *(Module)*
+- [Fundamentals of network security](http://gslb.ch/460) *(Module)*
 - [What is Azure Active Directory?](http://gslb.ch/450) *(learning path)*
 - [Secure your identities by using Azure Active Directory](http://gslb.ch/451) *(module)*
 
