@@ -5,8 +5,18 @@ on:
       - master
 
 jobs:
+  notify-before:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
+        with:
+          url: https://notificationsendpoint.azurewebsites.net/api/send
+          method: post
+          headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
+          data:  '{	"title": "Markdown files copied", "body": "Markdown files were copied to the markdown folder", "channel": "WordsOfTheDay" }'
   upload-markdown:
     runs-on: ubuntu-latest
+    needs: notify-before
     steps:
       - uses: actions/checkout@master
       - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
@@ -14,7 +24,7 @@ jobs:
           source_dir: 'topics'
           container_name: 'topics-upload'
           connection_string: ${{ secrets.StorageConnectionString }}
-  notify:
+  notify-after:
     runs-on: ubuntu-latest
     needs: upload-markdown
     steps:
