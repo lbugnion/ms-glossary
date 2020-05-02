@@ -87,4 +87,4 @@ It is recommended to always require HTTPS on your web application. In Azure, you
 
 > Back on camera
 
-Security is a complex topic, and we definitely need more than two minutes to talk about it. That's why you should check the links here to learn more about this topic. Thank you so much for watching Microsoft Azure Words of the Day. Today's abbreviations of the day were" TLS / SSL.
+Security is a complex topic, and we definitely need more than two minutes to talk about it. That's why you should check the links here to learn more about this topic. Thank you so much for watching Microsoft Azure Words of the Day. Today's abbreviations of the day were: TLS / SSL.
