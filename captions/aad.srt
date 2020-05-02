@@ -1,0 +1,152 @@
+﻿1
+00:00:00,589 --> 00:00:03,413
+Hello and welcome to Microsoft
+Azure Words of the Day
+
+2
+00:00:03,438 --> 00:00:06,293
+the show that teaches
+you Azure vocabulary!
+
+3
+00:00:07,018 --> 00:00:11,168
+Today's word of the day
+is an abbreviation: AAD
+
+4
+00:00:13,884 --> 00:00:17,523
+AAD is short for Azure
+Active Directory.
+
+5
+00:00:17,623 --> 00:00:21,773
+It is a fundamental component of
+Azure and has to do with security,
+
+6
+00:00:21,798 --> 00:00:25,013
+more specifically identity
+and access management.
+
+7
+00:00:25,265 --> 00:00:30,764
+It's sometimes called IDaaS,
+or Identity as a service.
+
+8
+00:00:30,977 --> 00:00:34,911
+AAD has wide applications to
+identify and authorize people,
+
+9
+00:00:34,936 --> 00:00:38,787
+inside Azure of course but also
+inside your own organization.
+
+10
+00:00:39,084 --> 00:00:42,652
+It can also be used to manage
+the identity of your users
+
+11
+00:00:42,720 --> 00:00:45,114
+for third party
+cloud applications,
+
+12
+00:00:45,139 --> 00:00:48,387
+or even to manage the
+identity of your customers.
+
+13
+00:00:48,561 --> 00:00:50,840
+There are different
+editions of AAD,
+
+14
+00:00:50,865 --> 00:00:53,490
+Free, Basic and Premium.
+
+15
+00:00:53,697 --> 00:00:58,606
+Each edition has specific features, so
+make sure to check the documentation here.
+
+16
+00:00:58,631 --> 00:01:01,847
+You can integrate with
+AAD at multiple levels:
+
+17
+00:01:02,008 --> 00:01:03,686
+In the Microsoft cloud,
+
+18
+00:01:03,729 --> 00:01:08,615
+in Microsoft 365 or any of our
+Platform as a Service offerings.
+
+19
+00:01:08,772 --> 00:01:12,853
+In Windows 10 to join a
+device to an organization, etc.
+
+20
+00:01:13,497 --> 00:01:19,291
+It can also handle single
+sign-on, B2C, B2B and more.
+
+21
+00:01:19,516 --> 00:01:23,246
+It's easy to use multi-factor
+authentication with AAD.
+
+22
+00:01:23,402 --> 00:01:26,940
+For example by using the
+Microsoft Authenticator app,
+
+23
+00:01:27,062 --> 00:01:29,656
+this is how I can use my
+fingerprint to confirm
+
+24
+00:01:29,681 --> 00:01:32,140
+that I want to log into
+a Microsoft domain,
+
+25
+00:01:32,252 --> 00:01:34,112
+for example the Azure Portal.
+
+26
+00:01:34,529 --> 00:01:38,860
+Of course this also works for a wide
+range of sites and applications.
+
+27
+00:01:39,130 --> 00:01:42,214
+Azure Active Directory has
+a lot of great features
+
+28
+00:01:42,268 --> 00:01:46,577
+and it makes setting up identity services
+much easier than it used to be.
+
+29
+00:01:46,611 --> 00:01:49,930
+So make sure to check all the
+links we assembled for you here!
+
+30
+00:01:49,955 --> 00:01:53,602
+Thank you so much for watching
+Microsoft Azure Words of the Day.
+
+31
+00:01:53,627 --> 00:01:56,723
+Today's abbreviation of
+the day was: AAD.
+
