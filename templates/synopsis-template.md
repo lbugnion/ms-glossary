@@ -20,6 +20,7 @@ wɜrd
 ## Topics
 
 > A list of topics you want to treat in this video.
+> [See the notes](../instructions/synopsis-template-notes.md#topics)
 
 ## Keywords:
 

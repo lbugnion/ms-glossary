@@ -73,9 +73,29 @@ You can see a few examples of "demos" below.
 
 > Click on the animated GIF to see the video
 
-[![Demo 1: Logos on camera](images/2020-05-03_18-13-01.gif)](https://1drv.ms/v/s!As15SQCXjw37teRWYrgBM3QAHIdQgw?e=ota5F5)
+[![Demo 1: Showing logos on the camera](images/2020-05-03_18-13-01.gif)](https://1drv.ms/v/s!As15SQCXjw37teRWYrgBM3QAHIdQgw?e=ota5F5)
 
 *Demo 1: Showing logos on the camera*
+
+[![Demo 2: Using callouts to attract attention](images/2020-05-03_18-42-09.gif)](https://1drv.ms/v/s!As15SQCXjw37teRXL73xB-AQHmcRPQ?e=yUseNi)
+
+*Demo 2: Using callouts to attract attention*
+
+[![Demo 3: Showing logos on screen](images/2020-05-03_18-44-13.gif)](https://1drv.ms/v/s!As15SQCXjw37teRYjjxhty6h4rgVhA?e=cSDLf8)
+
+*Demo 4: Showing the Azure Portal*
+
+[![Demo 4: Showing the Azure portal](images/2020-05-03_18-45-43.gif)](https://1drv.ms/v/s!As15SQCXjw37teRZbCxB9mi9UByW0Q?e=peluUH)
+
+*Demo 4: Showing the Azure Portal*
+
+[![Demo 5: Fun with fingers](images/2020-05-03_18-47-33.gif)](https://1drv.ms/v/s!As15SQCXjw37teRaw1lySZPGLg2uPg?e=yJcJbS)
+
+*Demo 5: Fun with fingers*
+
+[![Demo 6: Animating screenshots](images/2020-05-03_18-48-13.gif)](https://1drv.ms/v/s!As15SQCXjw37teRbfeNQjBKMZ4hHgQ?e=ZASIPw)
+
+*Demo 6: Animating screenshots*
 
 <a id="docs"></a>
 
