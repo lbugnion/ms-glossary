@@ -35,6 +35,12 @@ The goal of showing a phonetic transcription of the word is mostly to create a f
 
 9. Include the image in your synopsis markdown.
 
+<a id="topics"></a>
+
+## Topics
+
+This section is intended as a note pad where you can quickly jot down some ideas about the video. For example when doing some research online, this is a convenient place to create a bullet points list, and to consult it later when you create the script.
+
 <a id="keywords"></a>
 
 ## Keywords or key expressions
@@ -59,7 +65,13 @@ then after processing, the text becomes
 
 ## Demos
 
-> TODO Demos
+We try to illustrate each topic with some small "demos" (note the quote signs here...). By this we mean that the demos are not necessarily aimed at showing a technical solution, but rather to illustrate the point you are making. The demos should be short (a few seconds), for example a quick action in the Azure portal, a navigation through some items, some screenshots, etc.
+
+For "on camera" scenes, you can also add some logos in overlay to make things more interesting.
+
+You can see a few examples of "demos" below.
+
+<iframe src="https://onedrive.live.com/embed?cid=FB0D8F97004979CD&resid=FB0D8F97004979CD%21881238&authkey=APonPYOwwg17mI8" width="320" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <a id="docs"></a>
 
@@ -78,3 +90,8 @@ then after processing, the text becomes
 ## Script
 
 > TODO Script
+
+- Add production notes as a
+
+> blockquote
+
