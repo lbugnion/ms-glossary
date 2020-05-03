@@ -71,7 +71,11 @@ For "on camera" scenes, you can also add some logos in overlay to make things mo
 
 You can see a few examples of "demos" below.
 
-<iframe src="https://onedrive.live.com/embed?cid=FB0D8F97004979CD&resid=FB0D8F97004979CD%21881238&authkey=APonPYOwwg17mI8" width="320" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
+> Click on the animated GIF to see the video
+
+[![Demo 1: Logos on camera](images/2020-05-03_18-13-01.gif)](https://1drv.ms/v/s!As15SQCXjw37teRWYrgBM3QAHIdQgw?e=ota5F5)
+
+*Demo 1: Showing logos on the camera*
 
 <a id="docs"></a>
 
