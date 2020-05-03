@@ -43,9 +43,17 @@ Hello and welcome to Microsoft Azure Words of the Day,
 the show that teaches you the Azure vocabulary!
 Today's word is: Serverless
 
-> ~ 55 seconds on camera
+> ~ 30 seconds on camera
 
-Serverless means that your application runs on a server, but you don't have to worry about that server. It is abstracted. On Microsoft, there are a few solutions you can use to run code in a serverless manner, for example Azure Functions, or Logic Apps.
+Serverless means that your code is running on a server, but you don't have to worry about that server. It is abstracted. As a developer, you just have to worry about writing the code, testing it and deploying it. Several features are automated: Starting the application, listening to events to start the execution of the code, scaling up and down when the demand fluctuates, etc. It removes much of the infrastructure worries from the equation.
+
+> Show the pricing calculator for functions
+
+Typically serverless solutions are paid by the execution time, in a consumption model. This is different from a subscription model where you pay an amount every month or every year. Most cloud providers offer free tiers with which you can run a serverless application for a certain amount of time, or a certain amount of executions, for free.
+
+> Logos on the screen
+
+On Microsoft Azure, there are a few solutions you can use to run code in a serverless manner, for example Azure Functions, Logic Apps, SignalR as a service, etc etc
 
 > Portal triggers
 
@@ -55,7 +63,7 @@ In an Azure Function, you can start the execution of your code by observing some
 
 Azure Functions also have bindings, which allow them to input and output values from and to different sources. Don't forget to check the documentation here to get more information about that!
 
-> logic app designer then cut to connectors
+> Logic app designer then cut to connectors
 
 A Logic App also starts its execution when an event happens. There are many sources of events, for example when you receive an email in Outlook or Gmail, when a document is modified in Office 365, and many many many more.
 
