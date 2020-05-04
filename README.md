@@ -8,7 +8,11 @@ Each word, expression or abbreviation will be illustrated by a short video expla
 
 ## We welcome your contributions!!
 
-> TODO Contribution instructions
+You can contribute to this site in two areas:
+
+### Submitting a translation for subtitles
+
+
 
 - Subtitles
 - Synopsis
