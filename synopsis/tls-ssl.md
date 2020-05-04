@@ -73,13 +73,19 @@ When TLS or SSL are setup on your web server, this enables you to serve web cont
 
 In the Azure portal, you can easily buy or import a certificate to secure your App Service. Note however that web applications on Azure are secure by default. This is why you see HTTPS in the location bar when you navigate to any website on anything.azurewebsites.net, which is the default address for App Services. The certificate and the HTTPS settings are needed when you want to use a custom domain, for example TailwindTraders.com.
 
-> Show http://tailwindtraders.com
+> Show certificate info in Edge
+
+When navigating to an HTTPS site, you can see more information about the certificate here. This shows a valid certificate used on a custom domain, it's safe to browse it.
+
+> Show invalid certificate site
+
+On the other hand, if you see this kind of information, you need to be careful, something is wrong with the certificate!
+
+> Show http://galasoft.ch
 
 If you navigate to a site using a custom domain, you can sometimes choose between HTTP or HTTPS. Here we see a note in the web browser indicating that this connection is not secure.
 
-> Show https://tailwindtraders.com
-
-On the other hand, if I type HTTPS, we see the small lock indicating that the connection is encrypted.
+> Show https://galasoft.ch
 
 > Back to portal, show the redirect switch
 
