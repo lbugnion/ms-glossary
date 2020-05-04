@@ -1,6 +1,6 @@
 name: Upload To Azure Blob Storage
 on:
-  create:
+  push:
     branches:
       - master
 
@@ -13,7 +13,7 @@ jobs:
           url: https://notificationsendpoint.azurewebsites.net/api/send
           method: post
           headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
-          data:  '{	"title": "Copying Markdown and caption files copied", "body": "Ready to copy Markdown and caption files to Azure", "channel": "WordsOfTheDay" }'
+          data:  '{	"title": "Copying Markdown and caption files", "body": "Ready to copy Markdown and caption files to Azure", "channel": "WordsOfTheDay" }'
   upload-captions:
     runs-on: ubuntu-latest
     needs: notify-before
