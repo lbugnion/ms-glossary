@@ -53,11 +53,11 @@ Typically serverless solutions are paid by the execution time, in a consumption 
 
 > Logos on the screen
 
-On Microsoft Azure, there are a few solutions you can use to run code in a serverless manner, for example Azure Functions, Logic Apps, SignalR as a service, etc etc
+On Microsoft Azure, there are quite a few solutions you can use to run code in a serverless manner, for example Azure Functions, Logic Apps, SignalR as a service, etc etc
 
 > Portal triggers
 
-In an Azure Function, you can start the execution of your code by observing some triggers. There are a number of trigger types, for example HTTP triggers to respond to an HTTP request; timer trigger to execute code on a schedule; event grid triggers to answer to events happening in another Azure service; Cosmos DB trigger to execute code when something changes in a database; and many more.
+Here is one example of serverless application on Azure: in an Azure Function, you start the execution of your code by observing some triggers. There are a number of trigger types, for example HTTP triggers to respond to an HTTP request; timer trigger to execute code on a schedule; event grid triggers to answer to events happening in another Azure service; Cosmos DB trigger to execute code when something changes in a database; and many more.
 
 > Documentation bindings
 
@@ -65,7 +65,7 @@ Azure Functions also have bindings, which allow them to input and output values 
 
 > Logic app designer then cut to connectors
 
-A Logic App also starts its execution when an event happens. There are many sources of events, for example when you receive an email in Outlook or Gmail, when a document is modified in Office 365, and many many many more.
+Or another example of serverless application: A Logic App also starts its execution when an event happens. There are many sources of events, for example when you receive an email in Outlook or Gmail, when a document is modified in Office 365, and many many many more.
 
 > Demo scale up
 
