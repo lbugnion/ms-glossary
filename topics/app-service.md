@@ -1,8 +1,6 @@
-> YouTube: WyipNLrz2G0
+> YouTube: rqG_exxFq_c
 
 > Keywords: App Service, Web Server, ASP.NET, Web Api
-
-> [This topic was published here](http://azurewordsoftheday.cloud/topic/app-service/app-service).
 
 # [App Service](/topic/app-service/app-service)
 
