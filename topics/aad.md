@@ -1,8 +1,6 @@
-> YouTube: fRfWhMg3inU
+> YouTube: WDieqEyq4uA
 
 > Keywords: AAD, Active Directory, Authorization, Authentication, Identity
-
-> [This topic was published here](http://azurewordsoftheday.cloud/topic/aad/aad).
 
 # [AAD](/topic/aad/aad)
 
