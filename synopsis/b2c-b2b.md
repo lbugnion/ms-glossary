@@ -6,47 +6,36 @@ LBugnion@Microsoft.com
 
 ## Phonetics
 
-https://tophonetics.com/
-
-> Add an image of the phonetics for the word or the expression.
-> [See the notes](../instructions/synopsis-template-notes.md#phonetics)
-
 bi2si ænd bi2bi
 
 ˈbɪznəs tu kənˈsumər
 
 ˈbɪznəs tu ˈbɪznəs
 
-![Phonetics image](images/WORD/Phonetics.png)
+![Phonetics image](images\b2c-b2b\Phonetics.png)
+
+![Phonetics image](images\b2c-b2b\Business-To-Consumer.png)
+
+![Phonetics image](images\b2c-b2b\Business-To-Business.png)
 
 ## Topics
 
 - Terms used in marketing.
+- Also used for authentication
 
 ## Keywords:
 
-> List of keywords or keyphrases, comma separated.
-> [See the notes](../instructions/synopsis-template-notes.md#keywords)
-
-> For example
-
-AAD, Active Directory, Authentication, Identity
+B2C and B2B, B2C, B2B, Business to Consumer, Business to Business
 
 ## Demos
 
-> Quick list of the demos you want to show.
-> [See the notes](../instructions/synopsis-template-notes.md#demos)
-
-- Short description of the demo.
+- Screenshot of https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview
+- Screenshots of https://docs.microsoft.com/en-us/azure/active-directory/b2b/what-is-b2b
 
 ## Links to docs
 
-> As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-> [See the notes](../instructions/synopsis-template-notes.md#docs)
-
->For example:
-
-- [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+- https://docs.microsoft.com/en-us/azure/active-directory/b2b/
+- https://docs.microsoft.com/en-us/azure/active-directory-b2c/
 
 ## Links to Learn
 
@@ -60,13 +49,32 @@ AAD, Active Directory, Authentication, Identity
 
 ## Script
 
-> A transcript of what you are planning to say on camera, including demos etc. 
-> [See the notes](../instructions/synopsis-template-notes.md#script)
-
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
-Today's word of the day is: WORD
-Today's words of the day are: EXPRESSION
-Today's word of the day is an abbreviation: ABBREVIATION
+Today's words of the day are abbreviation: B2C and B2B
 
-> For abbreviations, also mention the full expression in the intro and show phonetics too.
+> Show full word on screen
+
+B2C is short for Business to Consumer.
+
+> Show full word on screen
+
+B2B on the other hand means Business to Business.
+
+> On camera
+
+These abbreviations are most often used in marketing. They describe some kind of retail operations:
+
+> TODO Find illustration
+
+In B2C, business to consumer, the organization is selling goods to consumers directly. An example is a shop at your local mall, where you can go and purchase items directly.
+
+> TODO Find illustration
+
+On the other hand, B2B, business to business describes an organization who sells items to another organization, which then in turn can sell to other organizations, or to consumers. A good example is TODO FIND EXAMPLE
+
+> TODO
+
+So why do we describe these terms in a show about Azure? Well these are also used in the authentication process. 
+
+In Azure Active Directory, 

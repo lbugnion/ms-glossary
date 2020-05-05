@@ -50,7 +50,7 @@ AAD has wide applications to identify and authorize people, inside Azure of cour
 
 There are different editions of AAD, Free, Basic and Premium. Each edition has specific features, so make sure to check the documentation here.
 
-You can integrate with AAD at multiple levels: In the Microsoft cloud, in Microsoft 365 or any of our Platform as a Service offerings. In Windows 10 to join a device to an organization, etc. It can also handle single sign-on, B2C, B2B and more.
+You can integrate with AAD at multiple levels: In the Microsoft cloud, in Microsoft 365 or any of our Platform as a Service offerings. In Windows 10 to join a device to an organization, etc. It can also handle single sign-on, B2C and B2B, and more.
 
 It's easy to use multi-factor authentication with AAD. For example by using the Microsoft Authenticator app, this is how I can use my fingerprint to confirm that I want to log into a Microsoft domain, for example the Azure Portal. Of course this also works for a wide range of sites and applications.
 
