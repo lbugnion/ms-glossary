@@ -2,6 +2,10 @@
 
 > Keywords: AAD, Active Directory, Authorization, Authentication, Identity
 
+> Submitted by: LBugnion@Microsoft.com
+
+> Twitter: @LBugnion
+
 > [This topic was published here](http://gslb.ch/wod-aad).
 
 # [AAD](/topic/aad)

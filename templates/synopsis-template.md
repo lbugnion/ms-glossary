@@ -6,6 +6,8 @@
 
 > Enter your email address here
 
+> Enter your Twitter alias here
+
 ## Phonetics
 
 https://tophonetics.com/

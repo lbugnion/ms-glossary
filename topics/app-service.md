@@ -2,6 +2,10 @@
 
 > Keywords: App Service, Web Server, ASP.NET, Web Api
 
+> Submitted by: LBugnion@Microsoft.com
+
+> Twitter: @LBugnion
+
 > [This topic was published here](http://gslb.ch/wod-app-service).
 
 # [App Service](/topic/app-service)

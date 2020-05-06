@@ -2,6 +2,10 @@
 
 > Keywords: COMMA, SEPARATED, LIST
 
+> Submitted by: EMAIL
+
+> Twitter: TWITTERNAME
+
 [WORD](/topic/WORD)
 
 <!-- YOUTUBEEMBED -->

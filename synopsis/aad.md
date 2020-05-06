@@ -4,6 +4,8 @@
 
 LBugnion@Microsoft.com
 
+@LBugnion
+
 > [This topic was published here](http://azurewordsoftheday.cloud/topic/aad/aad).
 
 ## Phonetics
