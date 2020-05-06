@@ -12,22 +12,11 @@ You can contribute to this site in two areas:
 
 ### Submitting a translation for subtitles
 
-
-
-- Subtitles
-- Synopsis
-
-## In this repository
-
-### Subtitles
-
-This folder contains captions and subtitle files for the videos.
-
-> You can help us!! Are you fluent in another language than English? We can definitely use your help for translations! 
+You can help us!! Are you fluent in another language than English? We can definitely use your help for translations! 
 
 [Get started here](instructions/contributing-subtitles.md)
 
-### Synopsis
+### Submitting a synopsis for a new topic for Words of the Day
 
 This is where you can submit proposals for a new topic. You can also find other synopsis for topics already created, and inspire yourself for your own contributions!
 
@@ -35,12 +24,7 @@ This is where you can submit proposals for a new topic. You can also find other 
 
 > [Get started here](instructions/contributing-synopsis.md)
 
-### Templates
+## Submitting a topic for publication
 
-Various resources and templates to help you create a new topic. Their use is described in the instruction files.
+Once your Synopsis has been approved, and you have created a video and all supporting materials, the next step is to [Submit a topic](instructions\submitting-topic.md).
 
-### Topics
-
-This is where you go when your synopsis has been accepted and you created your video for a new topic. 
-
-> [Get started here](instructions/contributing-topics.md)

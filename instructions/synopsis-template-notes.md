@@ -8,6 +8,11 @@ The synopsis has two main goals:
 
 > Remember: the videos must be strictly under 2:20 so we can post them to Twitter. Aim for 2 minutes, keep them short and captivating! 
 
+## Getting started
+
+- [Copy the template here to your local drive](../templates/synopsis-template.md).
+- Start creating: There are notes below.
+
 <a id="phonetics"></a>
 
 ## Phonetics
