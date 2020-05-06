@@ -57,6 +57,10 @@ AAD, Active Directory, Authentication, Identity
 - [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications) (*learning path*)
 - [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/shift-nodejs-express-apis-serverless) (*module*)
 
+## Other Links (optional)
+
+> These can be other links to Microsoft properties or to other sites.
+
 ## Script
 
 > A transcript of what you are planning to say on camera, including demos etc. 

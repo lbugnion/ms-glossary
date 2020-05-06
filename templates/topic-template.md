@@ -10,7 +10,7 @@
 
 ## Links
 
-> Use the following tracking for your links: ?WT.mc_id=wordsoftheday-video-AUTHOR
+> Use the following tracking for your Microsoft links: ?WT.mc_id=wordsoftheday-video-AUTHOR
 
 ### Documentation
 
@@ -20,6 +20,10 @@
 
 - [TITLE](LINK) (*learning path*)
 - [TITLE](LINK) (*module*)
+
+### Other links
+
+- [TITLE](LINK)
 
 <a id="download"></a>
 
