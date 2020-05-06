@@ -2,7 +2,9 @@
 
 > Keywords: AAD, Active Directory, Authorization, Authentication, Identity
 
-# [AAD](/topic/aad/aad)
+> [This topic was published here](http://gslb.ch/wod-aad).
+
+# [AAD](/topic/aad)
 
 <!-- YOUTUBEEMBED -->
 
@@ -13,7 +15,7 @@
 ### Documentation
 
 - [What is Azure Active Directory?](http://gslb.ch/449)
-- [Microsoft Cloud Identity for Enterprise Architects (posters PDF)](http://gslb.ch/440)
+- [Microsoft Cloud Identity for Enterprise Architects (PDF posters)](http://gslb.ch/440)
 
 ### Microsoft Learn
 
@@ -53,3 +55,5 @@ You can integrate with AAD at multiple levels: In the Microsoft cloud, with Micr
 It's easy to use multi-factor authentication with AAD. For example by using the Microsoft Authenticator app, this is how I can use my fingerprint to confirm that I want to log into a Microsoft domain, for example the Azure Portal. Of course this also works for a wide range of sites and applications.
 
 Azure Active Directory has a lot of great features and it makes setting up identity services much easier than it used to be. So make sure to check all the links that we assembled for you here! Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: AAD.
+
+*Last modified: <!-- DATETIME -->*

@@ -2,9 +2,9 @@
 
 > Keywords: Serverless, Azure Function, Logic App, Trigger, Connector
 
-> [This topic was published here](http://azurewordsoftheday.cloud/topic/serverless/serverless).
+> [This topic was published here](http://gslb.ch/wod-serverless).
 
-# [Serverless](/topic/serverless/serverless)
+# [Serverless](/topic/serverless)
 
 <!-- YOUTUBEEMBED -->
 
@@ -23,6 +23,10 @@
 - [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](http://gslb.ch/442) (*module*)
 - [Build Serverless APIs with Azure Functions](http://gslb.ch/443) (*module*)
 - [Build automated workflows to integrate data and apps with Azure Logic Apps](http://gslb.ch/444) (*learning path*)
+
+### Other links
+
+- [Azure Pricing Calculator](http://gslb.ch/461)
 
 <a id="download"></a>
 
@@ -55,3 +59,5 @@ Or another example of serverless application: A Logic App also starts its execut
 One really nice feature of serverless is that your application will automatically scale up and down. Here we see how an Azure Function application is automatically scaling up to additional servers. This way you are covered, if a lot of people like your product, we will provide additional servers to cover the demand. And since you only pay for what you actually consume, serverless solutions end up being quite cost effective.
 
 There are more serverless solutions on Azure, so don't forget to check the links here in order to learn more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: Serverless.
+
+*Last modified: <!-- DATETIME -->*
