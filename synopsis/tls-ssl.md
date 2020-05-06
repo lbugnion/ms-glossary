@@ -4,6 +4,8 @@
 
 LBugnion@Microsoft.com
 
+@LBugnion
+
 ## Phonetics
 
 ti-ɛl-ɛs / ɛs-ɛs-ɛl
@@ -57,9 +59,11 @@ SSL is short for Secure Sockets Layer.
 
 > Camera 
 
-We often hear these two abbreviations put together, for example when someone says "you can setup TLS/SSL on the Azure Portal". SSL is a standard that enables secure, encrypted transmissions over the internet. It requires a certificate that you can purchase from various vendors. 
+We often hear these two abbreviations put together, for example when someone says "you can setup TLS/SSL on the Azure Portal".
 
-> TODO DEMO
+> SSL / TLS publication / deprecation
+
+SSL is a standard that enables secure, encrypted transmissions over the internet. It requires a certificate that you can purchase from various vendors. 
 
 TLS is similar to SSL but it is a newer, more modern version. It also relies on certificates, in fact when you purchase an SSL certificate, it is often already ready for TLS.
 
