@@ -42,14 +42,16 @@ Hello and welcome to [Microsoft Azure Words of the Day](/), this is the show tha
 
 Today's word of the day is: Serverless
 
-Serverless means that your code is running on a server, but you don't have to worry about that server. It is abstracted. On Microsoft Azure, there are a few solutions you can use to run code in a serverless manner, for example Azure Functions, Logic Apps, SignalR as a service, etc etc
+Serverless means that your code runs on a server, but you don't have to worry about that server. It is abstracted. As a developer, you can concentrate on writing the code, testing it and deploying it. Several features are automated: Starting the application, listening to events to start the execution of the code, scaling up and down when the demand fluctuates, etc. 
 
-In an Azure Function, you can start the execution of your code by observing some triggers. There are a number of trigger types, for example HTTP triggers to respond to an HTTP request; timer trigger to execute code on a schedule; event grid triggers to answer to events happening in another Azure service; Cosmos DB trigger to execute code when something changes in a database; and many more.
+Typically serverless solutions are paid by the execution time, in a consumption model. Most cloud providers offer free tiers with which you can run a serverless application for a certain amount of time, or a certain amount of executions, for free.
 
-Azure Functions also have bindings, which allow them to input and output values from and to different sources. Don't forget to check the documentation here to get more information about that!
+On Microsoft Azure, there are quite a few solutions that you can use to run your code in a serverless manner, for example Azure Functions, Logic Apps, SignalR as a service, etc etc
 
-A Logic App also starts its execution when an event happens. There are many sources of events, for example when you receive an email in Outlook or Gmail, when a document is modified in Office 365, and many many many more.
+Here is one example of serverless application on Azure: in an Azure Function, you start the execution of your code by observing some triggers. There are a number of trigger types, for example HTTP trigger to respond to an HTTP request; timer trigger to execute code on a schedule; event grid trigger to answer to events happening in another Azure service; Cosmos DB trigger to execute code when something changes in a database; and many more.
 
-One really nice feature of serverless is that your application will automatically scale up and down. Here we see how an Azure Function application is automatically scaling up to additional servers when a lot of requests arrive. This way you are covered, if a lot of people like your product, we will provide additional servers to cover the demand. And since you only pay for what you actually consume, serverless solutions end up being quite cost effective.
+Or another example of serverless application: A Logic App also starts its execution when an event happens. There are many sources of events, for example when you receive an email in Outlook or Gmail, when a document is modified in Office 365, and many many many more.
 
-There are more serverless services on Azure, so don't forget to check the links here to know more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: Serverless.
+One really nice feature of serverless is that your application will automatically scale up and down. Here we see how an Azure Function application is automatically scaling up to additional servers. This way you are covered, if a lot of people like your product, we will provide additional servers to cover the demand. And since you only pay for what you actually consume, serverless solutions end up being quite cost effective.
+
+There are more serverless solutions on Azure, so don't forget to check the links here in order to learn more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: Serverless.
