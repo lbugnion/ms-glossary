@@ -1,20 +1,18 @@
-> YouTube: CODE
+> YouTube: xJ_5BZoZ0mU
 
-> Keywords: COMMA, SEPARATED, LIST
+> Keywords: TLS, SSL, HTTPS, Encryption, Certificates, Cryptography, Transport Layer Security, Secure Sockets Layer
 
 > Submitted by: LBugnion@Microsoft.com
 
 > Twitter: @LBugnion
 
-[TLS and SSL](/topic/tls-ssl)
+# [TLS/SSL](/topic/tls-ssl)
 
 <!-- YOUTUBEEMBED -->
 
 [*(Download the video and captions)*](#download)
 
 ## Links
-
-> Use the following tracking for your links: ?WT.mc_id=wordsoftheday-video-AUTHOR
 
 ### Documentation
 
