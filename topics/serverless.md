@@ -2,6 +2,10 @@
 
 > Keywords: Azure Function, Logic App, Trigger, Connector
 
+> Submitted by: LBugnion@Microsoft.com
+
+> Twitter: @LBugnion
+
 > [This topic was published here](http://gslb.ch/wod-serverless).
 
 # [Serverless](/topic/serverless)
@@ -60,4 +64,4 @@ One really nice feature of serverless is that your application will automaticall
 
 There are more serverless solutions on Azure, so don't forget to check the links here in order to learn more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: Serverless.
 
-*Last modified: <!-- DATETIME -->*
+*Last modified: <!-- DATETIME --> by <!-- AUTHOR -->*

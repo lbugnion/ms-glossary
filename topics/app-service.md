@@ -2,6 +2,10 @@
 
 > Keywords: Web Server, ASP.NET, Node.JS, Web Api
 
+> Submitted by: LBugnion@Microsoft.com
+
+> Twitter: @LBugnion
+
 > [This topic was published here](http://gslb.ch/wod-app-service).
 
 # [App Service](/topic/app-service)
