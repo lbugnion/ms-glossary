@@ -1,3 +1,5 @@
+> Recording date: 20200505
+
 > YouTube: xJ_5BZoZ0mU
 
 > Keywords: TLS, SSL, HTTPS, Encryption, Certificates, Cryptography, Transport Layer Security, Secure Sockets Layer

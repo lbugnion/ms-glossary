@@ -1,4 +1,6 @@
-> YouTube: O3KuatPZjfs
+> Recording date: 20200505
+
+> YouTube: hmOkCl-8UZY
 
 > Keywords: Azure Function, Logic App, Trigger, Connector
 

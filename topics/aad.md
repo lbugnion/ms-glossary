@@ -1,4 +1,6 @@
-> YouTube: WDieqEyq4uA
+> Recording date: 20200505
+
+> YouTube: l9e-RGUAVy8
 
 > Keywords: Active Directory, Authorization, Authentication, Identity
 
