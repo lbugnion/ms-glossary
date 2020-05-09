@@ -1,6 +1,6 @@
 > YouTube: WDieqEyq4uA
 
-> Keywords: AAD, Active Directory, Authorization, Authentication, Identity
+> Keywords: Active Directory, Authorization, Authentication, Identity
 
 > [This topic was published here](http://gslb.ch/wod-aad).
 

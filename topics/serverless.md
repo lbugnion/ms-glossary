@@ -1,6 +1,6 @@
 > YouTube: O3KuatPZjfs
 
-> Keywords: Serverless, Azure Function, Logic App, Trigger, Connector
+> Keywords: Azure Function, Logic App, Trigger, Connector
 
 > [This topic was published here](http://gslb.ch/wod-serverless).
 

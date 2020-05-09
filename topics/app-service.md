@@ -1,6 +1,6 @@
 > YouTube: rqG_exxFq_c
 
-> Keywords: App Service, Web Server, ASP.NET, Web Api
+> Keywords: Web Server, ASP.NET, Node.JS, Web Api
 
 > [This topic was published here](http://gslb.ch/wod-app-service).
 
