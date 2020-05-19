@@ -1,8 +1,14 @@
 > Recording date: 20200505
 
+> Language: en / English
+
+> Captions: en / English
+
 > YouTube: l9e-RGUAVy8
 
-> Keywords: Active Directory, Authorization, Authentication, Identity
+> Keywords: AAD, Active Directory, Authorization, Authentication, Identity
+
+> Blurb: a service used to provide identity services, such as authentication and authorization.
 
 > Submitted by: LBugnion@Microsoft.com
 
@@ -10,11 +16,21 @@
 
 > [This topic was published here](http://gslb.ch/wod-aad).
 
-# [AAD](/topic/aad)
+# [Azure Active Directory AAD](/topic/en/aad)
 
 <!-- YOUTUBEEMBED -->
 
-[*(Download the video and captions)*](#download)
+###### [(Download the video and captions)](#download)
+
+## Languages
+
+<!-- OTHERLANGUAGES -->
+
+There are captions for the following language(s):
+
+<!-- DOWNLOAD-CAPTIONS -->
+
+> Learn about [downloading and showing captions here](/en/captions).
 
 ## Links
 
@@ -36,15 +52,9 @@
 
 [You can download this video here](<!-- DOWNLOAD -->).
 
-There are also captions for the following language(s):
-
-<!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/captions).
-
 ## Transcript
 
-Hello and welcome to [Microsoft Azure Words of the Day](/), this is the show that teaches you Azure vocabulary!
+Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
 
 Today's word of the day is an abbreviation: AAD
 

@@ -1,8 +1,14 @@
 > Recording date: 20200505
 
+> Language: en / English
+
+> Captions: en / English
+
 > YouTube: hmOkCl-8UZY
 
 > Keywords: Azure Function, Logic App, Trigger, Connector
+
+> Blurb: a way to run applications on a server without having to manage this server.
 
 > Submitted by: LBugnion@Microsoft.com
 
@@ -10,11 +16,21 @@
 
 > [This topic was published here](http://gslb.ch/wod-serverless).
 
-# [Serverless](/topic/serverless)
+# [Serverless](/topic/en/serverless)
 
 <!-- YOUTUBEEMBED -->
 
-[*(Download the video and captions)*](#download)
+###### [(Download the video and captions)](#download)
+
+## Languages
+
+<!-- OTHERLANGUAGES -->
+
+There are captions for the following language(s):
+
+<!-- DOWNLOAD-CAPTIONS -->
+
+> Learn about [downloading and showing captions here](/en/captions).
 
 ## Links
 
@@ -40,15 +56,9 @@
 
 [You can download this video here](<!-- DOWNLOAD -->).
 
-There are also captions for the following language(s):
-
-<!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/captions).
-
 ## Transcript
 
-Hello and welcome to [Microsoft Azure Words of the Day](/), this is the show that teaches you the Azure vocabulary!
+Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you the Azure vocabulary!
 
 Today's word of the day is: Serverless
 
@@ -66,4 +76,4 @@ One really nice feature of serverless is that your application will automaticall
 
 There are more serverless solutions on Azure, so don't forget to check the links here in order to learn more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: Serverless.
 
-*Last modified: <!-- DATETIME --> by <!-- AUTHOR -->*
+*Last modified: <!-- DATETIME -->*

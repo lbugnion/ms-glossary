@@ -1,8 +1,14 @@
 > Recording date: 20200505
 
+> Language: en / English
+
+> Captions: en / English
+
 > YouTube: lfDWXkE4glA
 
 > Keywords: Web Server, ASP.NET, Node.JS, Web Api
+
+> Blurb: a web server provided as a service, where you can run HTTP based applications.
 
 > Submitted by: LBugnion@Microsoft.com
 
@@ -10,11 +16,21 @@
 
 > [This topic was published here](http://gslb.ch/wod-app-service).
 
-# [App Service](/topic/app-service)
+# [App Service](/topic/en/app-service)
 
 <!-- YOUTUBEEMBED -->
 
-[*(Download the video and captions)*](#download)
+###### [(Download the video and captions)](#download)
+
+## Languages
+
+<!-- OTHERLANGUAGES -->
+
+There are captions for the following language(s):
+
+<!-- DOWNLOAD-CAPTIONS -->
+
+> Learn about [downloading and showing captions here](/en/captions).
 
 ## Links
 
@@ -35,15 +51,9 @@
 
 [You can download this video here](<!-- DOWNLOAD -->).
 
-There are also captions for the following language(s):
-
-<!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/captions).
-
 ## Transcript
 
-Hello and welcome to [Microsoft Azure Words of the Day](/), this is the show that teaches you the Azure vocabulary!
+Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you the Azure vocabulary!
 
 Today's words are: App Service
 

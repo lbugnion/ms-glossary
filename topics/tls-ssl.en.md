@@ -1,18 +1,36 @@
 > Recording date: 20200505
 
+> Language: en / English
+
+> Captions: en / English
+
 > YouTube: xJ_5BZoZ0mU
 
 > Keywords: TLS, SSL, HTTPS, Encryption, Certificates, Cryptography, Transport Layer Security, Secure Sockets Layer
+
+> Blurb: two protocols used to encrypt communication on a network.
 
 > Submitted by: LBugnion@Microsoft.com
 
 > Twitter: @LBugnion
 
-# [TLS/SSL](/topic/tls-ssl)
+> [This topic was published here](http://gslb.ch/wod-tls-ssl).
+
+# [TLS/SSL](/topic/en/tls-ssl)
 
 <!-- YOUTUBEEMBED -->
 
-[*(Download the video and captions)*](#download)
+###### [(Download the video and captions)](#download)
+
+## Languages
+
+<!-- OTHERLANGUAGES -->
+
+There are captions for the following language(s):
+
+<!-- DOWNLOAD-CAPTIONS -->
+
+> Learn about [downloading and showing captions here](/en/captions).
 
 ## Links
 
@@ -33,15 +51,9 @@
 
 [You can download this video here](<!-- DOWNLOAD -->).
 
-There are also captions for the following language(s):
-
-<!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/captions).
-
 ## Transcript
 
-Hello and welcome to [Microsoft Azure Words of the Day](/), the show that teaches you the Azure vocabulary!
+Hello and welcome to [Microsoft Azure Words of the Day](/en), the show that teaches you the Azure vocabulary!
 
 Today's words of the day are abbreviations: TLS / SSL.
 
