@@ -51,6 +51,8 @@ There are captions for the following language(s):
 
 [You can download this video here](<!-- DOWNLOAD -->).
 
+<a id="transcript"></a>
+
 ## Transcript
 
 Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you the Azure vocabulary!

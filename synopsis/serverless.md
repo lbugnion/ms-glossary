@@ -14,6 +14,16 @@ LBugnion@Microsoft.com
 
 ![Phonetics image](images/serverless/Serverless.png)
 
+## Notes
+
+- Consumption model
+- Typically cheaper
+- Some examples from Azure
+    - Azure Functions
+    - Logic apps
+    - Others?
+- Automatic scale
+
 ## Keywords:
 
 Serverless, Azure Function, Logic App, Trigger, Connector

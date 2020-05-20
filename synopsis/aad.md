@@ -26,7 +26,7 @@ dəˈrɛktəri
 
 ![directory](images/aad/directory.png)
 
-## Topics
+## Notes
 
 - What does AAD stand for?
 - Authentication and Authorization

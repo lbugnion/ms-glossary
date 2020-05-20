@@ -12,7 +12,7 @@ ti-ɛl-ɛs / ɛs-ɛs-ɛl
 
 ![Phonetics image](images/tls-ssl/Phonetics.png)
 
-## Topics
+## Notes
 
 - TLS Transport Layer Security
 - SSL Secure Sockets Layer (deprecated, predecessor)
