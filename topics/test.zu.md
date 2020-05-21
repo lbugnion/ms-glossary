@@ -63,5 +63,3 @@ Akekho owenqabayo, ongathandayo, noma ogwema injabulo ngokwayo, ngoba kuyinjabul
 Ukuthatha isibonelo esingasho lutho, yimuphi kithi owake wazivocavoca kanzima, ngaphandle kokuthola inzuzo ethile kukho? Kepha ngubani onelungelo lokuthola iphutha kumuntu okhetha ukujabulela injabulo engenamphumela ecasulayo, noma ogwema izinhlungu ezingakhi injabulo?
 
 Ngibonga kakhulu ngokubuka iMicrosoft Azure Words yosuku. Izwi losuku lwanamuhla lalithi: Vivinyo.
-
-*Kugcine ukuguqulwa: <!-- DATETIME -->*

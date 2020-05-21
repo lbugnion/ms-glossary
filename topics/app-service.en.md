@@ -70,5 +70,3 @@ In the Azure portal you can check the health of your app service, and there is a
 If I scroll down further we can see more monitoring solutions, for example the Log Stream which allows me to see what is happening in my application in real time. That's quite handy to avoid having to download the logs.
 
 App Services have a lot of additional functionalities, so make sure to check the links here to know more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's words of the day were: App Service.
-
-*Last modified: <!-- DATETIME -->*

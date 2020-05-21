@@ -76,5 +76,3 @@ You can sometimes choose between HTTP or HTTPS. Here we see a note in the web br
 It is recommended to always require HTTPS on your web application. In Azure, you can set it up with this switch here.
 
 Security is a complex topic, and we definitely need more than just two minutes to talk about it. So check the links here to learn more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's abbreviations of the day were: TLS / SSL.
-
-*Last modified: <!-- DATETIME -->*

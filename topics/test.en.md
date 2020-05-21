@@ -63,5 +63,3 @@ No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but
 To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
 
 Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: Test.
-
-*Last modified: <!-- DATETIME -->*
