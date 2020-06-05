@@ -1,12 +1,20 @@
-# Azure Words of the Day Synopsis: WORD
+# Azure Words of the Day Synopsis: <!-- TOPIC -->
 
 > This is a template to help you create a synopsis. [You can see an example here](../synopsis/aad.md).
 
 ## Submitted by
 
-> Enter your email address here
+<!-- ENTER YOUR EMAIL HERE -->
 
-> Enter your Twitter alias here
+> For example
+
+LBugnion@microsoft.com
+
+<!-- ENTER YOUR TWITTER NAME HERE -->
+
+> For example
+
+@LBugnion
 
 ## Phonetics
 
