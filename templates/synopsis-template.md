@@ -4,9 +4,15 @@
 
 ## Submitted by
 
+<!-- ENTER YOUR NAME HERE -->
+
 <!-- ENTER YOUR EMAIL HERE -->
 
 <!-- ENTER YOUR TWITTER NAME HERE -->
+
+## Short description
+
+<!-- ENTER A SHORT DESCRIPTION HERE -->
 
 ## Phonetics
 
