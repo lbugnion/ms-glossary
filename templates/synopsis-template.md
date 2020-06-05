@@ -6,15 +6,7 @@
 
 <!-- ENTER YOUR EMAIL HERE -->
 
-> For example
-
-LBugnion@microsoft.com
-
 <!-- ENTER YOUR TWITTER NAME HERE -->
-
-> For example
-
-@LBugnion
 
 ## Phonetics
 
