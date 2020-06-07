@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - master
+    paths:
+    - 'topics/**'
 
 jobs:
   notify-before:
