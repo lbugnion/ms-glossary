@@ -20,11 +20,8 @@ You can help us!! Are you fluent in another language than English? We can defini
 
 This is where you can submit proposals for a new topic. You can also find other synopsis for topics already created, and inspire yourself for your own contributions!
 
-> Note: During the launch phase, we will only accept contributions from the Microsoft Cloud Advocacy team but as soon as we can, we will accept contributions from other Microsoft employees and from partners too :)
+> Note: During the launch phase, we will only accept contributions from Microsoft employees but as soon as we can, we will accept contributions from partners too :)
 
 > [Get started here](instructions/contributing-synopsis.md)
 
-## Submitting a topic for publication
-
-Once your Synopsis has been approved, and you have created a video and all supporting materials, the next step is to [Submit a topic](instructions\submitting-topic.md).
-
+Thanks again for your help!!
