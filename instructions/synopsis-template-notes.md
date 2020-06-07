@@ -10,8 +10,7 @@ The synopsis has two main goals:
 
 ## Getting started
 
-- [Copy the template here to your local drive](../templates/synopsis-template.md).
-- Start creating: There are notes below.
+You can get started by submitting a new topic, [the instructions are here](contributing-synospsis.md). 
 
 <a id="phonetics"></a>
 
@@ -52,7 +51,7 @@ This section is intended as a notepad where you can quickly jot down some ideas 
 
 ## Keywords or key expressions
 
-The list of keywords will be used to cross-reference items. They can be one word or a sort expression or 2-3 words. They can also be abbreviations.
+The list of keywords will be used to cross-reference items. They can be one word, a short expression or 2-3 words. They can also be abbreviations.
 
 > You don't need to add the topic's title (for example `App Service`) to the list of keywords, this will be added automatically).
 
@@ -68,7 +67,7 @@ then after processing, the text becomes
 
 `[...] and you can install this application on a [Web Server](/topic/app-service_web-server) locally or in the cloud [...]`
 
-> Important: A given keyword or key expression can only be used once on the whole site! When you submit your synopsis or your finished video, we will automatically check and let you know if you are using a keyword or key expression that is already used somewhere else, so we can work a solution out.
+> A given keyword or key expression can be used in multiple topics. In that case a disambiguation page will be created to help the user choose which topic he wants to read.
 
 <a id="demos"></a>
 
@@ -108,21 +107,34 @@ You can see a few examples of "demos" below.
 
 <a id="docs"></a>
 
-## Links to docs
+## Links to Docs and Learn
 
-> TODO Links to docs
+One of the goals of this project is to drive traffic to the Microsoft documentation and Learn pages. For each topic, you should provide a list of Docs and Learn links.
+
+Each link will be instrumented with information allowing us to track the clicks. You don't have to worry about that however. In the synopsis document, simply list the links, for example:
+
+- [App Service overview](https://docs.microsoft.com/en-us/azure/app-service/overview)
+- [App Service documentation](https://docs.microsoft.com/en-us/azure/app-service)
 
 <a id="learn"></a>
 
 ## Links to Learn
 
-> TODO Links to Learn
+Similarly to Docs links, we also ask you to provide a list of Microsoft Learn links, in order to drive traffic to these modules. 
+
+You can either provide a link to a Learning path, or to a specific module, or both.
+
+For example:
+
+- [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service) *(learning path)*
+- [Capture Web Application Logs with App Service Diagnostics Logging](https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service) *(module)*
+- [Create and publish a web application with Azure App Service and Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app-service-vs-code) *(module)*
 
 <a id="script"></a>
 
 ## Script
 
-> TODO Script
+
 
 - Add production notes as a `> blockquote`
 
