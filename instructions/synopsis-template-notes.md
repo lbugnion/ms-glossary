@@ -134,7 +134,24 @@ For example:
 
 ## Script
 
+Maybe the most important part of the synopsis, and the one you'll spend the most time creating, is the script. 
 
+All Words of the Day videos are scripted. This serves a few purposes:
 
-- Add production notes as a `> blockquote`
+- Help us review the video before it is even created.
+- Help you create videos that are short (below 2:20 so they can be posted to Twitter) and to the point.
+- Help you captions for the videos.
 
+You can see examples of scripts here and here. Here are some tips:
+
+- Keep it simple. Start by writing what you want to say, then go over the script again and remove unnecessary words, repetitions, etc. Going through the script a few times will make it tighter and better.
+
+- Add production notes as a `> blockquote`. These notes will be useful for you later when you are ready to record. For example:
+
+> Speak to the camera
+
+or
+
+> Show the portal on the application insights dashboard
+
+Don't worry, we will also review the script and help you get it right before filming the video :)
