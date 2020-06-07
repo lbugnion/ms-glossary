@@ -27,17 +27,12 @@ wɜrd
 
 ## Topics
 
-> A list of topics you want to treat in this video.
-> [See the notes](../instructions/synopsis-template-notes.md#topics)
+- This is the first topic
+- And the second
 
 ## Keywords:
 
-> List of keywords or keyphrases, comma separated.
-> [See the notes](../instructions/synopsis-template-notes.md#keywords)
-
-> For example
-
-AAD, Active Directory, Authentication, Identity
+Test, Testing, Hello
 
 ## Demos
 
