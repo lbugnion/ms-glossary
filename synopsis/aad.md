@@ -53,6 +53,8 @@ AAD, Active Directory, Authorization, Authentication, Identity
 - [What is Azure Active Directory?](https://docs.microsoft.com/en-us/learn/paths/manage-identity-and-access) (*learning path*)
 - [Secure your identities by using Azure Active Directory](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad) (*module*)
 
+<a id="script"></a>
+
 ## Script
 
 Hello and welcome to Microsoft Azure Words of the Day,

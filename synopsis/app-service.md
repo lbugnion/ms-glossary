@@ -34,6 +34,8 @@ App Service, Web Server, ASP.NET, Web Api
 - [Capture Web Application Logs with App Service Diagnostics Logging](https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service) *(module)*
 - [Create and publish a web application with Azure App Service and Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app-service-vs-code) *(module)*
 
+<a id="script"></a>
+
 ## Script
 
 > ~ 15 seconds intro

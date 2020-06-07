@@ -142,7 +142,7 @@ All Words of the Day videos are scripted. This serves a few purposes:
 - Help you create videos that are short (below 2:20 so they can be posted to Twitter) and to the point.
 - Help you captions for the videos.
 
-You can see examples of scripts here and here. Here are some tips:
+You can see examples of scripts [here](../synopsis/aad.md#script) and [here](../synopsis/app-service.md#script). Here are some tips:
 
 - Keep it simple. Start by writing what you want to say, then go over the script again and remove unnecessary words, repetitions, etc. Going through the script a few times will make it tighter and better.
 
