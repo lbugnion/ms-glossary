@@ -154,4 +154,6 @@ or
 
 > Show the portal on the application insights dashboard
 
+If you have images, screenshots etc, add them to the script too (you can save the images in the [synopsis/images](../synopsis/images/) folder). Any information you add to the script will be helpful later when recording the video.
+
 Don't worry, we will also review the script and help you get it right before filming the video :)
