@@ -1,14 +1,36 @@
-> YouTube: WDieqEyq4uA
+> Recording date: 20200505
+
+> Language: en / English
+
+> Captions: en / English
+
+> YouTube: l9e-RGUAVy8
 
 > Keywords: AAD, Active Directory, Authorization, Authentication, Identity
 
+> Blurb: a service used to provide identity services, such as authentication and authorization.
+
+> Submitted by: LBugnion@Microsoft.com
+
+> Twitter: @LBugnion
+
 > [This topic was published here](http://gslb.ch/wod-aad).
 
-# [AAD](/topic/aad)
+# [Azure Active Directory AAD](/topic/en/aad)
 
 <!-- YOUTUBEEMBED -->
 
-[*(Download the video and captions)*](#download)
+###### [(Download the video and captions)](#download)
+
+## Languages
+
+<!-- OTHERLANGUAGES -->
+
+There are captions for the following language(s):
+
+<!-- DOWNLOAD-CAPTIONS -->
+
+> Learn about [downloading and showing captions here](/en/captions).
 
 ## Links
 
@@ -30,15 +52,9 @@
 
 [You can download this video here](<!-- DOWNLOAD -->).
 
-There are also captions for the following language(s):
-
-<!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/captions).
-
 ## Transcript
 
-Hello and welcome to [Microsoft Azure Words of the Day](/), this is the show that teaches you Azure vocabulary!
+Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
 
 Today's word of the day is an abbreviation: AAD
 
@@ -55,5 +71,3 @@ You can integrate with AAD at multiple levels: In the Microsoft cloud, with Micr
 It's easy to use multi-factor authentication with AAD. For example by using the Microsoft Authenticator app, this is how I can use my fingerprint to confirm that I want to log into a Microsoft domain, for example the Azure Portal. Of course this also works for a wide range of sites and applications.
 
 Azure Active Directory has a lot of great features and it makes setting up identity services much easier than it used to be. So make sure to check all the links that we assembled for you here! Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: AAD.
-
-*This file was last modified on DATETIME*

@@ -4,6 +4,8 @@
 
 LBugnion@Microsoft.com
 
+@LBugnion
+
 > [This topic was published here](http://azurewordsoftheday.cloud/topic/serverless/serverless).
 
 ## Phonetics
@@ -11,6 +13,16 @@ LBugnion@Microsoft.com
 ˈsɜːvəlɛs
 
 ![Phonetics image](images/serverless/Serverless.png)
+
+## Notes
+
+- Consumption model
+- Typically cheaper
+- Some examples from Azure
+    - Azure Functions
+    - Logic apps
+    - Others?
+- Automatic scale
 
 ## Keywords:
 

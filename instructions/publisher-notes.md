@@ -1,8 +1,42 @@
 # Notes for the publisher
 
+> TODO Add a chapter about using the staging environment
+
 ## Publishing a new video
 
-> TODO Update
+- On [Github](https://github.com/lbugnion/wordsoftheday-md), create a new branch "TOPIC" where
+    - TOPIC is the current topic, for example `app-service`, `serverless`, `aad` etc.
+
+- Update the synopsis (in the [Synopsis folder](../synopsis))
+
+- Edit the video and produce it.
+
+- Create the captions file(s) (*.srt).
+    - Caption files are saved in the [Captions folder](../captions).
+    - Link to [Subtitle Edit for Windows](https://www.nikse.dk/SubtitleEdit/).
+
+- Create the topic file (under [the Topics folder](../topics/)).
+
+- Produce the video with embedded captions [with Handbrake](https://handbrake.fr/).
+    - [See the Handbrake settings here](#handbrake)
+
+- Upload the video with captions [in the Videos containers](http://gslb.ch/462).
+    - If you don't have access to the Storage container, contact LBugnion@microsoft.com
+
+- Publish the new video to YouTube.
+    - [Instructions for YouTube](#youtube)
+
+- Copy the new YouTube video code into the Topic file under `> YouTube: CODE`
+
+> The YouTube code is what comes at the end of the YouTube URL. For example in `https://youtu.be/O3KuatPZjfs`, copy only the code `O3KuatPZjfs` to the Topic file.
+
+- Double check everything, then commit the modified synopsis, captions and the topic file to the new branch.
+
+> Before you push to Github, we have a staging environment that you can use to try things out. Please contact LBugnion@microsoft.com for details.
+
+- Push to GitHub
+
+- Merge the new branch into Master and push to GitHub. This will trigger the website update.
 
 ## Updating an existing video
 
@@ -37,6 +71,8 @@
 
 - Double check everything, then commit the modified synopsis, captions and the topic file to the new branch.
 
+> Before you push to Github, we have a staging environment that you can use to try things out. Please contact LBugnion@microsoft.com for details.
+
 - Push to GitHub
 
 - Merge the new branch into Master and push to GitHub. This will trigger the website update.
@@ -60,7 +96,9 @@
     - Audio AAC Bitrate 160
     - Import Subtitle
     - Forced Only: No
-    - Burn In: No
+    - Burn In: No / Yes (make two videos)
+        - TOPIC.mp4 with all subtitles embedded
+        - TOPIC.en.mp4 with one language burnt in
 
 <a id="youtube"></a>
 

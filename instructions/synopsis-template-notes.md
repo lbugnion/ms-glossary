@@ -54,9 +54,11 @@ This section is intended as a notepad where you can quickly jot down some ideas 
 
 The list of keywords will be used to cross-reference items. They can be one word or a sort expression or 2-3 words. They can also be abbreviations.
 
+> You don't need to add the topic's title (for example `App Service`) to the list of keywords, this will be added automatically).
+
 For example, if you have this list of keywords in the app-service.md file:
 
-`App Service, Web Server, Web API`
+`Web Server, Web API`
 
 and another topic file has this text:
 
@@ -64,7 +66,7 @@ and another topic file has this text:
 
 then after processing, the text becomes
 
-`[...] and you can install this application on a [Web Server](/topic/app-service) locally or in the cloud [...]`
+`[...] and you can install this application on a [Web Server](/topic/app-service_web-server) locally or in the cloud [...]`
 
 > Important: A given keyword or key expression can only be used once on the whole site! When you submit your synopsis or your finished video, we will automatically check and let you know if you are using a keyword or key expression that is already used somewhere else, so we can work a solution out.
 

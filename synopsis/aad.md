@@ -4,6 +4,8 @@
 
 LBugnion@Microsoft.com
 
+@LBugnion
+
 > [This topic was published here](http://azurewordsoftheday.cloud/topic/aad/aad).
 
 ## Phonetics
@@ -24,7 +26,7 @@ dəˈrɛktəri
 
 ![directory](images/aad/directory.png)
 
-## Topics
+## Notes
 
 - What does AAD stand for?
 - Authentication and Authorization

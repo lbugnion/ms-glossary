@@ -4,13 +4,15 @@
 
 LBugnion@Microsoft.com
 
+@LBugnion
+
 ## Phonetics
 
-ti-ɛl-ɛs ɛs-ɛs-ɛl
+ti-ɛl-ɛs / ɛs-ɛs-ɛl
 
-> TODO ![Phonetics image](images/serverless-phonetics.png)
+![Phonetics image](images/tls-ssl/Phonetics.png)
 
-## Topics
+## Notes
 
 - TLS Transport Layer Security
 - SSL Secure Sockets Layer (deprecated, predecessor)
@@ -24,31 +26,75 @@ TLS, SSL, HTTPS, encryption, certificates, cryptography, transport layer securit
 
 ## Demos
 
-> Quick list of the demos you want to show.
-> [See the notes](../instructions/synopsis-template-notes.md#demos)
-
-- Short description of the demo.
+- Show what happens in web browser when browing in HTTP
+- Show what happens in web browser when using invalid certificate
+- Show custom domain tab in App Service
 
 ## Links to docs
 
-> As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-> [See the notes](../instructions/synopsis-template-notes.md#docs)
-
->For example:
-
-- [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+- [Add a TLS/SSL certificate in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-certificate)
+- [Secure a custom DNS name with a TLS/SSL binding in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-bindings)
 
 ## Links to Learn
 
-> As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-> [See the notes](../instructions/synopsis-template-notes.md#learn)
-
->For example:
-
-- [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications) (*learning path*)
-- [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/shift-nodejs-express-apis-serverless) (*module*)
+- [Security, responsibility, and trust in Azure](https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/) *(Module)*
+- [Cloud security](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-security/) *(Module)*
+- [Fundamentals of network security](https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/) *(Module)*
 
 ## Script
 
-> A transcript of what you are planning to say on camera, including demos etc. 
-> [See the notes](../instructions/synopsis-template-notes.md#script)
+> On camera
+
+Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
+
+Today's words of the day are abbreviations: TLS / SSL.
+
+> Show the letters on the screen with finger, tap tap tap. Remember to tap right to left. 
+
+TLS is short for Transport Layer Security
+
+> Show the letters on the screen with finger, tap tap tap. Remember to tap right to left.  
+
+SSL is short for Secure Sockets Layer.
+
+> Camera 
+
+We often hear these two abbreviations put together, for example when someone says "you can setup TLS/SSL on the Azure Portal".
+
+> SSL / TLS publication / deprecation
+
+SSL is a standard that enables secure, encrypted transmissions over the internet. It requires a certificate that you can purchase from various vendors. 
+
+TLS is similar to SSL but it is a newer, more modern version. It also relies on certificates, in fact when you purchase an SSL certificate, it is often already ready for TLS.
+
+> Demo in the azure portal
+> - Explain `HTTPS Only`
+> - Show option to buy certificate
+
+When TLS or SSL are setup on your web server, this enables you to serve web content over HTTPS. This other abbreviation means: Hypertext Transfer Protocol Secure. But just like HTTP is not just for text, HTTPS is encrypting the whole communication. HTTPS is often used in the web browser, but it can also be used for APIs, etc.
+
+> DEMO Show the App Service portal, click on the URL, show that it's HTTPS.
+
+In the Azure portal, you can easily buy or import a certificate to secure your App Service. Note however that web applications on Azure are secure by default. This is why you see HTTPS in the location bar when you navigate to any website on anything.azurewebsites.net, which is the default address for App Services. The certificate and the HTTPS settings are needed when you want to use a custom domain, for example TailwindTraders.com.
+
+> Show certificate info in Edge
+
+When navigating to an HTTPS site, you can see more information about the certificate here. This shows a valid certificate used on a custom domain, it's safe to browse it.
+
+> Show invalid certificate site
+
+On the other hand, if you see this kind of information, you need to be careful, something is wrong with the certificate!
+
+> Show http://galasoft.ch
+
+If you navigate to a site using a custom domain, you can sometimes choose between HTTP or HTTPS. Here we see a note in the web browser indicating that this connection is not secure.
+
+> Show https://galasoft.ch
+
+> Back to portal, show the redirect switch
+
+It is recommended to always require HTTPS on your web application. In Azure, you can set it up with this switch here.
+
+> Back on camera
+
+Security is a complex topic, and we definitely need more than two minutes to talk about it. That's why you should check the links here to learn more about this topic. Thank you so much for watching Microsoft Azure Words of the Day. Today's abbreviations of the day were: TLS / SSL.

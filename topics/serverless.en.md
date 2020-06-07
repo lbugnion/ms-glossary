@@ -1,14 +1,36 @@
-> YouTube: O3KuatPZjfs
+> Recording date: 20200505
 
-> Keywords: Serverless, Azure Function, Logic App, Trigger, Connector
+> Language: en / English
+
+> Captions: en / English
+
+> YouTube: hmOkCl-8UZY
+
+> Keywords: Azure Function, Logic App, Trigger, Connector
+
+> Blurb: a way to run applications on a server without having to manage this server.
+
+> Submitted by: LBugnion@Microsoft.com
+
+> Twitter: @LBugnion
 
 > [This topic was published here](http://gslb.ch/wod-serverless).
 
-# [Serverless](/topic/serverless)
+# [Serverless](/topic/en/serverless)
 
 <!-- YOUTUBEEMBED -->
 
-[*(Download the video and captions)*](#download)
+###### [(Download the video and captions)](#download)
+
+## Languages
+
+<!-- OTHERLANGUAGES -->
+
+There are captions for the following language(s):
+
+<!-- DOWNLOAD-CAPTIONS -->
+
+> Learn about [downloading and showing captions here](/en/captions).
 
 ## Links
 
@@ -34,15 +56,9 @@
 
 [You can download this video here](<!-- DOWNLOAD -->).
 
-There are also captions for the following language(s):
-
-<!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/captions).
-
 ## Transcript
 
-Hello and welcome to [Microsoft Azure Words of the Day](/), this is the show that teaches you the Azure vocabulary!
+Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you the Azure vocabulary!
 
 Today's word of the day is: Serverless
 
@@ -59,5 +75,3 @@ Or another example of serverless application: A Logic App also starts its execut
 One really nice feature of serverless is that your application will automatically scale up and down. Here we see how an Azure Function application is automatically scaling up to additional servers. This way you are covered, if a lot of people like your product, we will provide additional servers to cover the demand. And since you only pay for what you actually consume, serverless solutions end up being quite cost effective.
 
 There are more serverless solutions on Azure, so don't forget to check the links here in order to learn more about that. Thank you so much for watching Microsoft Azure Words of the Day. Today's word of the day was: Serverless.
-
-*This file was last modified on DATETIME*

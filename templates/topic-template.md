@@ -2,6 +2,10 @@
 
 > Keywords: COMMA, SEPARATED, LIST
 
+> Submitted by: EMAIL
+
+> Twitter: TWITTERNAME
+
 [WORD](/topic/WORD)
 
 <!-- YOUTUBEEMBED -->
@@ -46,3 +50,7 @@ Today's words of the day are: EXPRESSION
 Today's word of the day is an abbreviation: ABBREVIATION
 
 > For abbreviations, also mention the full expression in the intro and show phonetics too.
+
+> Leave the next line as the last line of the topic file.
+
+*Last modified: <!-- DATETIME -->*
