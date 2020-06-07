@@ -1,6 +1,6 @@
 # Azure Words of the Day Synopsis: <!-- TOPIC -->
 
-> This is a template to help you create a synopsis. [You can see an example here](../synopsis/aad.md).
+> This is a template to help you create a synopsis. [You can see an example here](https://github.com/lbugnion/wordsoftheday-md/blob/master/synopsis/aad.md).
 
 ## Submitted by
 
@@ -19,7 +19,7 @@
 https://tophonetics.com/
 
 > Add an image of the phonetics for the word or the expression.
-> [See the notes](../instructions/synopsis-template-notes.md#phonetics)
+> [See the notes](https://github.com/lbugnion/wordsoftheday-md/blob/master/instructions/synopsis-template-notes.md#phonetics)
 
 wɜrd
 
@@ -28,12 +28,12 @@ wɜrd
 ## Topics
 
 > A list of topics you want to treat in this video.
-> [See the notes](../instructions/synopsis-template-notes.md#topics)
+> [See the notes](https://github.com/lbugnion/wordsoftheday-md/blob/master/instructions/synopsis-template-notes.md#topics)
 
 ## Keywords:
 
 > List of keywords or keyphrases, comma separated.
-> [See the notes](../instructions/synopsis-template-notes.md#keywords)
+> [See the notes](https://github.com/lbugnion/wordsoftheday-md/blob/master/instructions/synopsis-template-notes.md#keywords)
 
 > For example
 
@@ -42,14 +42,14 @@ AAD, Active Directory, Authentication, Identity
 ## Demos
 
 > Quick list of the demos you want to show.
-> [See the notes](../instructions/synopsis-template-notes.md#demos)
+> [See the notes](https://github.com/lbugnion/wordsoftheday-md/blob/master/instructions/synopsis-template-notes.md#demos)
 
 - Short description of the demo.
 
 ## Links to docs
 
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-> [See the notes](../instructions/synopsis-template-notes.md#docs)
+> [See the notes](https://github.com/lbugnion/wordsoftheday-md/blob/master/instructions/synopsis-template-notes.md#docs)
 
 >For example:
 
@@ -58,7 +58,7 @@ AAD, Active Directory, Authentication, Identity
 ## Links to Learn
 
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-> [See the notes](../instructions/synopsis-template-notes.md#learn)
+> [See the notes](https://github.com/lbugnion/wordsoftheday-md/blob/master/instructions/synopsis-template-notes.md#learn)
 
 >For example:
 
@@ -68,7 +68,7 @@ AAD, Active Directory, Authentication, Identity
 ## Script
 
 > A transcript of what you are planning to say on camera, including demos etc. 
-> [See the notes](../instructions/synopsis-template-notes.md#script)
+> [See the notes](https://github.com/lbugnion/wordsoftheday-md/blob/master/instructions/synopsis-template-notes.md#script)
 
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
