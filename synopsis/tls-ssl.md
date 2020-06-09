@@ -45,9 +45,9 @@ TLS, SSL, HTTPS, encryption, certificates, cryptography, transport layer securit
 
 > On camera
 
-Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
-
 Today's words of the day are abbreviations: TLS / SSL.
+
+Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
 > Show the letters on the screen with finger, tap tap tap. Remember to tap right to left. 
 

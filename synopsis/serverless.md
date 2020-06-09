@@ -51,9 +51,10 @@ Serverless, Azure Function, Logic App, Trigger, Connector
 
 > ~ 15 seconds intro
 
+Today's word is: Serverless. 
+
 Hello and welcome to Microsoft Azure Words of the Day,
 the show that teaches you the Azure vocabulary!
-Today's word is: Serverless
 
 > ~ 30 seconds on camera
 

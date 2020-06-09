@@ -57,9 +57,10 @@ AAD, Active Directory, Authorization, Authentication, Identity
 
 ## Script
 
+Today's words are an abbreviation: AAD. 
+
 Hello and welcome to Microsoft Azure Words of the Day,
 the show that teaches you Azure vocabulary!
-Today's words are an abbreviation: AAD
 
 > camera
 

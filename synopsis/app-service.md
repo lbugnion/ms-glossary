@@ -40,9 +40,10 @@ App Service, Web Server, ASP.NET, Web Api
 
 > ~ 15 seconds intro
 
+Today's words are: App Service. 
+
 Hello and welcome to Microsoft Azure Words of the Day,
 the show that teaches you the Azure vocabulary!
-Today's words are: App Service
 
 > ~ 35 seconds on camera
 
