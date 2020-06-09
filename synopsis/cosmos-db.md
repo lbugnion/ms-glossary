@@ -60,10 +60,10 @@ Database, SLA, service level agreement, MongoDB, Mongo, Cassandra, Gremlin, Grem
 > A transcript of what you are planning to say on camera, including demos etc. 
 > [See the notes](../instructions/synopsis-template-notes.md#script)
 
-Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
-
 Today's word of the day is: WORD
 Today's words of the day are: EXPRESSION
 Today's word of the day is an abbreviation: ABBREVIATION
+
+Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
 > For abbreviations, also mention the full expression in the intro and show phonetics too.
