@@ -1,3 +1,5 @@
+> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/wordsoftheday-md/blob/master/instructions/contributing-synopsis.md)
+
 > YouTube: CODE
 
 > Keywords: COMMA, SEPARATED, LIST

@@ -2,6 +2,8 @@
 
 > This is a template to help you create a synopsis. [You can see an example here](https://github.com/lbugnion/wordsoftheday-md/blob/master/synopsis/aad.md).
 
+> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/wordsoftheday-md/blob/master/instructions/contributing-synopsis.md)
+
 ## Submitted by
 
 <!-- ENTER YOUR NAME HERE -->
