@@ -54,9 +54,9 @@ There are captions for the following language(s):
 
 ## Transcript
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
+Today's word of the day is an abbreviation: AAD. 
 
-Today's word of the day is an abbreviation: AAD
+Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
 
 AAD is short for Azure Active Directory.
 

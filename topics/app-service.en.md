@@ -55,9 +55,9 @@ There are captions for the following language(s):
 
 ## Transcript
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you the Azure vocabulary!
+Today's words are: App Service. 
 
-Today's words are: App Service
+Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you the Azure vocabulary!
 
 An App Service is a web server running as a service in Microsoft Azure. So you can run HTTP based applications, for example a mobile backend, a web API, a website etc. The really cool thing is that you can choose between Windows and Linux as your operating system, so you have a choice. And you can deploy your code, either in a Docker-based container, or directly from Github, from other repositories or from a continuous deployment solution. 
 

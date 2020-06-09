@@ -52,9 +52,9 @@ Kukhona futhi izihloko zolimi / izilimi ezilandelayo:
 
 ## Umbhalo
 
-Sawubona futhi wamukelekile ku- [Microsoft Azure Words of the Day](/zu), lo mbukiso owokufundisa isilulumagama sama-Azure!
+Izwi losuku lwanamuhla lithi: Vivinyo. 
 
-Izwi losuku lwanamuhla lithi: Vivinyo
+Sawubona futhi wamukelekile ku- [Microsoft Azure Words of the Day](/zu), lo mbukiso owokufundisa isilulumagama sama-Azure!
 
 Kepha kufanele ngikuchazele ukuthi wonke lo mbono oyiphutha wokumemezela ubumnandi nokudumisa izinhlungu wazalwa kanjani futhi ngizokunikeza i-akhawunti ephelele yesistimu, futhi ngichaze izimfundiso zangempela zomhloli omkhulu weqiniso, umakhi omkhulu wabantu injabulo.
 

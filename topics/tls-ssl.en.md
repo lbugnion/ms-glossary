@@ -53,9 +53,9 @@ There are captions for the following language(s):
 
 ## Transcript
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), the show that teaches you the Azure vocabulary!
-
 Today's words of the day are abbreviations: TLS / SSL.
+
+Hello and welcome to [Microsoft Azure Words of the Day](/en), the show that teaches you the Azure vocabulary!
 
 TLS is short for Transport Layer Security
 
