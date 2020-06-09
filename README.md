@@ -2,9 +2,9 @@
 
 Thanks for your interest in our work.
 
-Azure Words of the Day is designed to be a reference site for learners, and compile a list of words, expressions and abbreviations related to Microsoft Azure, with their definition and explanations.
+We are helping beginners to find the definitions of topics related to Azure, and the cloud in general. **Words of the Day** is a Glossary, an Encyclopedia, a Wikipedia of technical words, expressions, and abbreviations. It helps visitors getting started with a new cloud-related topic by making it easy to understand the vocabulary. It also helps Microsoft documentation writers by providing a unique repository of topics that they can link to. 
 
-Each word, expression or abbreviation will be illustrated by a short video explaining the concept. Items will be cross-referenced, a little like Wikipedia does. In addition, we also list links to documentation and Microsoft Learn. 
+Each word, expression or abbreviation is illustrated by a short video explaining the concept. Items are cross-referenced, a little like Wikipedia does. In addition, we also list links to documentation and Microsoft Learn. 
 
 ## We welcome your contributions!!
 
