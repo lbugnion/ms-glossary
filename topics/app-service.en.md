@@ -55,7 +55,7 @@ There are captions for the following language(s):
 
 ## Transcript
 
-Today's words are: App Service. 
+Today's words of the day are: App Service.
 
 Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you the Azure vocabulary!
 
