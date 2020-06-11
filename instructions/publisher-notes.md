@@ -4,8 +4,9 @@
 
 ## Publishing a new video
 
-- On [Github](https://github.com/lbugnion/wordsoftheday-md), create a new branch "TOPIC" where
-    - TOPIC is the current topic, for example `app-service`, `serverless`, `aad` etc.
+- On [Github](https://github.com/lbugnion/wordsoftheday-md), check the branch `TOPIC` out, where `TOPIC` is the current topic, for example `app-service`, `serverless`, `aad` etc.
+
+> Most probably the branch already exists from when the synopsis was created. If it doesn't, or if you want to start fresh, just create a new branch with a similar name.
 
 - Update the synopsis (in the [Synopsis folder](../synopsis))
 
@@ -83,22 +84,17 @@
 
 ## Handbrake settings
 
-> TODO Make screenshots
+![Hanbrake Summary](./images/2020-06-11_17-03-57.png)
 
-    - MP4
-    - Web optimized: No
-    - Align A/V Start: Yes
-    - iPod 5G Support: No
-    - 1080px x 1080px
-    - H.264
-    - 30PFS
-    - **Quality: 30**
-    - Audio AAC Bitrate 160
-    - Import Subtitle
-    - Forced Only: No
-    - Burn In: No / Yes (make two videos)
-        - TOPIC.mp4 with all subtitles embedded
-        - TOPIC.en.mp4 with one language burnt in
+![Handbrake Video](./images/2020-06-11_17-05-50.png)
+
+![Handbrake Subtitles](./images/2020-06-11_17-07-21.png)
+
+> Add this to the queue then change the burn in setting. The file name is `[topic].[spoken language].mp4`, for example `aad.en.mp4`.
+
+![Handbrake Subtitles burn-in](./images/2020-06-11_17-08-48.png)
+
+> Add this to the queue too then Start the queue. The file name is `[topic].[spoken language].[caption language].mp4`, for example `aad.en.en.mp4`.
 
 <a id="youtube"></a>
 
