@@ -5,6 +5,7 @@ on:
       - master
     paths:
     - 'topics/**'
+    - 'captions/**'
 
 jobs:
   notify-before:
