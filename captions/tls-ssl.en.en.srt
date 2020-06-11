@@ -1,17 +1,17 @@
 ﻿1
-00:00:00,268 --> 00:00:03,125
+00:00:00,281 --> 00:00:05,055
+Today's words of the day are
+abbreviations: TLS / SSL.
+
+2
+00:00:06,476 --> 00:00:09,265
 Hello and welcome to Microsoft
 Azure Words of the Day,
 
-2
-00:00:03,150 --> 00:00:06,046
+3
+00:00:09,319 --> 00:00:12,237
 the show that teaches
 you the Azure vocabulary!
-
-3
-00:00:07,411 --> 00:00:12,244
-Today's words of the day are
-abbreviations: TLS / SSL.
 
 4
 00:00:13,162 --> 00:00:16,862

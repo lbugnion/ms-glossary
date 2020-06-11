@@ -1,16 +1,16 @@
 ﻿1
-00:00:00,659 --> 00:00:03,357
+00:00:00,349 --> 00:00:03,143
+Today's words of the day are: App Service
+
+2
+00:00:05,808 --> 00:00:08,626
 Hello and welcome to
 Microsoft Azure Words of the Day
 
-2
-00:00:03,382 --> 00:00:06,340
-this is the show that
-teaches you the Azure vocabulary!
-
 3
-00:00:07,244 --> 00:00:10,394
-Today's words of the day are: App Service
+00:00:08,651 --> 00:00:11,585
+this is the show that teaches
+you the Azure vocabulary!
 
 4
 00:00:12,394 --> 00:00:16,325
