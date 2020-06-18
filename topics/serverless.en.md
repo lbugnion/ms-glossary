@@ -20,17 +20,9 @@
 
 <!-- YOUTUBEEMBED -->
 
-###### [(Download the video and captions)](#download)
-
-## Languages
-
 <!-- OTHERLANGUAGES -->
 
-There are captions for the following language(s):
-
 <!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/en/captions).
 
 ## Links
 
@@ -50,11 +42,9 @@ There are captions for the following language(s):
 
 - [Azure Pricing Calculator](http://gslb.ch/461)
 
-<a id="download"></a>
+<!-- DOWNLOAD -->
 
-## Download
-
-[You can download this video here](<!-- DOWNLOAD -->).
+<a id="transcript"></a>
 
 ## Transcript
 

@@ -20,17 +20,9 @@
 
 <!-- YOUTUBEEMBED -->
 
-###### [(Download the video and captions)](#download)
-
-## Languages
-
 <!-- OTHERLANGUAGES -->
 
-There are captions for the following language(s):
-
 <!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/en/captions).
 
 ## Links
 
@@ -46,11 +38,9 @@ There are captions for the following language(s):
 - [What is Azure Active Directory?](http://gslb.ch/450) *(learning path)*
 - [Secure your identities by using Azure Active Directory](http://gslb.ch/451) *(module)*
 
-<a id="download"></a>
+<!-- DOWNLOAD -->
 
-## Download
-
-[You can download this video here](<!-- DOWNLOAD -->).
+<a id="transcript"></a>
 
 ## Transcript
 

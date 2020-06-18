@@ -20,17 +20,9 @@
 
 <!-- YOUTUBEEMBED -->
 
-###### [(Landa ividiyo nezihloko)](#download)
-
-## Izilimi
-
 <!-- OTHERLANGUAGES -->
 
-Kukhona futhi izihloko zolimi / izilimi ezilandelayo:
-
 <!-- DOWNLOAD-CAPTIONS -->
-
-> Funda ngokulanda [futhi ubonise amazwibela lapha](/zu/captions).
 
 ## Izixhumanisi
 
@@ -44,11 +36,9 @@ Kukhona futhi izihloko zolimi / izilimi ezilandelayo:
 - [Okunye ukuxhumana 1](http://gslb.ch) *(Module)*
 - [Okunye ukuxhumana 2](http://gslb.ch) *(Indlela yokufunda)*
 
-<a id="download"></a>
+<!-- DOWNLOAD -->
 
-## Landa
-
-[Ungalanda le vidiyo lapha](<!-- DOWNLOAD -->).
+<a id="transcript"></a>
 
 ## Umbhalo
 

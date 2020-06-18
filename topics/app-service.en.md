@@ -20,17 +20,9 @@
 
 <!-- YOUTUBEEMBED -->
 
-###### [(Download the video and captions)](#download)
-
-## Languages
-
 <!-- OTHERLANGUAGES -->
 
-There are captions for the following language(s):
-
 <!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/en/captions).
 
 ## Links
 
@@ -45,11 +37,7 @@ There are captions for the following language(s):
 - [Capture Web Application Logs with App Service Diagnostics Logging](http://gslb.ch/455) *(module)*
 - [Create and publish a web application with Azure App Service and Visual Studio Code](http://gslb.ch/456) *(module)*
 
-<a id="download"></a>
-
-## Download
-
-[You can download this video here](<!-- DOWNLOAD -->).
+<!-- DOWNLOAD -->
 
 <a id="transcript"></a>
 

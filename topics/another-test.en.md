@@ -2,10 +2,6 @@
 
 > Language: en / English
 
-> Captions: en / English
-
-> YouTube: TEST2A
-
 > Keywords: Test Again, Another Test, Authentication
 
 > Blurb: another topic used to for tests only, that you should probably ignore.
@@ -20,17 +16,9 @@
 
 <!-- YOUTUBEEMBED -->
 
-###### [(Download the video and captions)](#download)
-
-## Languages
-
 <!-- OTHERLANGUAGES -->
 
-There are captions for the following language(s):
-
 <!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/en/captions).
 
 ## Links
 
@@ -44,11 +32,9 @@ There are captions for the following language(s):
 - [Another link 1](http://gslb.ch) *(Module)*
 - [Another link 2](http://gslb.ch) *(Learning path)*
 
-<a id="download"></a>
+<!-- DOWNLOAD -->
 
-## Download
-
-[You can download this video here](<!-- DOWNLOAD -->).
+<a id="transcript"></a>
 
 ## Transcript
 
