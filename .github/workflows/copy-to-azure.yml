@@ -2,7 +2,7 @@ name: Upload To Azure Blob Storage
 on:
   push:
     branches:
-      - master
+      - main
     paths:
     - 'topics/**'
     - 'captions/**'
