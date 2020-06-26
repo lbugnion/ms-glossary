@@ -8,6 +8,10 @@ LBugnion@Microsoft.com
 
 > [This topic was published here](http://azurewordsoftheday.cloud/topic/aad/aad).
 
+## Short description
+
+AAD is an abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure.
+
 ## Phonetics
 
 eɪ-eɪ-diː
