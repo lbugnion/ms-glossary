@@ -8,7 +8,7 @@
 
 > Keywords: TLS, SSL, HTTPS, Encryption, Certificates, Cryptography, Transport Layer Security, Secure Sockets Layer
 
-> Blurb: two protocols used to encrypt communication on a network.
+> Blurb: two protocols used to encrypt communication on a network
 
 > Submitted by: LBugnion@Microsoft.com
 

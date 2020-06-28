@@ -8,7 +8,7 @@
 
 > Keywords: AAD, Active Directory, Authorization, Authentication, Identity
 
-> Blurb: a service used to provide identity services, such as authentication and authorization.
+> Blurb: an abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure
 
 > Submitted by: LBugnion@Microsoft.com
 

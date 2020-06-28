@@ -8,7 +8,7 @@
 
 > Keywords: Web Server, ASP.NET, Node.JS, Web Api
 
-> Blurb: a web server provided as a service, where you can run HTTP based applications.
+> Blurb: a web server "as a service" on Azure, allowing you to run HTTP-based applications on Windows and Linux
 
 > Submitted by: LBugnion@Microsoft.com
 

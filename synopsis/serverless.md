@@ -8,11 +8,13 @@ LBugnion@Microsoft.com
 
 > [This topic was published here](http://azurewordsoftheday.cloud/topic/serverless/serverless).
 
+## Short description
+
+a way to run applications on a server without having to manage this server
+
 ## Phonetics
 
 ˈsɜːvəlɛs
-
-![Phonetics image](images/serverless/Serverless.png)
 
 ## Notes
 

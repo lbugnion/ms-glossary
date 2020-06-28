@@ -10,13 +10,11 @@ LBugnion@Microsoft.com
 
 ## Short description
 
-AAD is an abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure.
+an abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure.
 
 ## Phonetics
 
 eɪ-eɪ-diː
-
-![aad](images/aad/aad.png)
 
 ˈæʒər
 

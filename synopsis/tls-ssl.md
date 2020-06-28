@@ -6,11 +6,13 @@ LBugnion@Microsoft.com
 
 @LBugnion
 
+## Short description
+
+two protocols used to encrypt communication on a network
+
 ## Phonetics
 
 ti-ɛl-ɛs / ɛs-ɛs-ɛl
-
-![Phonetics image](images/tls-ssl/Phonetics.png)
 
 ## Notes
 

@@ -26,20 +26,7 @@ The goal of showing a phonetic transcription of the word is to create a feeling 
 3. Make sure that `American` is selected. This is just to ensure that we have consistent phonetics through all the entries.
 4. Click on `Show Transcription`.
 5. Copy the transcription.
-6. Open [Paint.net](https://www.getpaint.net/download.html) (or your favorite image editor).
-7. Create a PNG with the transcription in parenthesis, for example:
-
-![phonetics](images/Phonetics.png)
-
-> *Try to create an image close to this one for consistency*
-
-> *This image uses the Calibri font at 192 pt*
-
-> *[There is a template for Paint.NET here](../templates/Phonetics.pdn)*
-
-8. Save the image in the [synopsis/images](../synopsis/images/) folder.
-
-9. Include the image in your synopsis markdown.
+6. Include the transcription into your Synopsis markdown.
 
 <a id="topics"></a>
 
