@@ -12,6 +12,13 @@
 
 - Edit the video and produce it.
 
+
+|Part|Text|Behavior|
+|---------|---------|---------|
+|Video title|Segoe UI Semibold, Regular, 148|Hinge, Text Left to right, Spring, Bottom, Tension 5.00, Offset 0.05s|
+|Video phonetics|Segoe UI Semibold, Regular, 101|Fade in, Text Left to Right, Linear, 83%, Offset 0.05s|
+|Video short description|Segoe UI, Regular, 66|Fade in, Text Left to Right, Linear, 100%, Offset 0.05s|
+
 - Create the captions file(s) (*.srt).
     - Caption files are saved in the [Captions folder](../captions).
     - Link to [Subtitle Edit for Windows](https://www.nikse.dk/SubtitleEdit/).
