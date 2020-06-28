@@ -8,6 +8,10 @@ LBugnion@Microsoft.com
 
 > [This topic was published here](http://azurewordsoftheday.cloud/topic/app-service/app-service).
 
+## Short description
+
+a web server "as a service" on Azure, allowing you to run HTTP-based applications on Windows and Linux
+
 ## Phonetics
 
 ![Phonetics image](images/app-service/app-service.png)

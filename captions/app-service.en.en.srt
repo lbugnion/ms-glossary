@@ -1,161 +1,157 @@
 ﻿1
-00:00:00,349 --> 00:00:03,143
-Today's words of the day are: App Service
-
-2
-00:00:05,808 --> 00:00:08,626
+00:00:07,579 --> 00:00:10,397
 Hello and welcome to
 Microsoft Azure Words of the Day
 
-3
-00:00:08,651 --> 00:00:11,585
+2
+00:00:10,422 --> 00:00:13,356
 this is the show that teaches
 you the Azure vocabulary!
 
-4
-00:00:12,394 --> 00:00:16,325
+3
+00:00:13,590 --> 00:00:17,521
 An App Service is a web server
 running as a service in Microsoft Azure.
 
-5
-00:00:16,350 --> 00:00:19,056
+4
+00:00:17,546 --> 00:00:20,252
 So you can run HTTP based applications
 
-6
-00:00:19,081 --> 00:00:23,580
+5
+00:00:20,277 --> 00:00:24,776
 for example a mobile backend,
 a web API, a website etc.
 
-7
-00:00:23,699 --> 00:00:26,381
+6
+00:00:24,895 --> 00:00:27,577
 The really cool thing is that
 you can choose between Windows
 
-8
-00:00:26,452 --> 00:00:29,683
+7
+00:00:27,648 --> 00:00:30,879
 and Linux as your operating
 system, so you have a choice.
 
-9
-00:00:29,762 --> 00:00:33,484
+8
+00:00:30,958 --> 00:00:34,680
 And you can deploy your code,
 either in a Docker based container
 
-10
-00:00:33,532 --> 00:00:35,444
+9
+00:00:34,728 --> 00:00:36,640
 or directly from Github,
 
-11
-00:00:35,469 --> 00:00:39,351
+10
+00:00:36,665 --> 00:00:40,547
 from other repositories or from a
 continuous deployment solution.
 
-12
-00:00:39,704 --> 00:00:42,892
+11
+00:00:40,900 --> 00:00:44,088
 Around App Services,
 you can also configure a lot of features
 
-13
-00:00:42,923 --> 00:00:45,542
+12
+00:00:44,119 --> 00:00:46,738
 for example different
 deployment solutions,
 
-14
-00:00:45,600 --> 00:00:47,867
+13
+00:00:46,796 --> 00:00:49,063
 Authorization and
 Authentication,
 
-15
-00:00:47,998 --> 00:00:51,974
+14
+00:00:49,194 --> 00:00:53,170
 Identity, Backups,
 Custom domains,
 
-16
-00:00:52,079 --> 00:00:55,333
+15
+00:00:53,275 --> 00:00:56,529
 TLS and SSL to enable
 HTTPS,
 
-17
-00:00:55,571 --> 00:00:58,387
+16
+00:00:56,767 --> 00:00:59,583
 you can also automatically
 scale up and scale down
 
-18
-00:00:58,476 --> 00:01:01,719
+17
+00:00:59,672 --> 00:01:02,915
 for example to respond to a
 lot of demand very fast.
 
-19
-00:01:01,955 --> 00:01:03,605
+18
+00:01:03,151 --> 00:01:04,801
 Let's check the application
 
-20
-00:01:03,635 --> 00:01:06,542
+19
+00:01:04,831 --> 00:01:07,738
 now this here is an
 ASP.NET Core application
 
-21
-00:01:06,573 --> 00:01:10,322
+20
+00:01:07,769 --> 00:01:11,518
 running a React.JS front end,
 but App Services also support
 
-22
-00:01:10,347 --> 00:01:16,486
+21
+00:01:11,543 --> 00:01:17,682
 classic .NET, Java,
 Node.js, Ruby, Python, PHP,
 
-23
-00:01:16,511 --> 00:01:18,702
+22
+00:01:17,707 --> 00:01:19,898
 so you have a choice
 for your framework.
 
-24
-00:01:18,902 --> 00:01:22,344
+23
+00:01:20,098 --> 00:01:23,540
 In the Azure portal you can check
 the health of your app service,
 
-25
-00:01:22,369 --> 00:01:27,018
+24
+00:01:23,565 --> 00:01:28,214
 and there is also Application Insights
 which is a very rich monitoring solution.
 
-26
-00:01:27,173 --> 00:01:31,065
+25
+00:01:28,369 --> 00:01:32,261
 If I scroll down further we can
 see more monitoring solutions,
 
-27
-00:01:31,151 --> 00:01:33,747
+26
+00:01:32,347 --> 00:01:34,943
 for example the Log Stream
 which allows me to see
 
-28
-00:01:33,772 --> 00:01:36,864
+27
+00:01:34,968 --> 00:01:38,060
 what is happening in my
 application in real time
 
-29
-00:01:36,889 --> 00:01:40,062
+28
+00:01:38,085 --> 00:01:41,258
 That's quite handy to avoid
 having to download the logs.
 
-30
-00:01:40,174 --> 00:01:42,958
+29
+00:01:41,370 --> 00:01:44,154
 App Services have a lot of
 additional functionalities,
 
-31
-00:01:42,983 --> 00:01:45,911
+30
+00:01:44,179 --> 00:01:47,107
 so make sure to check the links
 here to know more about that
 
-32
-00:01:46,136 --> 00:01:49,390
+31
+00:01:47,332 --> 00:01:50,586
 Thank you so much for watching
 Microsoft Azure Words of the Day
 
-33
-00:01:49,415 --> 00:01:52,279
+32
+00:01:50,611 --> 00:01:53,475
 Today's words of the
 day were: App Service.
 
