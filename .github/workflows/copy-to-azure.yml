@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: upload-captions
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@master
       - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
         with:
           source_dir: 'topics'
