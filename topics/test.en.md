@@ -44,7 +44,7 @@
 
 ## Transcript
 
-Today's word of the day is: Test. 
+Today's word of the day is: Test.
 
 Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
 

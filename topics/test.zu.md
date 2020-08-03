@@ -44,7 +44,7 @@
 
 ## Umbhalo
 
-Izwi losuku lwanamuhla lithi: Vivinyo. 
+Izwi losuku lwanamuhla lithi: Vivinyo.
 
 Sawubona futhi wamukelekile ku- [Microsoft Azure Words of the Day](/zu), lo mbukiso owokufundisa isilulumagama sama-Azure!
 

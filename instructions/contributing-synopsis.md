@@ -1,12 +1,12 @@
 # Contributing a synopsis for a new topic
 
-This document explains how you can contribute a new topic to the Words of the Day site. Thank you for your interest in helping us grow this glossary!!
+This document explains how you can contribute a new topic to the Microsoft Glossary. Thank you for your interest in helping us grow this glossary!!
 
 The first step in submitting a new topic is to create a synopsis with all the relevant information. When the synopsis is finished and submitted, we will review it and contact you to talk about recording the video and adding the new topic to the website.
 
 ## Browse the site and get familiar with the format
 
-As a first step, you should browse [the Words of the Day website](http://gslb.ch/wod) and watch some of the videos. We are trying to get a unified experience and if possible the topics on the site should have a similar format.
+As a first step, you should browse [the Microsoft Glossary website](http://gslb.ch/wod) and watch some of the videos. We are trying to get a unified experience and if possible the topics on the site should have a similar format.
 
 This is also a chance to check if the topic that you have in mind already exists! If that is the case and you think the topic should be modified or updated, [contact us](mailto:lbugnion@microsoft.com)!
 
@@ -35,19 +35,19 @@ The "success" email has the following information:
 
 - A summary of your submission.
 - A link to this document.
-- A link to the new topic that you just submitted [in the GitHub repository](https://github.com/lbugnion/wordsoftheday-md).
+- A link to the new topic that you just submitted [in the GitHub repository](https://github.com/lbugnion/ms-glossary).
 
-> The document created by your submission in the Words of the Day repository is called a `synopsis`. This is the document in which you will be working in the next steps to finalize your submission.
+> The document created by your submission in the Microsoft Glossary repository is called a `synopsis`. This is the document in which you will be working in the next steps to finalize your submission.
 
 ## Check the synopsis
 
 Your next step is to work on the synopsis to complete your submission. Navigate to the link from the email you received. This link should be something like this:
 
-`https://github.com/lbugnion/wordsoftheday-test/blob/app-service/synopsis/app-service.md`
+`https://github.com/lbugnion/ms-glossary/blob/app-service/synopsis/app-service.md`
 
 > Of course your link will be slightly different based on the topic you submitted.
 
-This link is into a new branch inside the GitHub repository. This allows you to work without risking to cause issues inside the repository. This is important because the repository's content is used to automatically update th Words of the Day website.
+This link is into a new branch inside the GitHub repository. This allows you to work without risking to cause issues inside the repository. This is important because the repository's content is used to automatically update the Microsoft Glossary website.
 
 The GitHub page should look something like this:
 
@@ -63,7 +63,7 @@ The following points must be noted:
 
 > [More information about GitHub branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
 
-4. In order to make changes to the document, you will click on the Edit button here. Note that the button will be disabled if you are not logged into GitHub. 
+4. In order to make changes to the document, you will click on the Edit button here. Note that the button will be disabled if you are not logged into GitHub.
 
 To continue with the next steps, you will need a GitHub account. This is not the same as your Microsoft account. If you don't have one already, [you can create a new GitHub account with these instructions](https://help.github.com/en/github/getting-started-with-github/signing-up-for-github).
 
@@ -75,7 +75,7 @@ To continue with the next steps, you will need a GitHub account. This is not the
 
 After logging into GitHub, press the Edit button (#4 on the image above).
 
-This will open the editor page, in which you can edit the Markdown document. 
+This will open the editor page, in which you can edit the Markdown document.
 
 > [More information about Markdown can be found here](https://www.markdownguide.org/).
 

@@ -46,7 +46,7 @@
 
 ## Transcript
 
-Today's word of the day is an abbreviation: AAD. 
+Today's word of the day is an abbreviation: AAD.
 
 Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
 

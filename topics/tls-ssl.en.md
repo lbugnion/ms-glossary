@@ -53,7 +53,7 @@ TLS is short for Transport Layer Security
 
 SSL is short for Secure Sockets Layer.
 
-SSL is a standard that enables secure, encrypted transmissions over the internet. It requires a certificate that you can purchase from various vendors. 
+SSL is a standard that enables secure, encrypted transmissions over the internet. It requires a certificate that you can purchase from various vendors.
 
 TLS is similar to SSL but it is a newer, more modern version. It also relies on certificates, in fact when you purchase an SSL certificate, it is often already ready for TLS.
 

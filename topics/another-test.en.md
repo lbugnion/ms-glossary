@@ -40,7 +40,7 @@
 
 ## Transcript
 
-Today's words of the day are: Another Test. 
+Today's words of the day are: Another Test.
 
 Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
 

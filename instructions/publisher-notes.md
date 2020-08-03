@@ -4,14 +4,13 @@
 
 ## Publishing a new video
 
-- On [Github](https://github.com/lbugnion/wordsoftheday-md), check the branch `TOPIC` out, where `TOPIC` is the current topic, for example `app-service`, `serverless`, `aad` etc.
+- On [Github](https://github.com/lbugnion/ms-glossary), check the branch `TOPIC` out, where `TOPIC` is the current topic, for example `app-service`, `serverless`, `aad` etc.
 
 > Most probably the branch already exists from when the synopsis was created. If it doesn't, or if you want to start fresh, just create a new branch with a similar name.
 
 - Update the synopsis (in the [Synopsis folder](../synopsis))
 
 - Edit the video and produce it.
-
 
 |Part|Text|Behavior|
 |---------|---------|---------|
@@ -20,19 +19,19 @@
 |Video short description|Segoe UI, Regular, 66|Fade in, Text Left to Right, Linear, 100%, Offset 0.05s|
 
 - Create the captions file(s) (*.srt).
-    - Caption files are saved in the [Captions folder](../captions).
-    - Link to [Subtitle Edit for Windows](https://www.nikse.dk/SubtitleEdit/).
+  - Caption files are saved in the [Captions folder](../captions).
+  - Link to [Subtitle Edit for Windows](https://www.nikse.dk/SubtitleEdit/).
 
 - Create the topic file (under [the Topics folder](../topics/)).
 
 - Produce the video with embedded captions [with Handbrake](https://handbrake.fr/).
-    - [See the Handbrake settings here](#handbrake)
+  - [See the Handbrake settings here](#handbrake)
 
 - Upload the video with captions [in the Videos containers](http://gslb.ch/462).
-    - If you don't have access to the Storage container, contact LBugnion@microsoft.com
+  - If you don't have access to the Storage container, contact LBugnion@microsoft.com
 
 - Publish the new video to YouTube.
-    - [Instructions for YouTube](#youtube)
+  - [Instructions for YouTube](#youtube)
 
 - Copy the new YouTube video code into the Topic file under `> YouTube: CODE`
 
@@ -48,28 +47,28 @@
 
 ## Updating an existing video
 
-- On [Github](https://github.com/lbugnion/wordsoftheday-md), create a new branch "TOPIC-update-nn" where
-    - TOPIC is the current topic, for example `app-service`, `serverless`, `aad` etc.
-    - nnn is an index to differentiate branches with similar names.
+- On [Github](https://github.com/lbugnion/ms-glossary), create a new branch "TOPIC-update-nn" where
+  - TOPIC is the current topic, for example `app-service`, `serverless`, `aad` etc.
+  - nnn is an index to differentiate branches with similar names.
 
 - Update the synopsis (in the [Synopsis folder](../synopsis))
 
 - Edit the video and produce it.
 
 - Update the captions file(s) (*.srt).
-    - Caption files are saved in the [Captions folder](../captions).
-    - Link to [Subtitle Edit for Windows](https://www.nikse.dk/SubtitleEdit/).
+  - Caption files are saved in the [Captions folder](../captions).
+  - Link to [Subtitle Edit for Windows](https://www.nikse.dk/SubtitleEdit/).
 
 - Update the topic file (under [the Topics folder](../topics/)).
 
 - Produce the video with embedded captions [with Handbrake](https://handbrake.fr/).
-    - [See the Handbrake settings here](#handbrake)
+  - [See the Handbrake settings here](#handbrake)
 
 - Upload the video with captions [in the Videos containers](http://gslb.ch/462).
-    - If you don't have access to the Storage container, contact LBugnion@microsoft.com
+  - If you don't have access to the Storage container, contact LBugnion@microsoft.com
 
 - Publish the new video to YouTube.
-    - [Instructions for YouTube](#youtube)
+  - [Instructions for YouTube](#youtube)
 
 > Because of YouTube constraints, there is no way to update an existing video, you must publish it as a new video.
 
@@ -91,7 +90,7 @@
 
 ## Handbrake settings
 
-![Hanbrake Summary](./images/2020-06-11_17-03-57.png)
+![Handbrake Summary](./images/2020-06-11_17-03-57.png)
 
 ![Handbrake Video](./images/2020-06-11_17-05-50.png)
 
@@ -122,7 +121,7 @@ LINK
 
 > Use the friendly shortened link here, for example `http://gslb.ch/wod-serverless`.
 
-### Other settings:
+### Other settings
 
 - Thumbnail: Upload a thumbnail looking like this:
 
@@ -135,7 +134,7 @@ LINK
 - No end screen
 - No cards
 
-** More options**
+#### More options
 
 - Recording date: Set
 - Video location: None
@@ -145,9 +144,9 @@ LINK
 - Caption certification: None
 
 - **Upload the captions file (SRT) here.**
-    - With Timing
+  - With Timing
 
-- Hold potentially inappropriate commens for review
+- Hold potentially inappropriate comments for review
 - Users can view ratings for this video: Yes
 - Allow embedding: yes
 - Publish to the Subscriptions feed: Yes

@@ -6,11 +6,11 @@ The synopsis has two main goals:
 
 - Help us understand your project so that we can approve it as fast as possible.
 
-> Remember: the videos must be strictly under 2:20 so we can post them to Twitter. Aim for 2 minutes, keep them short and captivating! 
+> Remember: the videos must be strictly under 2:20 so we can post them to Twitter. Aim for 2 minutes, keep them short and captivating!
 
 ## Getting started
 
-You can get started by submitting a new topic, [the instructions are here](contributing-synospsis.md). 
+You can get started by submitting a new topic, [the instructions are here](contributing-synospsis.md).
 
 <a id="phonetics"></a>
 
@@ -18,7 +18,7 @@ You can get started by submitting a new topic, [the instructions are here](contr
 
 The goal of showing a phonetic transcription of the word is to create a feeling of being in a dictionary. You can easily create a new phonetics PNG with the following steps:
 
-1. Go to https://tophonetics.com/.
+1. Go to [https://tophonetics.com](https://tophonetics.com/).
 2. Paste your english text in the box.
 
 ![tophonetics screenshot](images/2020-04-29_17-21-27.png)
@@ -100,8 +100,8 @@ One of the goals of this project is to drive traffic to the Microsoft documentat
 
 Each link will be instrumented with information allowing us to track the clicks. You don't have to worry about that however. In the synopsis document, simply list the links, for example:
 
-- [App Service overview](https://docs.microsoft.com/en-us/azure/app-service/overview)
-- [App Service documentation](https://docs.microsoft.com/en-us/azure/app-service)
+- [App Service overview](https://docs.microsoft.com/azure/app-service/overview)
+- [App Service documentation](https://docs.microsoft.com/azure/app-service)
 
 <a id="learn"></a>
 
@@ -113,17 +113,17 @@ You can either provide a link to a Learning path, or to a specific module, or bo
 
 For example:
 
-- [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service) *(learning path)*
-- [Capture Web Application Logs with App Service Diagnostics Logging](https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service) *(module)*
-- [Create and publish a web application with Azure App Service and Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app-service-vs-code) *(module)*
+- [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service) *(learning path)*
+- [Capture Web Application Logs with App Service Diagnostics Logging](https://docs.microsoft.com/learn/modules/capture-application-logs-app-service) *(module)*
+- [Create and publish a web application with Azure App Service and Visual Studio Code](https://docs.microsoft.com/learn/modules/create-publish-webapp-app-service-vs-code) *(module)*
 
 <a id="script"></a>
 
 ## Script
 
-Maybe the most important part of the synopsis, and the one you'll spend the most time creating, is the script. 
+Maybe the most important part of the synopsis, and the one you'll spend the most time creating, is the script.
 
-All Words of the Day videos are scripted. This serves a few purposes:
+All Microsoft Glossary videos are scripted. This serves a few purposes:
 
 - Help us review the video before it is even created.
 - Help you create videos that are short (below 2:20 so they can be posted to Twitter) and to the point.
@@ -144,4 +144,3 @@ or
 If you have images, screenshots etc, add them to the script too (you can save the images in the [synopsis/images](../synopsis/images/) folder). Any information you add to the script will be helpful later when recording the video.
 
 Don't worry, we will also review the script and help you get it right before filming the video :)
-

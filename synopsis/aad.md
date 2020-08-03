@@ -1,4 +1,4 @@
-# Azure Words of the Day Synopsis: AAD
+# Microsoft Glossary Synopsis: AAD
 
 ## Submitted by
 
@@ -6,7 +6,7 @@ LBugnion@Microsoft.com
 
 @LBugnion
 
-> [This topic was published here](http://azurewordsoftheday.cloud/topic/aad/aad).
+> [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/aad/aad).
 
 ## Short description
 
@@ -36,30 +36,31 @@ dəˈrɛktəri
 - Integration in MS Cloud, MS 365, PaaS, Windows 10.
 - Using MFA.
 
-## Keywords:
+## Keywords
 
 AAD, Active Directory, Authorization, Authentication, Identity
 
-## Demos 
+## Demos
 
-- Showing the [content of the poster here](https://www.microsoft.com/en-us/download/details.aspx?id=54431).
+- Showing the [content of the poster here](https://www.microsoft.com/download/details.aspx?id=54431).
 - Showing how to use the authenticator app to log into the Azure portal
-    - Demo using Vysor to mirror the Android phone and show how fingerprint ID is used by the Authenticator app.
+  - Demo using Vysor to mirror the Android phone and show how fingerprint ID is used by the Authenticator app.
 
 ## Links to doc
-- https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
-- https://www.microsoft.com/en-us/download/details.aspx?id=54431
+
+- [https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis)
+- [https://www.microsoft.com/download/details.aspx?id=54431](https://www.microsoft.com/download/details.aspx?id=54431)
 
 ## Links to Learn
 
-- [What is Azure Active Directory?](https://docs.microsoft.com/en-us/learn/paths/manage-identity-and-access) (*learning path*)
-- [Secure your identities by using Azure Active Directory](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad) (*module*)
+- [What is Azure Active Directory?](https://docs.microsoft.com/learn/paths/manage-identity-and-access) (*learning path*)
+- [Secure your identities by using Azure Active Directory](https://docs.microsoft.com/learn/modules/intro-to-azure-ad) (*module*)
 
 <a id="script"></a>
 
 ## Script
 
-Today's words are an abbreviation: AAD. 
+Today's words are an abbreviation: AAD.
 
 Hello and welcome to Microsoft Azure Words of the Day,
 the show that teaches you Azure vocabulary!
@@ -83,7 +84,7 @@ AAD has wide applications to identify and authorize people, inside Azure of cour
 There are different editions of AAD, Free Basic and Premium. Each edition has specific features, so make sure to check the documentation here.
 
 > Show callout
-> https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
+> [https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis)
 
 You can integrate with AAD at multiple levels: In the Microsoft cloud, with Microsoft 365 or any of our Platform as a Service offerings. In Windows 10 to join a device to an organization. It can also handle single sign-on, B2C and B2B and more.
 

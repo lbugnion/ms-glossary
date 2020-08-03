@@ -1,4 +1,4 @@
-> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/wordsoftheday-md/blob/master/instructions/contributing-synopsis.md)
+> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/contributing-synopsis.md)
 
 > Recording date: yymmdd
 
@@ -28,7 +28,7 @@
 
 ## Links
 
-> Use the following tracking for your Microsoft links: ?WT.mc_id=wordsoftheday-video-AUTHOR
+> Use the following tracking for your Microsoft links: ?WT.mc_id=msglossary-video-AUTHOR
 
 ### Documentation
 
@@ -47,9 +47,9 @@
 
 ## Transcript
 
-Today's word of the day is: WORD. 
-Today's words of the day are: EXPRESSION. 
-Today's word of the day is an abbreviation: ABBREVIATION. 
+Today's word of the day is: WORD.
+Today's words of the day are: EXPRESSION.
+Today's word of the day is an abbreviation: ABBREVIATION.
 
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 

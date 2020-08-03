@@ -1,4 +1,4 @@
-# Azure Words of the Day Synopsis: App Service
+# Microsoft Glossary Synopsis: App Service
 
 ## Submitted by
 
@@ -6,7 +6,7 @@ LBugnion@Microsoft.com
 
 @LBugnion
 
-> [This topic was published here](http://azurewordsoftheday.cloud/topic/app-service/app-service).
+> [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/app-service/app-service).
 
 ## Short description
 
@@ -16,7 +16,7 @@ a web server "as a service" on Azure, allowing you to run HTTP-based application
 
 ![Phonetics image](images/app-service/app-service.png)
 
-## Keywords:
+## Keywords
 
 App Service, Web Server, ASP.NET, Web Api
 
@@ -44,14 +44,14 @@ App Service, Web Server, ASP.NET, Web Api
 
 > ~ 15 seconds intro
 
-Today's words are: App Service. 
+Today's words are: App Service.
 
 Hello and welcome to Microsoft Azure Words of the Day,
 the show that teaches you the Azure vocabulary!
 
 > ~ 35 seconds on camera
 
-An App Service is a web server running as a service on Azure. So you can run web based applications, that means HTTP based applications such as a mobile backend, a website, a web API etc. The really cool thing is that you can choose Windows or Linux as your operating system, so you have a choice. And you can deploy your code, either in a Docker container, or directly from a Github repository, other repositories or from a continuous deployment solution. 
+An App Service is a web server running as a service on Azure. So you can run web based applications, that means HTTP based applications such as a mobile backend, a website, a web API etc. The really cool thing is that you can choose Windows or Linux as your operating system, so you have a choice. And you can deploy your code, either in a Docker container, or directly from a Github repository, other repositories or from a continuous deployment solution.
 
 > Demo portal, ~ 30 seconds
 
