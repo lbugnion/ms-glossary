@@ -8,13 +8,17 @@
 
 > Keywords: TLS, SSL, HTTPS, Encryption, Certificates, Cryptography, Transport Layer Security, Secure Sockets Layer
 
-> Blurb: two protocols used to encrypt communication on a network
+> Blurb: Two protocols used to encrypt communication on a network
 
-> Submitted by: LBugnion@Microsoft.com
+> Author name: Laurent Bugnion
+
+> Email: LBugnion@Microsoft.com
+
+> GitHub: LBugnion
 
 > Twitter: @LBugnion
 
-> [This topic was published here](http://gslb.ch/wod-tls-ssl).
+> [This topic was published here](http://gslb.ch/gloss-tls-ssl).
 
 # [TLS/SSL](/topic/en/tls-ssl)
 
@@ -47,7 +51,7 @@
 
 Today's words of the day are abbreviations: TLS / SSL.
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), the show that teaches you the Azure vocabulary!
+Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
 TLS is short for Transport Layer Security
 

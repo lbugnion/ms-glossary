@@ -8,13 +8,17 @@
 
 > Keywords: Web Server, ASP.NET, Node.JS, Web Api
 
-> Blurb: a web server "as a service" on Azure, allowing you to run HTTP-based applications on Windows and Linux
+> Blurb: A web server "as a service" on Azure, allowing you to run HTTP-based applications on Windows and Linux
 
-> Submitted by: LBugnion@Microsoft.com
+> Author name: Laurent Bugnion
+
+> Email: LBugnion@Microsoft.com
+
+> GitHub: LBugnion
 
 > Twitter: @LBugnion
 
-> [This topic was published here](http://gslb.ch/wod-app-service).
+> [This topic was published here](http://gslb.ch/gloss-app-service).
 
 # [App Service](/topic/en/app-service)
 

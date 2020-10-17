@@ -8,13 +8,17 @@
 
 > Keywords: Azure Function, Logic App, Trigger, Connector
 
-> Blurb: a way to run applications on a server without having to manage this server
+> Blurb: A way to run applications on a server without having to manage this server
 
-> Submitted by: LBugnion@Microsoft.com
+> Author name: Laurent Bugnion
+
+> Email: LBugnion@Microsoft.com
+
+> GitHub: LBugnion
 
 > Twitter: @LBugnion
 
-> [This topic was published here](http://gslb.ch/wod-serverless).
+> [This topic was published here](http://gslb.ch/gloss-serverless).
 
 # [Serverless](/topic/en/serverless)
 

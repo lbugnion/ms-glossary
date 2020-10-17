@@ -8,13 +8,17 @@
 
 > Keywords: AAD, Active Directory, Authorization, Authentication, Identity
 
-> Blurb: an abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure
+> Blurb: An abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure
 
-> Submitted by: LBugnion@Microsoft.com
+> Author name: Laurent Bugnion | Scott Cate
 
-> Twitter: @LBugnion
+> Email: LBugnion@Microsoft.com | scottca@microsoft.com
 
-> [This topic was published here](http://gslb.ch/wod-aad).
+> GitHub: LBugnion | ScottCate
+
+> Twitter: @LBugnion | @ScottCate
+
+> [This topic was published here](http://gslb.ch/gloss-aad).
 
 # [Azure Active Directory AAD](/topic/en/aad)
 

@@ -1,20 +1,24 @@
 > Recording date: 20200505
 
-> Language: en / English, zu / Zulu
+> Language: en / English
 
-> Captions: en / English, zu / Zulu
+> Captions: en / English
 
 > YouTube: TEST
 
 > Keywords: Test, Testing, Authentication
 
-> Blurb: a topic used to for tests only.
+> Blurb: A topic used to for tests only.
 
-> Submitted by: LBugnion@Microsoft.com
+> Author name: Laurent Bugnion
+
+> Email: LBugnion@Microsoft.com
+
+> GitHub: LBugnion
 
 > Twitter: @LBugnion
 
-> [This topic was published here](http://gslb.ch/wod-test).
+> [This topic was published here](http://gslb.ch/gloss-test).
 
 # [Another test topic](/topic/en/test)
 

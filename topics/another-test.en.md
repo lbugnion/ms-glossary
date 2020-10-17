@@ -4,13 +4,17 @@
 
 > Keywords: Test Again, Another Test, Authentication
 
-> Blurb: another topic used to for tests only, that you should probably ignore.
+> Blurb: Another topic used to for tests only, that you should probably ignore.
 
-> Submitted by: LBugnion@Microsoft.com
+> Author name: Laurent Bugnion
+
+> Email: LBugnion@Microsoft.com
+
+> GitHub: LBugnion
 
 > Twitter: @LBugnion
 
-> [This topic was published here](http://gslb.ch/wod-another-test).
+> [This topic was published here](http://gslb.ch/gloss-another-test).
 
 # [Yet another test topic](/topic/en/another-test)
 
