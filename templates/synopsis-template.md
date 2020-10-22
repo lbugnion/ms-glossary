@@ -6,11 +6,13 @@
 
 ## Submitted by
 
-<!-- ENTER YOUR NAME HERE -->
+Name: <!-- ENTER YOUR NAME HERE -->
 
-<!-- ENTER YOUR EMAIL HERE -->
+Email: <!-- ENTER YOUR EMAIL HERE -->
 
-<!-- ENTER YOUR TWITTER NAME HERE -->
+Twitter: <!-- ENTER YOUR TWITTER NAME HERE -->
+
+GitHub: <!-- ENTER YOUR GITHUB NAME HERE -->
 
 ## Short description
 
@@ -20,12 +22,10 @@
 
 [https://tophonetics.com](https://tophonetics.com/)
 
-> Add an image of the phonetics for the word or the expression.
+> Add the phonetics of the word or the expression.
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#phonetics)
 
 wɜrd
-
-![Phonetics image](images/WORD/Phonetics.png)
 
 ## Topics
 
