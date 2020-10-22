@@ -20,15 +20,7 @@
 
 > [This topic was published here](http://gslb.ch/gloss-aad).
 
-# [Azure Active Directory AAD](/topic/en/aad)
-
-<!-- YOUTUBEEMBED -->
-
-<!-- LANGUAGESTITLE -->
-
-<!-- OTHERLANGUAGES -->
-
-<!-- DOWNLOAD-CAPTIONS -->
+# Azure Active Directory AAD
 
 ## Links
 
@@ -44,15 +36,11 @@
 - [What is Azure Active Directory?](http://gslb.ch/450) *(learning path)*
 - [Secure your identities by using Azure Active Directory](http://gslb.ch/451) *(module)*
 
-<!-- DOWNLOAD -->
-
-<a id="transcript"></a>
-
 ## Transcript
 
 Today's word of the day is an abbreviation: AAD.
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
+Hello and welcome to Microsoft Azure Words of the Day, this is the show that teaches you Azure vocabulary!
 
 AAD is short for Azure Active Directory.
 

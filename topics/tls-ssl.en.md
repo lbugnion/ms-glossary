@@ -20,15 +20,7 @@
 
 > [This topic was published here](http://gslb.ch/gloss-tls-ssl).
 
-# [TLS/SSL](/topic/en/tls-ssl)
-
-<!-- YOUTUBEEMBED -->
-
-<!-- LANGUAGESTITLE -->
-
-<!-- OTHERLANGUAGES -->
-
-<!-- DOWNLOAD-CAPTIONS -->
+# TLS/SSL
 
 ## Links
 
@@ -42,10 +34,6 @@
 - [Security, responsibility, and trust in Azure](http://gslb.ch/459) *(Module)*
 - [Cloud security](http://gslb.ch/465) *(Module)*
 - [Fundamentals of network security](http://gslb.ch/460) *(Module)*
-
-<!-- DOWNLOAD -->
-
-<a id="transcript"></a>
 
 ## Transcript
 

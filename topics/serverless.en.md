@@ -20,15 +20,7 @@
 
 > [This topic was published here](http://gslb.ch/gloss-serverless).
 
-# [Serverless](/topic/en/serverless)
-
-<!-- YOUTUBEEMBED -->
-
-<!-- LANGUAGESTITLE -->
-
-<!-- OTHERLANGUAGES -->
-
-<!-- DOWNLOAD-CAPTIONS -->
+# Serverless
 
 ## Links
 
@@ -48,15 +40,11 @@
 
 - [Azure Pricing Calculator](http://gslb.ch/461)
 
-<!-- DOWNLOAD -->
-
-<a id="transcript"></a>
-
 ## Transcript
 
 Today's word of the day is: Serverless.
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you the Azure vocabulary!
+Hello and welcome to Microsoft Azure Words of the Day, this is the show that teaches you the Azure vocabulary!
 
 Serverless means that your code runs on a server, but you don't have to worry about that server. It is abstracted. As a developer, you can concentrate on writing the code, testing it and deploying it. Several features are automated: Starting the application, listening to events to start the execution of the code, scaling up and down when the demand fluctuates, etc.
 

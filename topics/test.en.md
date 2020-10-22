@@ -20,15 +20,7 @@
 
 > [This topic was published here](http://gslb.ch/gloss-test).
 
-# [Another test topic](/topic/en/test)
-
-<!-- YOUTUBEEMBED -->
-
-<!-- LANGUAGESTITLE -->
-
-<!-- OTHERLANGUAGES -->
-
-<!-- DOWNLOAD-CAPTIONS -->
+# Another test topic
 
 ## Links
 
@@ -42,15 +34,11 @@
 - [Another link 1](http://gslb.ch) *(Module)*
 - [Another link 2](http://gslb.ch) *(Learning path)*
 
-<!-- DOWNLOAD -->
-
-<a id="transcript"></a>
-
 ## Transcript
 
 Today's word of the day is: Test.
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
+Hello and welcome to Microsoft Azure Words of the Day, this is the show that teaches you Azure vocabulary!
 
 But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.
 

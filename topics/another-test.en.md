@@ -16,15 +16,7 @@
 
 > [This topic was published here](http://gslb.ch/gloss-another-test).
 
-# [Yet another test topic](/topic/en/another-test)
-
-<!-- YOUTUBEEMBED -->
-
-<!-- LANGUAGESTITLE -->
-
-<!-- OTHERLANGUAGES -->
-
-<!-- DOWNLOAD-CAPTIONS -->
+# Yet another test topic
 
 ## Links
 
@@ -38,15 +30,11 @@
 - [Another link 1](http://gslb.ch) *(Module)*
 - [Another link 2](http://gslb.ch) *(Learning path)*
 
-<!-- DOWNLOAD -->
-
-<a id="transcript"></a>
-
 ## Transcript
 
 Today's words of the day are: Another Test.
 
-Hello and welcome to [Microsoft Azure Words of the Day](/en), this is the show that teaches you Azure vocabulary!
+Hello and welcome to Microsoft Azure Words of the Day, this is the show that teaches you Azure vocabulary!
 
 Designers at the digital agency Boom have imagined a better way. They’ve created a free text generator that replaces lorem ipsum with useful, topical prose that you can build in list or paragraph form, and in plain text or HTML. So if you’re creating a cooking site, you can generate text about hamburgers or tacos. And if you’re creating a political app, you can generate text about democracy or past presidents. It may not matter, but at the same time, if you’ve ever had to squint past the weird Latin to really focus on the layout of a design, you’ll appreciate the improved topical context.
 
