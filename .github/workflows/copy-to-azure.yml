@@ -48,7 +48,8 @@ jobs:
 #          headers: '{ "x-functions-key": "${{ secrets.UpdateFunctionKey }}" }'
   notify-after:
     runs-on: ubuntu-latest
-    needs: trigger-update
+# TODO Change to trigger-update
+    needs: upload-markdown
     steps:
       - uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
         with:
