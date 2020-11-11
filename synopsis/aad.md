@@ -2,9 +2,13 @@
 
 ## Submitted by
 
-LBugnion@Microsoft.com
+Name: Laurent Bugnion
 
-@LBugnion
+Email: lbugnion@microsoft.com
+
+Twitter: @LBugnion
+
+GitHub: LBugnion
 
 > [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/aad/aad).
 
@@ -18,15 +22,9 @@ eɪ-eɪ-diː
 
 ˈæʒər
 
-![azure](images/aad/azure.png)
-
 ˈæktɪv
 
-![active](images/aad/active.png)
-
 dəˈrɛktəri
-
-![directory](images/aad/directory.png)
 
 ## Notes
 

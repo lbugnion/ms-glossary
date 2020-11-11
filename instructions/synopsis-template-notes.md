@@ -94,7 +94,7 @@ You can see a few examples of "demos" below.
 
 <a id="docs"></a>
 
-## Links to Docs and Learn
+## Links to Docs
 
 One of the goals of this project is to drive traffic to the Microsoft documentation and Learn pages. For each topic, you should provide a list of Docs and Learn links.
 

@@ -2,9 +2,13 @@
 
 ## Submitted by
 
-LBugnion@Microsoft.com
+Name: Laurent Bugnion
 
-@LBugnion
+Email: lbugnion@microsoft.com
+
+Twitter: @LBugnion
+
+GitHub: LBugnion
 
 > [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/app-service/app-service).
 
@@ -14,7 +18,7 @@ a web server "as a service" on Azure, allowing you to run HTTP-based application
 
 ## Phonetics
 
-![Phonetics image](images/app-service/app-service.png)
+æp ˈsɜrvəs
 
 ## Keywords
 

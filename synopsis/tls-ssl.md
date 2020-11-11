@@ -2,9 +2,13 @@
 
 ## Submitted by
 
-LBugnion@Microsoft.com
+Name: Laurent Bugnion
 
-@LBugnion
+Email: lbugnion@microsoft.com
+
+Twitter: @LBugnion
+
+GitHub: LBugnion
 
 ## Short description
 

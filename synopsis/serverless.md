@@ -2,9 +2,13 @@
 
 ## Submitted by
 
-LBugnion@Microsoft.com
+Name: Laurent Bugnion
 
-@LBugnion
+Email: lbugnion@microsoft.com
+
+Twitter: @LBugnion
+
+GitHub: LBugnion
 
 > [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/serverless/serverless).
 
