@@ -37,19 +37,18 @@ jobs:
           source_dir: 'topics'
           container_name: 'topics'
           connection_string: ${{ secrets.StorageConnectionString }}
-#  trigger-update:
-#    runs-on: ubuntu-latest
-#    needs: upload-markdown
-#    steps:
-#      - uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
-#        with:
-#          url: https://wordsofthedayapp.azurewebsites.net/api/update
-#          method: get
-#          headers: '{ "x-functions-key": "${{ secrets.UpdateFunctionKey }}" }'
+  trigger-update:
+    runs-on: ubuntu-latest
+    needs: upload-markdown
+    steps:
+      - uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
+        with:
+          url: https://msglossary-app.azurewebsites.net/api/update-docs
+          method: get
+          headers: '{ "x-functions-key": "${{ secrets.UpdateFunctionKey }}" }'
   notify-after:
     runs-on: ubuntu-latest
-# TODO Change to trigger-update
-    needs: upload-markdown
+    needs: trigger-update
     steps:
       - uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
         with:
