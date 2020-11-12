@@ -44,12 +44,7 @@ The web-based user interface used to manage all Azure services in the web browse
 
 ## Keywords
 
-> List of keywords or keyphrases, comma separated.
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#keywords)
-
-> For example
-
-AAD, Active Directory, Authentication, Identity
+Portal, Dashboard, 
 
 ## Demos
 
@@ -79,4 +74,5 @@ Today's words of the day are: Azure Portal.
 
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
+The Azure Portal is one of a few alternatives that you can use to create and manage your Azure services. It is a web based user interface. 
 
