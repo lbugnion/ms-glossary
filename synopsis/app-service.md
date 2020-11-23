@@ -6,7 +6,7 @@ LBugnion@Microsoft.com
 
 @LBugnion
 
-> [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/app-service/app-service).
+> [This topic was published here](http://gslb.ch/gloss-app-service).
 
 ## Short description
 

@@ -6,7 +6,7 @@ LBugnion@Microsoft.com
 
 @LBugnion
 
-> [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/aad/aad).
+> [This topic was published here](http://gslb.ch/gloss-aad).
 
 ## Short description
 

@@ -6,6 +6,8 @@ LBugnion@Microsoft.com
 
 @LBugnion
 
+> [This topic was published here](http://gslb.ch/gloss-tls-ssl).
+
 ## Short description
 
 two protocols used to encrypt communication on a network
