@@ -2,22 +2,23 @@
 
 ## Submitted by
 
-Lbugnion@microsoft.com 
+Name: Laurent Bugnion
 
-@LBugnion
+Email: lbugnion@microsoft.com
+
+Twitter: @LBugnion
+
+GitHub: LBugnion
+
+## Short description
+
+A fully managed NoSQL database running on Azure, for modern app development.
 
 ## Phonetics
 
 https://tophonetics.com/
 
-> Add an image of the phonetics for the word or the expression.
-> [See the notes](../instructions/synopsis-template-notes.md#phonetics)
-
-> TODO
-
 ˈkɑzmoʊs db
-
-![Phonetics image](images/WORD/Phonetics.png)
 
 ## Topics
 
@@ -56,9 +57,6 @@ Database, SLA, service level agreement, MongoDB, Mongo, Cassandra, Gremlin, Grem
 - [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/shift-nodejs-express-apis-serverless) (*module*)
 
 ## Script
-
-> A transcript of what you are planning to say on camera, including demos etc. 
-> [See the notes](../instructions/synopsis-template-notes.md#script)
 
 Today's word of the day is: WORD
 Today's words of the day are: EXPRESSION
