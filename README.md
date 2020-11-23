@@ -1,46 +1,27 @@
-# Microsoft Azure Words of the Day
+# Microsoft Glossary
 
 Thanks for your interest in our work.
 
-Azure Words of the Day is designed to be a reference site for learners, and compile a list of words, expressions and abbreviations related to Microsoft Azure, with their definition and explanations.
+We are helping beginners to find the definitions of topics related to Azure, and the cloud in general. The **Microsoft Glossary** is a Dictionary, an Encyclopedia, a Wikipedia of technical words, expressions, and abbreviations. It helps visitors getting started with a new cloud-related topic by making it easy to understand the vocabulary. It also helps Microsoft documentation writers by providing a unique repository of topics that they can link to.
 
-Each word, expression or abbreviation will be illustrated by a short video explaining the concept. Items will be cross-referenced, a little like Wikipedia does. In addition, we also list links to documentation and Microsoft Learn. 
+Each word, expression or abbreviation is illustrated by a short video explaining the concept. Items are cross-referenced, a little like Wikipedia does. In addition, we also list links to documentation and Microsoft Learn.
 
-## We welcome your contributions!!
+## We welcome your contributions
 
 You can contribute to this site in two areas:
 
 ### Submitting a translation for subtitles
 
-
-
-- Subtitles
-- Synopsis
-
-## In this repository
-
-### Subtitles
-
-This folder contains captions and subtitle files for the videos.
-
-> You can help us!! Are you fluent in another language than English? We can definitely use your help for translations! 
+You can help us!! Are you fluent in another language than English? We can definitely use your help for translations!
 
 [Get started here](instructions/contributing-subtitles.md)
 
-### Synopsis
+### Submitting a synopsis for a new topic for the Microsoft Glossary
 
 This is where you can submit proposals for a new topic. You can also find other synopsis for topics already created, and inspire yourself for your own contributions!
 
-> Note: During the launch phase, we will only accept contributions from the Microsoft Cloud Advocacy team but as soon as we can, we will accept contributions from other Microsoft employees and from partners too :)
+> Note: During the launch phase, we will only accept contributions from Microsoft employees but as soon as we can, we will accept contributions from partners too :)
 
 > [Get started here](instructions/contributing-synopsis.md)
 
-### Templates
-
-Various resources and templates to help you create a new topic. Their use is described in the instruction files.
-
-### Topics
-
-This is where you go when your synopsis has been accepted and you created your video for a new topic. 
-
-> [Get started here](instructions/contributing-topics.md)
+Thanks again for your help!!

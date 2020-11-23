@@ -2,7 +2,10 @@ name: Upload To Azure Blob Storage
 on:
   push:
     branches:
-      - master
+      - main
+    paths:
+    - 'topics/**'
+    - 'captions/**'
 
 jobs:
   notify-before:
@@ -13,7 +16,7 @@ jobs:
           url: https://notificationsendpoint.azurewebsites.net/api/send
           method: post
           headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
-          data:  '{	"title": "Copying Markdown and caption files", "body": "Ready to copy Markdown and caption files to Azure", "channel": "WordsOfTheDay" }'
+          data:  '{	"title": "Copying Markdown and caption files", "body": "Ready to copy Markdown and caption files to Azure", "channel": "MSGlossary" }'
   upload-captions:
     runs-on: ubuntu-latest
     needs: notify-before
@@ -32,7 +35,7 @@ jobs:
       - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
         with:
           source_dir: 'topics'
-          container_name: 'topics-upload'
+          container_name: 'topics'
           connection_string: ${{ secrets.StorageConnectionString }}
   trigger-update:
     runs-on: ubuntu-latest
@@ -40,7 +43,7 @@ jobs:
     steps:
       - uses: CamiloGarciaLaRotta/watermelon-http-client@v1.4
         with:
-          url: https://wordsofthedayapp.azurewebsites.net/api/update
+          url: https://msglossary-app.azurewebsites.net/api/update-docs
           method: get
           headers: '{ "x-functions-key": "${{ secrets.UpdateFunctionKey }}" }'
   notify-after:
@@ -52,4 +55,4 @@ jobs:
           url: https://notificationsendpoint.azurewebsites.net/api/send
           method: post
           headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
-          data:  '{	"title": "Markdown and caption files copied", "body": "Markdown and caption files were copied to the markdown folder, update process triggered", "channel": "WordsOfTheDay" }'
+          data:  '{	"title": "TEMPO Markdown and caption files copied", "body": "Markdown and caption files were copied to the markdown folder, update process NOT triggered", "channel": "MSGlossary" }'

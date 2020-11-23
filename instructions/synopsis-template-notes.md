@@ -6,7 +6,11 @@ The synopsis has two main goals:
 
 - Help us understand your project so that we can approve it as fast as possible.
 
-> Remember: the videos must be strictly under 2:20 so we can post them to Twitter. Aim for 2 minutes, keep them short and captivating! 
+> Remember: the videos must be strictly under 2:20 so we can post them to Twitter. Aim for 2 minutes, keep them short and captivating!
+
+## Getting started
+
+You can get started by submitting a new topic, [the instructions are here](contributing-synospsis.md).
 
 <a id="phonetics"></a>
 
@@ -14,7 +18,7 @@ The synopsis has two main goals:
 
 The goal of showing a phonetic transcription of the word is to create a feeling of being in a dictionary. You can easily create a new phonetics PNG with the following steps:
 
-1. Go to https://tophonetics.com/.
+1. Go to [https://tophonetics.com](https://tophonetics.com/).
 2. Paste your english text in the box.
 
 ![tophonetics screenshot](images/2020-04-29_17-21-27.png)
@@ -22,20 +26,7 @@ The goal of showing a phonetic transcription of the word is to create a feeling 
 3. Make sure that `American` is selected. This is just to ensure that we have consistent phonetics through all the entries.
 4. Click on `Show Transcription`.
 5. Copy the transcription.
-6. Open [Paint.net](https://www.getpaint.net/download.html) (or your favorite image editor).
-7. Create a PNG with the transcription in parenthesis, for example:
-
-![phonetics](images/Phonetics.png)
-
-> *Try to create an image close to this one for consistency*
-
-> *This image uses the Calibri font at 192 pt*
-
-> *[There is a template for Paint.NET here](../templates/Phonetics.pdn)*
-
-8. Save the image in the [synopsis/images](../synopsis/images/) folder.
-
-9. Include the image in your synopsis markdown.
+6. Include the transcription into your Synopsis markdown.
 
 <a id="topics"></a>
 
@@ -47,11 +38,13 @@ This section is intended as a notepad where you can quickly jot down some ideas 
 
 ## Keywords or key expressions
 
-The list of keywords will be used to cross-reference items. They can be one word or a sort expression or 2-3 words. They can also be abbreviations.
+The list of keywords will be used to cross-reference items. They can be one word, a short expression or 2-3 words. They can also be abbreviations.
+
+> You don't need to add the topic's title (for example `App Service`) to the list of keywords, this will be added automatically).
 
 For example, if you have this list of keywords in the app-service.md file:
 
-`App Service, Web Server, Web API`
+`Web Server, Web API`
 
 and another topic file has this text:
 
@@ -59,9 +52,9 @@ and another topic file has this text:
 
 then after processing, the text becomes
 
-`[...] and you can install this application on a [Web Server](/topic/app-service) locally or in the cloud [...]`
+`[...] and you can install this application on a [Web Server](/topic/app-service_web-server) locally or in the cloud [...]`
 
-> Important: A given keyword or key expression can only be used once on the whole site! When you submit your synopsis or your finished video, we will automatically check and let you know if you are using a keyword or key expression that is already used somewhere else, so we can work a solution out.
+> A given keyword or key expression can be used in multiple topics. In that case a disambiguation page will be created to help the user choose which topic he wants to read.
 
 <a id="demos"></a>
 
@@ -101,21 +94,53 @@ You can see a few examples of "demos" below.
 
 <a id="docs"></a>
 
-## Links to docs
+## Links to Docs
 
-> TODO Links to docs
+One of the goals of this project is to drive traffic to the Microsoft documentation and Learn pages. For each topic, you should provide a list of Docs and Learn links.
+
+Each link will be instrumented with information allowing us to track the clicks. You don't have to worry about that however. In the synopsis document, simply list the links, for example:
+
+- [App Service overview](https://docs.microsoft.com/azure/app-service/overview)
+- [App Service documentation](https://docs.microsoft.com/azure/app-service)
 
 <a id="learn"></a>
 
 ## Links to Learn
 
-> TODO Links to Learn
+Similarly to Docs links, we also ask you to provide a list of Microsoft Learn links, in order to drive traffic to these modules. 
+
+You can either provide a link to a Learning path, or to a specific module, or both.
+
+For example:
+
+- [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service) *(learning path)*
+- [Capture Web Application Logs with App Service Diagnostics Logging](https://docs.microsoft.com/learn/modules/capture-application-logs-app-service) *(module)*
+- [Create and publish a web application with Azure App Service and Visual Studio Code](https://docs.microsoft.com/learn/modules/create-publish-webapp-app-service-vs-code) *(module)*
 
 <a id="script"></a>
 
 ## Script
 
-> TODO Script
+Maybe the most important part of the synopsis, and the one you'll spend the most time creating, is the script.
 
-- Add production notes as a `> blockquote`
+All Microsoft Glossary videos are scripted. This serves a few purposes:
 
+- Help us review the video before it is even created.
+- Help you create videos that are short (below 2:20 so they can be posted to Twitter) and to the point.
+- Help you captions for the videos.
+
+You can see examples of scripts [here](../synopsis/aad.md#script) and [here](../synopsis/app-service.md#script). Here are some tips:
+
+- Keep it simple. Start by writing what you want to say, then go over the script again and remove unnecessary words, repetitions, etc. Going through the script a few times will make it tighter and better.
+
+- Add production notes as a `> blockquote`. These notes will be useful for you later when you are ready to record. For example:
+
+> Speak to the camera
+
+or
+
+> Show the portal on the application insights dashboard
+
+If you have images, screenshots etc, add them to the script too (you can save the images in the [synopsis/images](../synopsis/images/) folder). Any information you add to the script will be helpful later when recording the video.
+
+Don't worry, we will also review the script and help you get it right before filming the video :)

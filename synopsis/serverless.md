@@ -1,18 +1,36 @@
-# Azure Words of the Day Synopsis: Serverless
+# Microsoft Glossary Synopsis: Serverless
 
 ## Submitted by
 
-LBugnion@Microsoft.com
+Name: Laurent Bugnion
 
-> [This topic was published here](http://azurewordsoftheday.cloud/topic/serverless/serverless).
+Email: lbugnion@microsoft.com
+
+Twitter: @LBugnion
+
+GitHub: LBugnion
+
+> [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/serverless/serverless).
+
+## Short description
+
+a way to run applications on a server without having to manage this server
 
 ## Phonetics
 
 ˈsɜːvəlɛs
 
-![Phonetics image](images/serverless/Serverless.png)
+## Notes
 
-## Keywords:
+- Consumption model
+- Typically cheaper
+- Some examples from Azure
+  - Azure Functions
+  - Logic apps
+  - Others?
+- Automatic scale
+
+## Keywords
 
 Serverless, Azure Function, Logic App, Trigger, Connector
 
@@ -25,23 +43,24 @@ Serverless, Azure Function, Logic App, Trigger, Connector
 
 ## Links to docs
 
-- [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
-- [Serverless computing](https://azure.microsoft.com/en-us/overview/serverless-computing)
+- [An introduction to Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview)
+- [Serverless computing](https://azure.microsoft.com/overview/serverless-computing)
 
 ## Links to Learn
 
-- [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications) (*learning path*)
-- [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/shift-nodejs-express-apis-serverless) (*module*)
-- [Build Serverless APIs with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions) (*module*)
-- [Build automated workflows to integrate data and apps with Azure Logic Apps](https://docs.microsoft.com/en-us/learn/paths/build-workflows-with-logic-apps) (*learning path*)
+- [Create serverless applications](https://docs.microsoft.com/learn/paths/create-serverless-applications) (*learning path*)
+- [Refactor Node.js and Express APIs to Serverless APIs with Azure Functions](https://docs.microsoft.com/learn/modules/shift-nodejs-express-apis-serverless) (*module*)
+- [Build Serverless APIs with Azure Functions](https://docs.microsoft.com/learn/modules/build-api-azure-functions) (*module*)
+- [Build automated workflows to integrate data and apps with Azure Logic Apps](https://docs.microsoft.com/learn/paths/build-workflows-with-logic-apps) (*learning path*)
 
 ## Script
 
 > ~ 15 seconds intro
 
+Today's word is: Serverless.
+
 Hello and welcome to Microsoft Azure Words of the Day,
 the show that teaches you the Azure vocabulary!
-Today's word is: Serverless
 
 > ~ 30 seconds on camera
 

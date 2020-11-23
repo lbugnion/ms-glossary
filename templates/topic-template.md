@@ -1,16 +1,34 @@
+> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/contributing-synopsis.md)
+
+> Recording date: yymmdd
+
+> Language: en / English
+
+> Captions: en / English, code / Other
+
 > YouTube: CODE
 
 > Keywords: COMMA, SEPARATED, LIST
 
-[WORD](/topic/WORD)
+> Blurb: SHORT DESCRIPTION
+
+> Submitted by: EMAIL
+
+> Twitter: TWITTERNAME
+
+# [WORD](/topic/en/WORD)
 
 <!-- YOUTUBEEMBED -->
 
-[*(Download the video and captions)*](#download)
+<!-- LANGUAGESTITLE -->
+
+<!-- OTHERLANGUAGES -->
+
+<!-- DOWNLOAD-CAPTIONS -->
 
 ## Links
 
-> Use the following tracking for your links: ?WT.mc_id=wordsoftheday-video-AUTHOR
+> Use the following tracking for your Microsoft links: ?WT.mc_id=msglossary-video-AUTHOR
 
 ### Documentation
 
@@ -21,28 +39,18 @@
 - [TITLE](LINK) (*learning path*)
 - [TITLE](LINK) (*module*)
 
-<a id="download"></a>
+### Other links
 
-## Download
+- [TITLE](LINK)
 
-[You can download this video here](<!-- DOWNLOAD -->).
-
-There are also captions for the following language(s):
-
-<!-- DOWNLOAD-CAPTIONS -->
-
-> Learn about [downloading and showing captions here](/captions).
+<!-- DOWNLOAD -->
 
 ## Transcript
 
+Today's word of the day is: WORD.
+Today's words of the day are: EXPRESSION.
+Today's word of the day is an abbreviation: ABBREVIATION.
+
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
-Today's word of the day is: WORD
-Today's words of the day are: EXPRESSION
-Today's word of the day is an abbreviation: ABBREVIATION
-
 > For abbreviations, also mention the full expression in the intro and show phonetics too.
-
-> Leave the next line as the last line of the topic file.
-
-*Last modified: <!-- DATETIME -->*

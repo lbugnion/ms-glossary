@@ -1,0 +1,177 @@
+﻿1
+00:00:00,268 --> 00:00:03,125
+Hello and welcome to Microsoft
+Azure Words of the Day,
+
+2
+00:00:03,150 --> 00:00:06,046
+the show that teaches
+you the Azure vocabulary!
+
+3
+00:00:07,411 --> 00:00:12,244
+Today's words of the day are
+abbreviations: TLS / SSL.
+
+4
+00:00:13,162 --> 00:00:16,862
+TLS is short for
+Transport Layer Security
+
+5
+00:00:16,952 --> 00:00:20,296
+SSL is short for
+Secure Sockets Layer.
+
+6
+00:00:20,416 --> 00:00:25,594
+SSL is a standard that enables secure,
+encrypted transmissions over the internet.
+
+7
+00:00:25,775 --> 00:00:29,664
+It requires a certificate that you
+can purchase from various vendors.
+
+8
+00:00:29,795 --> 00:00:34,667
+TLS is similar to SSL but it is a
+newer, more modern version.
+
+9
+00:00:34,797 --> 00:00:37,029
+It also relies on certificates,
+
+10
+00:00:37,061 --> 00:00:42,507
+in fact when you purchase an SSL certificate,
+it is often already ready for TLS.
+
+11
+00:00:43,065 --> 00:00:46,648
+When TLS or SSL are
+setup on your web server,
+
+12
+00:00:46,727 --> 00:00:50,755
+this enables you to serve
+web content over HTTPS.
+
+13
+00:00:50,926 --> 00:00:55,450
+This other abbreviation means:
+Hypertext Transfer Protocol Secure.
+
+14
+00:00:55,541 --> 00:00:58,299
+But just like HTTP
+is not just for text,
+
+15
+00:00:58,340 --> 00:01:01,307
+HTTPS is encrypting the
+whole communication.
+
+16
+00:01:01,438 --> 00:01:07,202
+HTTPS is often used in the web browser,
+but it can also be used for APIs, etc.
+
+17
+00:01:07,789 --> 00:01:10,153
+In the Azure portal,
+you can easily buy
+
+18
+00:01:10,178 --> 00:01:13,578
+or import a certificate to
+secure your App Service.
+
+19
+00:01:13,682 --> 00:01:17,749
+Note however that web applications
+on Azure are secure by default.
+
+20
+00:01:17,920 --> 00:01:21,085
+This is why you see
+HTTPS in the location bar
+
+21
+00:01:21,110 --> 00:01:25,730
+when you navigate to any website
+on anything.azurewebsites.net,
+
+22
+00:01:25,784 --> 00:01:29,832
+which is the default address for
+App Services, Azure Functions, etc.
+
+23
+00:01:29,884 --> 00:01:34,735
+The certificate and the HTTPS settings are
+needed when you want to use a custom domain,
+
+24
+00:01:34,806 --> 00:01:36,711
+for example TailwindTraders.com.
+
+25
+00:01:36,772 --> 00:01:39,223
+When navigating
+to an HTTPS site,
+
+26
+00:01:39,253 --> 00:01:42,447
+you can see more information
+about the certificate here.
+
+27
+00:01:42,499 --> 00:01:47,439
+This shows a valid certificate used on
+a custom domain, it's safe to browse it.
+
+28
+00:01:47,530 --> 00:01:51,568
+You can sometimes choose
+between HTTP or HTTPS.
+
+29
+00:01:51,649 --> 00:01:56,471
+Here we see a note in the web browser
+indicating that this connection is not secure.
+
+30
+00:01:56,691 --> 00:02:00,957
+It is recommended to always require
+HTTPS on your web application.
+
+31
+00:02:01,018 --> 00:02:03,975
+In Azure, you can set it
+up with this switch here.
+
+32
+00:02:04,233 --> 00:02:06,040
+Security is a complex topic,
+
+33
+00:02:06,065 --> 00:02:09,516
+and we definitely need more than
+just two minutes to talk about it.
+
+34
+00:02:09,572 --> 00:02:12,022
+So check the links here
+to learn more about that.
+
+35
+00:02:12,231 --> 00:02:15,347
+Thank you so much for watching
+Microsoft Azure Words of the Day.
+
+36
+00:02:15,407 --> 00:02:19,068
+Today's abbreviations of
+the day were: TLS / SSL.
+
