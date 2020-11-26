@@ -39,12 +39,7 @@ Database, SLA, service level agreement, MongoDB, Mongo, Cassandra, Gremlin, Grem
 
 ## Links to docs
 
-> As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-> [See the notes](../instructions/synopsis-template-notes.md#docs)
-
->For example:
-
-- [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+- [Welcome to Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)
 
 ## Links to Learn
 
@@ -58,10 +53,21 @@ Database, SLA, service level agreement, MongoDB, Mongo, Cassandra, Gremlin, Grem
 
 ## Script
 
-Today's word of the day is: WORD
-Today's words of the day are: EXPRESSION
-Today's word of the day is an abbreviation: ABBREVIATION
+Today's words of the day are: Cosmos DB.
 
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
-> For abbreviations, also mention the full expression in the intro and show phonetics too.
+Cosmos DB is one of the core services of Azure, and in fact Azure and Microsoft itself run on Cosmos DB. This NoSQL database is available in every region where Azure itself is available.
+
+> Demo: Show a Cosmos DB in the portal
+
+NoSQL means that the data in Cosmos DB is semi-structured, somewhere between a traditional SQL database, also called relational data, and unstructured data such as audio or video files, PDFs etc. For example, using one of the Cosmos DB SDKs, you can easily serialize entities to Cosmos DB.
+
+> Show data explorer with JSON documents
+
+The data in Cosmos DB can easily be replicated worldwide to reduce the latency when your users are accessing it in different parts of the world. This also increase the availability of your data, with automatic failover in case one the regions becomes unavailable.
+
+> Demo: Show the global replication in the Azure Portal
+
+Another great feature of Cosmos DB is that it supports data in different models, such as Key-Value, Column-Family, Documents, Graph.
+
