@@ -16,7 +16,7 @@ GitHub: FloorD
 
 ## Short description
 
-<!-- ENTER A SHORT DESCRIPTION HERE -->
+OSS refers to Open Source Software - software developed by informal collaborative networks of individuals. The source code is licensed free of charge, encouraging modifications and improvements. Also sometimes written as OS (Open Source), FOSS (Free and Open Source Software), FLOSS (Free/Libre Open Source Software), or F/OSS (Free/Open Source Software).
 
 ## Phonetics
 
