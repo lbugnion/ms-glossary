@@ -1,18 +1,24 @@
-# Azure Words of the Day Synopsis: TLS / SSL
+# Microsoft Glossary Synopsis: TLS / SSL
 
 ## Submitted by
 
-LBugnion@Microsoft.com
+Name: Laurent Bugnion
 
-@LBugnion
+Email: lbugnion@microsoft.com
+
+Twitter: @LBugnion
+
+GitHub: LBugnion
+
+## Short description
+
+two protocols used to encrypt communication on a network
 
 ## Phonetics
 
 ti-ɛl-ɛs / ɛs-ɛs-ɛl
 
-![Phonetics image](images/tls-ssl/Phonetics.png)
-
-## Topics
+## Notes
 
 - TLS Transport Layer Security
 - SSL Secure Sockets Layer (deprecated, predecessor)
@@ -20,7 +26,7 @@ ti-ɛl-ɛs / ɛs-ɛs-ɛl
 - Used for web browsing, email, instant messaging, voice over IP, etc
 - Certificates
 
-## Keywords:
+## Keywords
 
 TLS, SSL, HTTPS, encryption, certificates, cryptography, transport layer security, secure sockets layer
 
@@ -32,24 +38,24 @@ TLS, SSL, HTTPS, encryption, certificates, cryptography, transport layer securit
 
 ## Links to docs
 
-- [Add a TLS/SSL certificate in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-certificate)
-- [Secure a custom DNS name with a TLS/SSL binding in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-bindings)
+- [Add a TLS/SSL certificate in Azure App Service](https://docs.microsoft.com/azure/app-service/configure-ssl-certificate)
+- [Secure a custom DNS name with a TLS/SSL binding in Azure App Service](https://docs.microsoft.com/azure/app-service/configure-ssl-bindings)
 
 ## Links to Learn
 
-- [Security, responsibility, and trust in Azure](https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/) *(Module)*
-- [Cloud security](https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-security/) *(Module)*
-- [Fundamentals of network security](https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/) *(Module)*
+- [Security, responsibility, and trust in Azure](https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/) *(Module)*
+- [Cloud security](https://docs.microsoft.com/learn/modules/cmu-cloud-security/) *(Module)*
+- [Fundamentals of network security](https://docs.microsoft.com/learn/modules/network-fundamentals-2/) *(Module)*
 
 ## Script
 
 > On camera
 
-Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
-
 Today's words of the day are abbreviations: TLS / SSL.
 
-> Show the letters on the screen with finger, tap tap tap. Remember to tap right to left. 
+Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
+
+> Show the letters on the screen with finger, tap tap tap. Remember to tap right to left.
 
 TLS is short for Transport Layer Security
 
@@ -57,13 +63,13 @@ TLS is short for Transport Layer Security
 
 SSL is short for Secure Sockets Layer.
 
-> Camera 
+> Camera
 
 We often hear these two abbreviations put together, for example when someone says "you can setup TLS/SSL on the Azure Portal".
 
 > SSL / TLS publication / deprecation
 
-SSL is a standard that enables secure, encrypted transmissions over the internet. It requires a certificate that you can purchase from various vendors. 
+SSL is a standard that enables secure, encrypted transmissions over the internet. It requires a certificate that you can purchase from various vendors.
 
 TLS is similar to SSL but it is a newer, more modern version. It also relies on certificates, in fact when you purchase an SSL certificate, it is often already ready for TLS.
 
@@ -85,11 +91,11 @@ When navigating to an HTTPS site, you can see more information about the certifi
 
 On the other hand, if you see this kind of information, you need to be careful, something is wrong with the certificate!
 
-> Show http://galasoft.ch
+> Show [http://galasoft.ch](http://galasoft.ch)
 
 If you navigate to a site using a custom domain, you can sometimes choose between HTTP or HTTPS. Here we see a note in the web browser indicating that this connection is not secure.
 
-> Show https://galasoft.ch
+> Show [https://galasoft.ch](http://galasoft.ch)
 
 > Back to portal, show the redirect switch
 
