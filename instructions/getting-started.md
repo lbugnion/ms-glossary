@@ -16,7 +16,7 @@ A Term translates to a Page in the Glossary. For example the Term `app service` 
 
 A Keyword is a Term that is defined in the Glossary but **doesn't have its own page**. In the Glossary, when a Keyword is clicked, we redirect the reader to the related Page. For example [Encryption](https://aka.ms/define/encryption) is a Keyword which redirects to the Page titled `TLS/SSL`.
 
-> When a Keyword redirects to a Page, the words `(redirected from [keyword]) are shown in the title.
+> When a Keyword redirects to a Page, the words `(redirected from [keyword])` are shown in the title.
 
 ### Synopsis
 
@@ -24,11 +24,11 @@ The Synopsis is a document where the author for a new Term defines the informati
 
 The Synopsis has two main goals:
 
-- Help you plan your video so that the recording session and the editing go as easy and smoothly as possible.
-
 - Help us understand your project so that we can approve it as fast as possible.
 
-You can complete the sections following the process described below in this document.
+- Help you plan your video so that the recording session and the editing go as easy and smoothly as possible.
+
+You can write the Synopsis by following the process described below in this document.
 
 > You can see [an example of completed Synopsis here](https://aka.ms/glossary/sample/synopsis).
 
@@ -40,13 +40,11 @@ After you submit this form, you will get an email with a link to the new Synopsi
 
 ## Completing the synopsis
 
-At this point you should have received an email with instructions about the next steps. The email has a link pointing you to a new file that was created in the Microsoft Glossary GitHub repository. This is where you will spend most of this phase of the work.
+At this point you should have received an email with instructions about the next steps. The email has a link pointing you to a new file that was created in the Microsoft Glossary GitHub repository. This is where you will spend most of your time during this phase of the work.
 
 The synopsis is written in the Markdown language, a very simplified version of the HTML language. [More information about Markdown can be found here](https://www.markdownguide.org/).
 
-You can edit the synopsis directly in the GitHub portal.
-
-> Creating the synopsis should take you about 1-2 hours.
+You can edit the synopsis directly in the GitHub portal. Creating the synopsis should take you about 1-2 hours.
 
 1. Click on the link in the email that you receive.
 
@@ -60,17 +58,15 @@ The links should look something like that:
 
 ![Edit button in GitHub](./images/EditButton.png)
 
-> If you prefer, you can also fork the repo and edit the document locally. [Follow this link for instructions](#getting-the-repository-locally).
+> If you prefer, you can also fork the repo and edit the document locally. Please refer to the section titled [Getting the repository locally](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#getting-the-repository-locally) further in this document.
 
 The synopsis has the following sections that you should fill before submitting it for review.
 
-Note that the new synopsis is into a `branch`. It means that your changes will be into a kind of sandbox and won't affect the rest of the site until you are ready to submit.
-
-> [More information about GitHub branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
+Note that the new synopsis is into a GitHub `branch`. It means that your changes will be into a kind of sandbox and won't affect the rest of the site until you are ready to submit. [More information about GitHub branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
 
 ### Submitted by
 
-You have probably already entered your information [when you submitted the form above](#form). We need the following:
+You have already entered your information when you submitted the form above. Please check that the following is available:
 
 - Your name
 - Your email address
@@ -81,16 +77,16 @@ You have probably already entered your information [when you submitted the form 
 
 You should see here the Short Description that you entered in the form. It will be used later in the social videos, in the title card. You can see an example here:
 
-![Microsoft Glossary Social Video Title Card](./images/ShortDescription.png).
+> IMPORTANT **Please keep the Short Description to about 25 words maximum**.
 
-> Please keep the Short Description to about 25 words maximum.
+![Microsoft Glossary Social Video Title Card](./images/ShortDescription.png).
 
 ### Phonetics
 
-The goal of showing a phonetic transcription of the word is to create a feeling of being in a dictionary. You can easily create a new phonetics PNG with the following steps:
+We show a phonetic transcription of the term to create a feeling of being in a dictionary. You can easily create the phonetics with the following steps:
 
 1. Go to [https://tophonetics.com](https://tophonetics.com/).
-2. Paste your english text in the box.
+2. Paste or type your english text in the box.
 
 ![tophonetics screenshot](images/2020-04-29_17-21-27.png)
 
@@ -105,9 +101,7 @@ This section is intended as a notepad where you can quickly jot down some ideas 
 
 ### Keywords or key expressions
 
-The list of keywords will be used to cross-reference items. They can be one word, a short expression or 2-3 words. They can also be abbreviations.
-
-> You don't need to add the term's title (for example `App Service`) to the list of keywords, this will be added automatically).
+The list of keywords will be used to cross-reference items within the Glossary. They can be one word, a short expression, 2-3 words. They can also be abbreviations.
 
 For example, if you have this list of keywords in the app-service.md file:
 
@@ -119,7 +113,7 @@ and another topic file has this text:
 
 then after processing, the text becomes
 
-`[...] and you can install this application on a [Web Server](/topic/app-service_web-server) locally or in the cloud [...]`
+`[...] and you can install this application on a [web server](/glossary/topic/app-service/web-server) locally or in the cloud [...]`
 
 > A given keyword or key expression can be used in multiple topics. In that case a disambiguation page will be created to help the user choose which topic he wants to read.
 
@@ -135,27 +129,27 @@ You can see a few examples of "demos" below.
 
 *Demo 1: Showing logos on the camera*
 
-[![Demo 1: Showing logos on the camera](images/2020-05-03_18-13-01.gif)](https://1drv.ms/v/s!As15SQCXjw37teRWYrgBM3QAHIdQgw?e=ota5F5)
+[![Demo 1: Showing logos on the camera](images/Demo1-OnScreenCallouts.gif)](https://1drv.ms/v/s!As15SQCXjw37tthGrnjGJNK8uT8XRw?e=VY5Lwr)
 
 *Demo 2: Using callouts to attract attention*
 
-[![Demo 2: Using callouts to attract attention](images/2020-05-03_18-42-09.gif)](https://1drv.ms/v/s!As15SQCXjw37teRXL73xB-AQHmcRPQ?e=yUseNi)
+[![Demo 2: Using callouts to attract attention](images/Demo2-BorderCallouts.gif)](https://1drv.ms/v/s!As15SQCXjw37tthH6xdeBGgqSVOPOg?e=NOwesH)
 
 *Demo 3: Showing logos on screen*
 
-[![Demo 3: Showing logos on screen](images/2020-05-03_18-44-13.gif)](https://1drv.ms/v/s!As15SQCXjw37teRYjjxhty6h4rgVhA?e=cSDLf8)
+[![Demo 3: Showing logos on screen](images/Demo3-OnScreenLogos.gif)](https://1drv.ms/v/s!As15SQCXjw37tthIYGn9rzf9tRZaLA?e=AfTzoK)
 
 *Demo 4: Showing the Azure Portal*
 
-[![Demo 4: Showing the Azure portal](images/2020-05-03_18-45-43.gif)](https://1drv.ms/v/s!As15SQCXjw37teRZbCxB9mi9UByW0Q?e=peluUH)
+[![Demo 4: Showing the Azure portal](images/Demo4-PortalDemo.gif)](https://1drv.ms/v/s!As15SQCXjw37tthJdVQQzrdUNrqPRg?e=RHAnSb)
 
 *Demo 5: Fun with fingers*
 
-[![Demo 5: Fun with fingers](images/2020-05-03_18-47-33.gif)](https://1drv.ms/v/s!As15SQCXjw37teRaw1lySZPGLg2uPg?e=yJcJbS)
+[![Demo 5: Fun with fingers](images/Demo5-FunWithFingers.gif)](https://1drv.ms/v/s!As15SQCXjw37tthKJMVdNC3amneSXw?e=R27JHc)
 
 *Demo 6: Animating screenshots*
 
-[![Demo 6: Animating screenshots](images/2020-05-03_18-48-13.gif)](https://1drv.ms/v/s!As15SQCXjw37teRbfeNQjBKMZ4hHgQ?e=ZASIPw)
+[![Demo 6: Animating screenshots](images/Demo6-AnimatingScreenshots.gif)](https://1drv.ms/v/s!As15SQCXjw37tthL7pjFWq_uFE7PRQ?e=dgWubC)
 
 ### Links to Docs
 
@@ -180,13 +174,15 @@ For example:
 
 ### Script
 
+> For the script, we recommend aiming for **330 - 350 words** for the 2 minutes video.
+
 Maybe the most important part of the synopsis, and the one you'll spend the most time creating, is the script.
 
 All Microsoft Glossary videos are scripted. This serves a few purposes:
 
 - Help us review the video before it is even created.
 - Help you create videos that are short (below 2:20 so they can be posted to Twitter) and to the point.
-- Help you captions for the videos.
+- Help create captions for the videos.
 
 You can see examples of scripts [here](../synopsis/aad.md#script) and [here](../synopsis/app-service.md#script). Here are some tips:
 
