@@ -18,7 +18,7 @@
 
 > Twitter: @LBugnion
 
-> [This topic was published here](http://aka.ms/define/test).
+> [This topic was published here](https://aka.ms/define/test).
 
 # Another test topic
 

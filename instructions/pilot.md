@@ -2,7 +2,7 @@
 
 ![We need you](./images/WeNeedYou.jpg)
 
-Thanks for your interest in helping [the Microsoft Glossary](http://aka.ms/define) to grow. This is a new Docs section dedicated to definitions of Microsoft (or general tech) related terms. The hardest part when learning a technology is to understand the "dialect" and all the terms. The Microsoft Glossary is helping with this issue. It's also a great opportunity for everyone at Microsoft to have a single repository of words, expressions and abbreviations, easy to maintain and to which all content writers can refer.
+Thanks for your interest in helping [the Microsoft Glossary](https://aka.ms/define) to grow. This is a new Docs section dedicated to definitions of Microsoft (or general tech) related terms. The hardest part when learning a technology is to understand the "dialect" and all the terms. The Microsoft Glossary is helping with this issue. It's also a great opportunity for everyone at Microsoft to have a single repository of words, expressions and abbreviations, easy to maintain and to which all content writers can refer.
 
 **At the moment, we are looking for content authors who can help grow the number of topics. Here are some topics that we need help for:**
 
@@ -43,7 +43,7 @@ Thanks for your interest in helping [the Microsoft Glossary](http://aka.ms/defin
 - SSO
 - TTL Time To Live (for custom domains)
 
-[If you see a topic that you can help create, please fill this form](http://aka.ms/define/new). You will get instructions per email and I will coach you through the process.
+[If you see a topic that you can help create, please fill this form](https://aka.ms/define/new). You will get instructions per email and I will coach you through the process.
 
 Thank you!
 Laurent

@@ -1,8 +1,8 @@
 # Microsoft Glossary Synopsis: <!-- TOPIC -->
 
-> This is a template to help you create a synopsis. [You can see an example here](https://github.com/lbugnion/ms-glossary/blob/master/synopsis/aad.md).
+> This is a template to help you create a synopsis. [You can see an example here](https://aka.ms/glossary/sample/synopsis).
 
-> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/contributing-synopsis.md)
+> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/getting-started.md)
 
 ## Submitted by
 
@@ -18,23 +18,29 @@ GitHub: <!-- ENTER YOUR GITHUB NAME HERE -->
 
 <!-- ENTER A SHORT DESCRIPTION HERE -->
 
+> Please keep to about 25 words maximum.
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/getting-started.md#short-description)
+
 ## Phonetics
 
 [https://tophonetics.com](https://tophonetics.com/)
 
 > Add the phonetics of the word or the expression.
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#phonetics)
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/getting-started.md#phonetics)
 
 wɜrd
 
-## Topics
+## Personal notes
 
-> A list of topics you want to treat in this video.
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#topics)
+> A bullet points list of notes you can use to keep track of things.
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/getting-started.md#personal-notes)
 
 ## Keywords
 
 > List of keywords or keyphrases, comma separated.
+
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#keywords)
 
 > For example

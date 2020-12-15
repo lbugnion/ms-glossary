@@ -18,7 +18,7 @@
 
 > Twitter: @LBugnion
 
-> [This topic was published here](http://aka.ms/define/tls-ssl).
+> [This topic was published here](https://aka.ms/define/tls-ssl).
 
 # TLS/SSL
 
