@@ -42,9 +42,13 @@ After you submit this form, you will get an email with a link to the new Synopsi
 
 At this point you should have received an email with instructions about the next steps. The email has a link pointing you to a new file that was created in the Microsoft Glossary GitHub repository. This is where you will spend most of this phase of the work.
 
+The synopsis is written in the Markdown language, a very simplified version of the HTML language. [More information about Markdown can be found here](https://www.markdownguide.org/).
+
+You can edit the synopsis directly in the GitHub portal.
+
 > Creating the synopsis should take you about 1-2 hours.
 
-Click on the link in the email that you receive.
+1. Click on the link in the email that you receive.
 
 > If you didn't receive an email after submitting the new term, check your junk folder. The email is titled `ACTION NEEDED: Thanks for submitting to the Microsoft Glossary`. If you still cannot find it, contact [LBugnion@microsoft.com](mailto:LBugnion@microsoft.com).
 
@@ -52,7 +56,17 @@ The links should look something like that:
 
 `https://github.com/lbugnion/ms-glossary/blob/{new-term}/synopsis/{new-term}.md`
 
-The synopsis has the following sections that you should fill before submitting it for review:
+2. Click on the `Edit this file` button, represented by a small pencil icon on the top right above the document's title. **Note that the button will be disabled if you are not logged into GitHub**.
+
+![Edit button in GitHub](./images/EditButton.png)
+
+> If you prefer, you can also fork the repo and edit the document locally. [Follow this link for instructions](#getting-the-repository-locally).
+
+The synopsis has the following sections that you should fill before submitting it for review.
+
+Note that the new synopsis is into a `branch`. It means that your changes will be into a kind of sandbox and won't affect the rest of the site until you are ready to submit.
+
+> [More information about GitHub branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
 
 ### Submitted by
 
@@ -67,11 +81,11 @@ You have probably already entered your information [when you submitted the form 
 
 You should see here the Short Description that you entered in the form. It will be used later in the social videos, in the title card. You can see an example here:
 
-![Microsoft Glossary Social Video Title Card](./images/YouTubeThumb.png).
+![Microsoft Glossary Social Video Title Card](./images/ShortDescription.png).
 
 > Please keep the Short Description to about 25 words maximum.
 
-## Phonetics
+### Phonetics
 
 The goal of showing a phonetic transcription of the word is to create a feeling of being in a dictionary. You can easily create a new phonetics PNG with the following steps:
 
@@ -89,7 +103,7 @@ The goal of showing a phonetic transcription of the word is to create a feeling 
 
 This section is intended as a notepad where you can quickly jot down some ideas about the video. For example when doing some research online, this is a convenient place to create a bullet points list, and to consult it later when you create the script.
 
-## Keywords or key expressions
+### Keywords or key expressions
 
 The list of keywords will be used to cross-reference items. They can be one word, a short expression or 2-3 words. They can also be abbreviations.
 
@@ -109,7 +123,7 @@ then after processing, the text becomes
 
 > A given keyword or key expression can be used in multiple topics. In that case a disambiguation page will be created to help the user choose which topic he wants to read.
 
-## Demos
+### Demos
 
 We try to illustrate each topic with some small "demos" (note the quote signs here...). By this we mean that the demos are not necessarily aimed at showing a technical solution, but rather to illustrate the point you are making. The demos should be short (a few seconds), for example a quick action in the Azure portal, a navigation through some items, some screenshots, etc.
 
@@ -143,7 +157,7 @@ You can see a few examples of "demos" below.
 
 [![Demo 6: Animating screenshots](images/2020-05-03_18-48-13.gif)](https://1drv.ms/v/s!As15SQCXjw37teRbfeNQjBKMZ4hHgQ?e=ZASIPw)
 
-## Links to Docs
+### Links to Docs
 
 One of the goals of this project is to drive traffic to the Microsoft documentation and Learn pages. For each topic, you should provide a list of Docs and Learn links.
 
@@ -152,7 +166,7 @@ Each link will be instrumented with information allowing us to track the clicks.
 - [App Service overview](https://docs.microsoft.com/azure/app-service/overview)
 - [App Service documentation](https://docs.microsoft.com/azure/app-service)
 
-## Links to Learn
+### Links to Learn
 
 Similarly to Docs links, we also ask you to provide a list of Microsoft Learn links, in order to drive traffic to these modules. 
 
@@ -164,7 +178,7 @@ For example:
 - [Capture Web Application Logs with App Service Diagnostics Logging](https://docs.microsoft.com/learn/modules/capture-application-logs-app-service) *(module)*
 - [Create and publish a web application with Azure App Service and Visual Studio Code](https://docs.microsoft.com/learn/modules/create-publish-webapp-app-service-vs-code) *(module)*
 
-## Script
+### Script
 
 Maybe the most important part of the synopsis, and the one you'll spend the most time creating, is the script.
 
@@ -190,32 +204,40 @@ If you have images, screenshots etc, add them to the script too (you can save th
 
 Don't worry, we will also review the script and help you get it right before filming the video :)
 
-### Structure of the "Azure word of the day" videos
+## Submitting the pull request
 
-> TODO Continue
+Once you are done editing the document, you should submit it for review. This is done with a process that GitHub calls `Pull request`.
 
-> "Azure Word of the Day" is a series of videos featured in the Glossary to help illustrate a term. Note that these are obviously suitable for Azure-related topics only. For other areas of Microsoft, we can use a different kind of videos.
+1. Scroll down to the bottom of the page.
+2. Enter a comment for the proposed change.
+3. Press the `Propose changes` button.
 
-[Here is an example of a social video for Azure Word of the Day](https://aka.ms/define/app-service).
+![Propose changes](./images/2020-06-07_17-48-20.png)
 
-The videos all have a common structure that make them easy to recognize. These videos are suitable for social media so **they must be shorter than 2 minutes and 20 seconds**. In fact we recommend **aiming for 2 minutes only**.
+4. In the next window, you will see the differences between the original document and your changes.
+5. If you are still satisfied, press the `Create pull request` button.
 
-Each video starts with the intro card featuring a jingle.
+![Create pull request](./images/2020-06-07_17-52-42.png)
 
-Then the term is shown, as well as its phonetic transcription, and the short description.
+6. Enter a comment about your changes and then press the `Create pull request` button again.
 
-> The short description is the one you entered in the Microsoft Form when you got started. It can be edited in the synopsis
+![Commenting on the pull request](./images/2020-06-07_17-54-51.png)
 
-> For later -----------------------------
+7. You should now see a confirmation page.
 
-## Getting the repository locally
+![Confirmation page](./images/2020-06-07_17-56-29.png)
 
-### With command line
+That's it, you have contributed your synopsis!! We will review your proposal and contact you to coordinate the next steps.
 
-### With Visual Studio Code
+## Appendix
 
-## Supported syntax (for Docs)
-
-- Notes, important etc
+This sections lists topics that can be interesting for the authors.
 
 > WORK IN PROGRESS
+
+### Getting the repository locally
+
+#### With command line
+
+#### With Visual Studio Code
+

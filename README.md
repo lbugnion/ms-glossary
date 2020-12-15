@@ -22,6 +22,6 @@ This is where you can submit proposals for a new topic. You can also find other 
 
 > Note: During the launch phase, we will only accept contributions from Microsoft employees but as soon as we can, we will accept contributions from partners too :)
 
-> [Get started here](instructions/contributing-synopsis.md)
+> [Get started here](instructions/getting-started.md)
 
 Thanks again for your help!!

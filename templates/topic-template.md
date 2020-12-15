@@ -1,4 +1,4 @@
-> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/contributing-synopsis.md)
+> Go to [the instructions to get started!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/getting-started.md)
 
 > Recording date: yymmdd
 
