@@ -18,7 +18,7 @@
 
 > Twitter: @LBugnion
 
-> [This topic was published here](http://gslb.ch/gloss-test).
+> [This topic was published here](http://aka.ms/define/test).
 
 # Another test topic
 

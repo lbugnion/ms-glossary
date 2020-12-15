@@ -119,7 +119,7 @@ Today's words of the day are: TOPIC
 More information, links etc:
 LINK
 
-> Use the friendly shortened link here, for example `http://gslb.ch/gloss-serverless`.
+> Use the friendly shortened link here, for example `http://aka.ms/define/serverless`.
 
 ### Other settings
 

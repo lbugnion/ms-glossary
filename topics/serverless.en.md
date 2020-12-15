@@ -18,7 +18,7 @@
 
 > Twitter: @LBugnion
 
-> [This topic was published here](http://gslb.ch/gloss-serverless).
+> [This topic was published here](http://aka.ms/define/serverless).
 
 # Serverless
 

@@ -18,7 +18,7 @@
 
 > Twitter: @LBugnion | @ScottCate
 
-> [This topic was published here](http://gslb.ch/gloss-aad).
+> [This topic was published here](http://aka.ms/define/aad).
 
 # Azure Active Directory AAD
 

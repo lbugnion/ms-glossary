@@ -6,13 +6,13 @@ The first step in submitting a new topic is to create a synopsis with all the re
 
 ## Browse the site and get familiar with the format
 
-As a first step, you should browse [the Microsoft Glossary website](http://gslb.ch/gloss) and watch some of the videos. We are trying to get a unified experience and if possible the topics on the site should have a similar format.
+As a first step, you should browse [the Microsoft Glossary website](http://aka.ms/define) and watch some of the videos. We are trying to get a unified experience and if possible the topics on the site should have a similar format.
 
 This is also a chance to check if the topic that you have in mind already exists! If that is the case and you think the topic should be modified or updated, [contact us](mailto:lbugnion@microsoft.com)!
 
 ## Submit the new topic
 
-[Go to the Microsoft Form available here](http://gslb.ch/gloss-form-new).
+[Go to the Microsoft Form available here](http://aka.ms/define/new).
 
 Enter the following information:
 

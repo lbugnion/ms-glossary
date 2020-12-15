@@ -18,7 +18,7 @@
 
 > Twitter: @LBugnion
 
-> [This topic was published here](http://gslb.ch/gloss-app-service).
+> [This topic was published here](http://aka.ms/define/app-service).
 
 # App Service
 
