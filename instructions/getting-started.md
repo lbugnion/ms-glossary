@@ -32,8 +32,6 @@ You can complete the sections following the process described below in this docu
 
 > You can see [an example of completed Synopsis here](https://aka.ms/glossary/sample/synopsis).
 
-<a id="form"></a>
-
 ## What should you do first?
 
 If you have not done this already, [you should submit the "New term" form](https://aka.ms/define/new).
@@ -65,8 +63,6 @@ You have probably already entered your information [when you submitted the form 
 - Your Twitter username
 - Your GitHub username
 
-<a id="short-description"></a>
-
 ### Short Description
 
 You should see here the Short Description that you entered in the form. It will be used later in the social videos, in the title card. You can see an example here:
@@ -74,8 +70,6 @@ You should see here the Short Description that you entered in the form. It will 
 ![Microsoft Glossary Social Video Title Card](./images/YouTubeThumb.png).
 
 > Please keep the Short Description to about 25 words maximum.
-
-<a id="phonetics"></a>
 
 ## Phonetics
 
@@ -91,13 +85,9 @@ The goal of showing a phonetic transcription of the word is to create a feeling 
 5. Copy the transcription.
 6. Include the transcription into your Synopsis markdown.
 
-<a id="personal-notes"></a>
-
 ### Personal notes
 
 This section is intended as a notepad where you can quickly jot down some ideas about the video. For example when doing some research online, this is a convenient place to create a bullet points list, and to consult it later when you create the script.
-
-<a id="keywords"></a>
 
 ## Keywords or key expressions
 
@@ -118,8 +108,6 @@ then after processing, the text becomes
 `[...] and you can install this application on a [Web Server](/topic/app-service_web-server) locally or in the cloud [...]`
 
 > A given keyword or key expression can be used in multiple topics. In that case a disambiguation page will be created to help the user choose which topic he wants to read.
-
-<a id="demos"></a>
 
 ## Demos
 
@@ -155,8 +143,6 @@ You can see a few examples of "demos" below.
 
 [![Demo 6: Animating screenshots](images/2020-05-03_18-48-13.gif)](https://1drv.ms/v/s!As15SQCXjw37teRbfeNQjBKMZ4hHgQ?e=ZASIPw)
 
-<a id="docs"></a>
-
 ## Links to Docs
 
 One of the goals of this project is to drive traffic to the Microsoft documentation and Learn pages. For each topic, you should provide a list of Docs and Learn links.
@@ -165,8 +151,6 @@ Each link will be instrumented with information allowing us to track the clicks.
 
 - [App Service overview](https://docs.microsoft.com/azure/app-service/overview)
 - [App Service documentation](https://docs.microsoft.com/azure/app-service)
-
-<a id="learn"></a>
 
 ## Links to Learn
 
@@ -179,8 +163,6 @@ For example:
 - [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service) *(learning path)*
 - [Capture Web Application Logs with App Service Diagnostics Logging](https://docs.microsoft.com/learn/modules/capture-application-logs-app-service) *(module)*
 - [Create and publish a web application with Azure App Service and Visual Studio Code](https://docs.microsoft.com/learn/modules/create-publish-webapp-app-service-vs-code) *(module)*
-
-<a id="script"></a>
 
 ## Script
 
@@ -225,8 +207,6 @@ Then the term is shown, as well as its phonetic transcription, and the short des
 > The short description is the one you entered in the Microsoft Form when you got started. It can be edited in the synopsis
 
 > For later -----------------------------
-
-<a id="local-repo"></a>
 
 ## Getting the repository locally
 

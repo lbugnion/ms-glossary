@@ -27,6 +27,7 @@ GitHub: <!-- ENTER YOUR GITHUB NAME HERE -->
 [https://tophonetics.com](https://tophonetics.com/)
 
 > Add the phonetics of the word or the expression.
+
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/getting-started.md#phonetics)
 
 wɜrd
@@ -50,6 +51,7 @@ AAD, Active Directory, Authentication, Identity
 ## Demos
 
 > Quick list of the demos you want to show.
+
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#demos)
 
 - Short description of the demo.
@@ -57,6 +59,7 @@ AAD, Active Directory, Authentication, Identity
 ## Links to docs
 
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
+
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#docs)
 
 >For example:
@@ -66,6 +69,7 @@ AAD, Active Directory, Authentication, Identity
 ## Links to Learn
 
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
+
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#learn)
 
 >For example:
@@ -80,6 +84,7 @@ AAD, Active Directory, Authentication, Identity
 ## Script
 
 > A transcript of what you are planning to say on camera, including demos etc.
+
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#script)
 
 Today's word of the day is: WORD.
