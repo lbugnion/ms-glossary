@@ -10,6 +10,8 @@ Twitter: @LBugnion
 
 GitHub: LBugnion
 
+> [This topic was published here](http://aka.ms/define/tls-ssl).
+
 ## Short description
 
 two protocols used to encrypt communication on a network

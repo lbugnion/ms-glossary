@@ -10,7 +10,7 @@ Twitter: @LBugnion
 
 GitHub: LBugnion
 
-> [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/serverless/serverless).
+> [This topic was published here](http://aka.ms/define/serverless).
 
 ## Short description
 

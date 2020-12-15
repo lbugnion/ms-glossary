@@ -10,7 +10,7 @@ Twitter: @LBugnion
 
 GitHub: LBugnion
 
-> [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/aad/aad).
+> [This topic was published here](http://aka.ms/define/aad).
 
 ## Short description
 

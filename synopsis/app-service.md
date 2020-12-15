@@ -10,7 +10,7 @@ Twitter: @LBugnion
 
 GitHub: LBugnion
 
-> [This topic was published here](https://wordsoftheday.azurewebsites.net/topic/app-service/app-service).
+> [This topic was published here](http://aka.ms/define/app-service).
 
 ## Short description
 
