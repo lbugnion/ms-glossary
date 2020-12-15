@@ -10,7 +10,7 @@ Twitter: @LBugnion
 
 GitHub: LBugnion
 
-> [This topic was published here](https://aka.ms/define/aad).
+> [This term was published here](https://aka.ms/define/aad).
 
 ## Short description
 

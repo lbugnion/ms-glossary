@@ -2,7 +2,7 @@
 
 > This is a template to help you create a synopsis. [You can see an example here](https://aka.ms/glossary/sample/synopsis).
 
-> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/getting-started.md)
+> Go to [the instructions to get started with a new term!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/getting-started.md)
 
 ## Submitted by
 

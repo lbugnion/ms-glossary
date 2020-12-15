@@ -4,7 +4,7 @@
 
 > Keywords: Test Again, Another Test, Authentication
 
-> Blurb: Another topic used to for tests only, that you should probably ignore.
+> Blurb: Another term used to for tests only, that you should probably ignore.
 
 > Author name: Laurent Bugnion
 
@@ -14,7 +14,7 @@
 
 > Twitter: @LBugnion
 
-> [This topic was published here](https://aka.ms/define/another-test).
+> [This term was published here](https://aka.ms/define/another-test).
 
 # Yet another test topic
 
@@ -32,7 +32,7 @@
 
 ## Transcript
 
-**This is a test topic only, please ignore.**
+**This is a test term only, please ignore.**
 
 Designers at the digital agency Boom have imagined a better way. They’ve created a free text generator that replaces lorem ipsum with useful, topical prose that you can build in list or paragraph form, and in plain text or HTML. So if you're creating a cooking site, you can generate text about hamburgers or tacos. And if you’re creating a political app, you can generate text about democracy or past presidents. It may not matter, but at the same time, if you’ve ever had to squint past the weird Latin to really focus on the layout of a design, you’ll appreciate the improved topical context.
 

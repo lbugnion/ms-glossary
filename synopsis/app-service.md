@@ -10,7 +10,7 @@ Twitter: @LBugnion
 
 GitHub: LBugnion
 
-> [This topic was published here](https://aka.ms/define/app-service).
+> [This term was published here](https://aka.ms/define/app-service).
 
 ## Short description
 

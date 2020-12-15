@@ -18,7 +18,7 @@
 
 > Twitter: @LBugnion | @ScottCate
 
-> [This topic was published here](https://aka.ms/define/aad).
+> [This term was published here](https://aka.ms/define/aad).
 
 # Azure Active Directory AAD
 

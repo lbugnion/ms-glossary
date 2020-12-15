@@ -8,7 +8,7 @@
 
 > Keywords: Test, Testing, Authentication
 
-> Blurb: A topic used to for tests only.
+> Blurb: A term used to for tests only.
 
 > Author name: Laurent Bugnion
 
@@ -18,7 +18,7 @@
 
 > Twitter: @LBugnion
 
-> [This topic was published here](https://aka.ms/define/test).
+> [This term was published here](https://aka.ms/define/test).
 
 # Another test topic
 

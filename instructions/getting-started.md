@@ -107,19 +107,19 @@ For example, if you have this list of keywords in the app-service.md file:
 
 `Web Server, Web API`
 
-and another topic file has this text:
+and another page has this text:
 
 `[...] and you can install this application on a web server locally or in the cloud [...]`
 
 then after processing, the text becomes
 
-`[...] and you can install this application on a [web server](/glossary/topic/app-service/web-server) locally or in the cloud [...]`
+`[...] and you can install this application on a [web server](/glossary/term/app-service/web-server) locally or in the cloud [...]`
 
-> A given keyword or key expression can be used in multiple topics. In that case a disambiguation page will be created to help the user choose which topic he wants to read.
+> A given keyword or key expression can be used in multiple pages. In that case a disambiguation page will be created to help the user choose which page he wants to read.
 
 ### Demos
 
-We try to illustrate each topic with some small "demos" (note the quote signs here...). By this we mean that the demos are not necessarily aimed at showing a technical solution, but rather to illustrate the point you are making. The demos should be short (a few seconds), for example a quick action in the Azure portal, a navigation through some items, some screenshots, etc.
+We try to illustrate each term with some small "demos" (note the quote signs here...). By this we mean that the demos are not necessarily aimed at showing a technical solution, but rather to illustrate the point you are making. The demos should be short (a few seconds), for example a quick action in the Azure portal, a navigation through some items, some screenshots, etc.
 
 For "on camera" scenes, you can also add some logos in overlay to make things more interesting.
 
@@ -153,7 +153,7 @@ You can see a few examples of "demos" below.
 
 ### Links to Docs
 
-One of the goals of this project is to drive traffic to the Microsoft documentation and Learn pages. For each topic, you should provide a list of Docs and Learn links.
+One of the goals of this project is to drive traffic to the Microsoft documentation and Learn pages. For each term, you should provide a list of Docs and Learn links.
 
 Each link will be instrumented with information allowing us to track the clicks. You don't have to worry about that however. In the synopsis document, simply list the links, for example:
 

@@ -6,7 +6,7 @@
 
 > TODO Continue
 
-> "Azure Word of the Day" is a series of videos featured in the Glossary to help illustrate a term. Note that these are obviously suitable for Azure-related topics only. For other areas of Microsoft, we can use a different kind of videos.
+> "Azure Word of the Day" is a series of videos featured in the Glossary to help illustrate a term. Note that these are obviously suitable for Azure-related terms only. For other areas of Microsoft, we can use a different kind of videos.
 
 [Here is an example of a social video for Azure Word of the Day](https://aka.ms/define/app-service).
 

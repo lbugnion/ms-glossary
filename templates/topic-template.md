@@ -16,7 +16,7 @@
 
 > Twitter: TWITTERNAME
 
-# [WORD](/topic/en/WORD)
+# [WORD](/glossary/topic/WORD)
 
 <!-- YOUTUBEEMBED -->
 

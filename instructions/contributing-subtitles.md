@@ -2,4 +2,4 @@
 
 > TODO Contributing to captions and subtitles
 
-Must be named {topic}.{language}.srt
+Must be named {term}.{language}.srt

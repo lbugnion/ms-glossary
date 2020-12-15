@@ -4,7 +4,7 @@
 
 ## Publishing a new video
 
-- On [Github](https://github.com/lbugnion/ms-glossary), check the branch `TOPIC` out, where `TOPIC` is the current topic, for example `app-service`, `serverless`, `aad` etc.
+- On [Github](https://github.com/lbugnion/ms-glossary), check the branch `TERM` out, where `TERM` is the current term, for example `app-service`, `serverless`, `aad` etc.
 
 > Most probably the branch already exists from when the synopsis was created. If it doesn't, or if you want to start fresh, just create a new branch with a similar name.
 
@@ -22,7 +22,7 @@
   - Caption files are saved in the [Captions folder](../captions).
   - Link to [Subtitle Edit for Windows](https://www.nikse.dk/SubtitleEdit/).
 
-- Create the topic file (under [the Topics folder](../topics/)).
+- Create the term file (under [the Terms folder](../terms/)).
 
 - Produce the video with embedded captions [with Handbrake](https://handbrake.fr/).
   - [See the Handbrake settings here](#handbrake)
@@ -33,11 +33,11 @@
 - Publish the new video to YouTube.
   - [Instructions for YouTube](#youtube)
 
-- Copy the new YouTube video code into the Topic file under `> YouTube: CODE`
+- Copy the new YouTube video code into the Term file under `> YouTube: CODE`
 
-> The YouTube code is what comes at the end of the YouTube URL. For example in `https://youtu.be/O3KuatPZjfs`, copy only the code `O3KuatPZjfs` to the Topic file.
+> The YouTube code is what comes at the end of the YouTube URL. For example in `https://youtu.be/O3KuatPZjfs`, copy only the code `O3KuatPZjfs` to the Term file.
 
-- Double check everything, then commit the modified synopsis, captions and the topic file to the new branch.
+- Double check everything, then commit the modified synopsis, captions and the Term file to the new branch.
 
 > Before you push to Github, we have a staging environment that you can use to try things out. Please contact LBugnion@microsoft.com for details.
 
@@ -47,8 +47,8 @@
 
 ## Updating an existing video
 
-- On [Github](https://github.com/lbugnion/ms-glossary), create a new branch "TOPIC-update-nn" where
-  - TOPIC is the current topic, for example `app-service`, `serverless`, `aad` etc.
+- On [Github](https://github.com/lbugnion/ms-glossary), create a new branch "TERM-update-nn" where
+  - TERM is the current term, for example `app-service`, `serverless`, `aad` etc.
   - nnn is an index to differentiate branches with similar names.
 
 - Update the synopsis (in the [Synopsis folder](../synopsis))
@@ -59,7 +59,7 @@
   - Caption files are saved in the [Captions folder](../captions).
   - Link to [Subtitle Edit for Windows](https://www.nikse.dk/SubtitleEdit/).
 
-- Update the topic file (under [the Topics folder](../topics/)).
+- Update the term file (under [the Terms folder](../terms/)).
 
 - Produce the video with embedded captions [with Handbrake](https://handbrake.fr/).
   - [See the Handbrake settings here](#handbrake)
@@ -72,11 +72,11 @@
 
 > Because of YouTube constraints, there is no way to update an existing video, you must publish it as a new video.
 
-- Copy the new YouTube video code into the Topic file under `> YouTube: CODE`
+- Copy the new YouTube video code into the Term file under `> YouTube: CODE`
 
-> The YouTube code is what comes at the end of the YouTube URL. For example in `https://youtu.be/O3KuatPZjfs`, copy only the code `O3KuatPZjfs` to the Topic file.
+> The YouTube code is what comes at the end of the YouTube URL. For example in `https://youtu.be/O3KuatPZjfs`, copy only the code `O3KuatPZjfs` to the Term file.
 
-- Double check everything, then commit the modified synopsis, captions and the topic file to the new branch.
+- Double check everything, then commit the modified synopsis, captions and the Term file to the new branch.
 
 > Before you push to Github, we have a staging environment that you can use to try things out. Please contact LBugnion@microsoft.com for details.
 
@@ -96,11 +96,11 @@
 
 ![Handbrake Subtitles](./images/2020-06-11_17-07-21.png)
 
-> Add this to the queue then change the burn in setting. The file name is `[topic].[spoken language].mp4`, for example `aad.en.mp4`.
+> Add this to the queue then change the burn in setting. The file name is `[term].[spoken language].mp4`, for example `aad.en.mp4`.
 
 ![Handbrake Subtitles burn-in](./images/2020-06-11_17-08-48.png)
 
-> Add this to the queue too then Start the queue. The file name is `[topic].[spoken language].[caption language].mp4`, for example `aad.en.en.mp4`.
+> Add this to the queue too then Start the queue. The file name is `[term].[spoken language].[caption language].mp4`, for example `aad.en.en.mp4`.
 
 <a id="youtube"></a>
 
@@ -108,13 +108,13 @@
 
 ### Title
 
-Azure Words of the Day: TOPIC
+Azure Words of the Day: TERM
 
 ### Description
 
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
 
-Today's words of the day are: TOPIC
+Today's words of the day are: TERM
 
 More information, links etc:
 LINK
