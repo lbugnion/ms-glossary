@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths:
-    - 'topics/**'
+    - 'terms/**'
     - 'captions/**'
 
 jobs:
@@ -34,8 +34,8 @@ jobs:
       - uses: actions/checkout@master
       - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
         with:
-          source_dir: 'topics'
-          container_name: 'topics'
+          source_dir: 'terms'
+          container_name: 'terms'
           connection_string: ${{ secrets.StorageConnectionString }}
   trigger-update:
     runs-on: ubuntu-latest
@@ -55,4 +55,4 @@ jobs:
           url: https://notificationsendpoint.azurewebsites.net/api/send
           method: post
           headers: '{ "x-functions-key": "${{ secrets.NotifyFunctionKey }}" }'
-          data:  '{	"title": "TEMPO Markdown and caption files copied", "body": "Markdown and caption files were copied to the markdown folder, update process NOT triggered", "channel": "MSGlossary" }'
+          data:  '{	"title": "Markdown and caption files copied", "body": "Markdown and caption files were copied to the markdown folder, update process was triggered", "channel": "MSGlossary" }'
