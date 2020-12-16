@@ -28,7 +28,7 @@
   - [See the Handbrake settings here](#handbrake)
 
 - Upload the video with captions [in the Videos containers](http://gslb.ch/462).
-  - If you don't have access to the Storage container, contact LBugnion@microsoft.com
+  - If you don't have access to the Storage container, contact [ms-glossary-help@microsoft.com](mailto:ms-glossary-help@microsoft.com)
 
 - Publish the new video to YouTube.
   - [Instructions for YouTube](#youtube)
@@ -39,7 +39,7 @@
 
 - Double check everything, then commit the modified synopsis, captions and the Term file to the new branch.
 
-> Before you push to Github, we have a staging environment that you can use to try things out. Please contact LBugnion@microsoft.com for details.
+> Before you push to Github, we have a staging environment that you can use to try things out. Please contact [ms-glossary-help@microsoft.com](mailto:ms-glossary-help@microsoft.com) for details.
 
 - Push to GitHub
 
@@ -65,7 +65,7 @@
   - [See the Handbrake settings here](#handbrake)
 
 - Upload the video with captions [in the Videos containers](http://gslb.ch/462).
-  - If you don't have access to the Storage container, contact LBugnion@microsoft.com
+  - If you don't have access to the Storage container, contact [ms-glossary-help@microsoft.com](mailto:ms-glossary-help@microsoft.com)
 
 - Publish the new video to YouTube.
   - [Instructions for YouTube](#youtube)
@@ -78,7 +78,7 @@
 
 - Double check everything, then commit the modified synopsis, captions and the Term file to the new branch.
 
-> Before you push to Github, we have a staging environment that you can use to try things out. Please contact LBugnion@microsoft.com for details.
+> Before you push to Github, we have a staging environment that you can use to try things out. Please contact [ms-glossary-help@microsoft.com](mailto:ms-glossary-help@microsoft.com) for details.
 
 - Push to GitHub
 
