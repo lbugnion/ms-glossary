@@ -1,4 +1,4 @@
-# Microsoft Glossary Synopsis: <!-- TOPIC -->
+# Microsoft Glossary Synopsis: <!-- TERM -->
 
 > This is a template to help you create a synopsis. [You can see an example here](https://aka.ms/glossary/sample/synopsis).
 
@@ -20,7 +20,7 @@ GitHub: <!-- ENTER YOUR GITHUB NAME HERE -->
 
 > Please keep to about 25 words maximum.
 
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#short-description)
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#short-description)
 
 ## Phonetics
 
@@ -28,7 +28,7 @@ GitHub: <!-- ENTER YOUR GITHUB NAME HERE -->
 
 > Add the phonetics of the word or the expression.
 
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#phonetics)
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#phonetics)
 
 wɜrd
 
@@ -36,13 +36,13 @@ wɜrd
 
 > A bullet points list of notes you can use to keep track of things.
 
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#personal-notes)
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#personal-notes)
 
 ## Keywords
 
 > List of keywords or keyphrases, comma separated.
 
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#keywords-or-key-expressions)
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#keywords-or-key-expressions)
 
 > For example
 
@@ -52,7 +52,7 @@ AAD, Active Directory, Authentication, Identity
 
 > Quick list of the demos you want to show.
 
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#demos)
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#demos)
 
 - Short description of the demo.
 
@@ -60,7 +60,7 @@ AAD, Active Directory, Authentication, Identity
 
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
 
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#links-to-docs)
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#links-to-docs)
 
 >For example:
 
@@ -70,7 +70,7 @@ AAD, Active Directory, Authentication, Identity
 
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
 
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#links-to-learn)
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#links-to-learn)
 
 >For example:
 
@@ -85,7 +85,9 @@ AAD, Active Directory, Authentication, Identity
 
 > A transcript of what you are planning to say on camera, including demos etc.
 
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#script)
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#script)
+
+> When writing your script, and even though we are not working on the video yet, [keep in mind the general structure of the social videos](./getting-started-video.md).
 
 Today's word of the day is: WORD.
 Today's words of the day are: EXPRESSION.
