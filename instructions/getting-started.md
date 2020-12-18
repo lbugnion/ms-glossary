@@ -48,7 +48,7 @@ You can edit the synopsis directly in the GitHub portal. Creating the synopsis s
 
 1. Click on the link in the email that you receive.
 
-> If you didn't receive an email after submitting the new term, check your junk folder. The email is titled `ACTION NEEDED: Thanks for submitting to the Microsoft Glossary`. If you still cannot find it, contact [LBugnion@microsoft.com](mailto:LBugnion@microsoft.com).
+> If you didn't receive an email after submitting the new term, check your junk folder. The email is titled `ACTION NEEDED: Thanks for submitting to the Microsoft Glossary`. If you still cannot find it, contact [ms-glossary-help@microsoft.com](mailto:ms-glossary-help@microsoft.com).
 
 The links should look something like that:
 
@@ -204,6 +204,8 @@ Don't worry, we will also review the script and help you get it right before fil
 
 Once you are done editing the document, you should submit it for review. This is done with a process that GitHub calls `Pull request`.
 
+> **VERY IMPORTANT** Make sure that all your changes are in the document before you submit the pull request. Once you submit the pull request, you cannot change the file anymore until it is approved.
+
 1. Scroll down to the bottom of the page.
 2. Enter a comment for the proposed change.
 3. Press the `Propose changes` button.
@@ -233,7 +235,83 @@ This sections lists topics that can be interesting for the authors.
 
 ### Getting the repository locally
 
-#### With command line
+If you prefer, you can get the ms-glossary repo locally to edit the files with your favorite editor such as Visual Studio Code. Follow the steps:
 
-#### With Visual Studio Code
+> This section assumes that you have Visual Studio Code as well as the GitHub Pull Requests and Issues extension installed on your machine. For more information see [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github).
 
+#### Getting the repo
+
+> Execute this section only if you didn't get the ms-glossary repo yet on your local machine.
+
+1. Go [to the GitHub repo](https://github.com/lbugnion/ms-glossary).
+2. Click on the Fork button.
+
+![Fork button in GitHub](./images/2020-12-16_13-38-57.png)
+
+3. Open a new empty instance of Visual Studio Code.
+4. Click on the Source Control extension in the toolbar on the left.
+5. If necessary, sign in into GitHub.
+
+![Sign in into GitHub](./images/2020-12-16_14-53-46.png)
+ 
+6. Click on `Clone Repository`.
+
+![Source control extension in Visual Studio Code](./images/2020-12-16_13-44-04.png)
+
+7. Click on `Clone from GitHub`.
+
+![Clone from GitHub](./images/2020-12-16_13-46-13.png)
+
+8. If necessary, follow the instructions to sign into GitHub.
+9. Select the ms-glossary fork.
+
+![Select the ms-glossary fork](./images/2020-12-16_13-50-04.png)
+
+10. Select the folder where you want the files to be copied.
+
+#### Getting and editing the Synopsis
+
+1. After the cloning process is done, open the folder in Visual Studio Code.
+2. Select the branch you just created, with the new term.
+
+![Branch selection (1)](./images/2020-12-16_14-05-23.png)
+
+![Branch selection (2)](./images/2020-12-16_14-06-53.png)
+
+> If you don't see the branch, go to the Source Control extension and then select `Pull` from the menu.
+
+![Pull command](./images/2020-12-16_14-00-27.png)
+
+3. Expand the `Synopsis` folder in the file explorer and locate the markdown file that corresponds to your term.
+
+![Opening the synopsis file](./images/2020-12-16_14-07-37.png)
+
+At this point you can take your time to edit the file, save your changes, etc. You can also commit the changes back to your fork of the repository with the following steps. This doesn't affect the main ms-glossary repository yet.
+
+1. Save your changes.
+2. Open the `Source Control` extension.
+
+![Source control extension](./images/2020-12-16_14-11-28.png)
+
+3. Click on the file to see the changes in the difference editor.
+4. Click on the `+ (Stage)` button.
+
+![Stage button](./images/2020-12-16_14-13-18.png)
+
+5. Enter a commit message and then click on the `Commit` button.
+
+![Commit button](./images/2020-12-16_14-13-18B.png)
+
+6. Click on the menu button and then select `Push`.
+
+At this time, your changes are safely committed to your own fork of the ms-glossary repository. You can continue to make changes, or you can go to the next step and submit the pull request.
+
+#### Submitting the pull request
+
+> IMPORTANT Only proceed with the pull request when you are done with all your changes. This will trigger a review process and we will contact you for next steps. If you submit too fast and want to make additional changes, contact [ms-glossary-help@microsoft.com](mailto:ms-glossary-help@microsoft.com).
+
+This process will submit your synopsis for review to the Microsoft Glossary team. Please follow the steps.
+
+1. Open the folder in Visual Studio Code.
+2. Make sure that all your changes are saved and committed to your fork of the repository (see steps above).
+3. Click on the `Pull Request` extension in the toolbar.
