@@ -2,7 +2,7 @@
 
 Thanks for your interest in our work.
 
-We are helping beginners to find the definitions of terms related to Azure, and the cloud in general. The **Microsoft Glossary** is a Dictionary, an Encyclopedia, a Wikipedia of technical words, expressions, and abbreviations. It helps visitors getting started with a new Microsoft-related topic by making it easy to understand the vocabulary. It also helps Microsoft documentation writers by providing a unique repository of terms that they can link to.
+We are helping people (beginners and experts) to find the definitions of terms related to Azure, and the cloud in general. The **Microsoft Glossary** is a Dictionary, an Encyclopedia, a Wikipedia of technical words, expressions, and abbreviations. It helps visitors getting started with a new Microsoft-related topic by making it easy to understand the vocabulary. It also helps Microsoft documentation writers by providing a unique repository of terms that they can link to.
 
 Each word, expression or abbreviation is illustrated by a short video explaining the concept. Items are cross-referenced, a little like Wikipedia does. In addition, we also list links to documentation and Microsoft Learn.
 
