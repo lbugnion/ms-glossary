@@ -6,6 +6,10 @@
 
 ## Submitted by
 
+> Enter a comma-separated list of author names, email, Twitter handle and GitHub username.
+
+> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#submitted-by)
+
 Name: <!-- ENTER YOUR NAME HERE -->
 
 Email: <!-- ENTER YOUR EMAIL HERE -->
@@ -16,15 +20,15 @@ GitHub: <!-- ENTER YOUR GITHUB NAME HERE -->
 
 ## Short description
 
-<!-- ENTER A SHORT DESCRIPTION HERE -->
-
 > Please keep to about 25 words maximum.
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#short-description)
 
+<!-- ENTER A SHORT DESCRIPTION HERE -->
+
 ## Phonetics
 
-[https://tophonetics.com](https://tophonetics.com/)
+> [https://tophonetics.com](https://tophonetics.com/)
 
 > Add the phonetics of the word or the expression.
 
@@ -37,6 +41,9 @@ wɜrd
 > A bullet points list of notes you can use to keep track of things.
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#personal-notes)
+
+- Note 1
+- Note 2
 
 ## Keywords
 
@@ -61,8 +68,6 @@ AAD, Active Directory, Authentication, Identity
 > As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started-synopsis.md#links-to-docs)
-
->For example:
 
 - [An introduction to Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview)
 
