@@ -1,8 +1,8 @@
 # Microsoft Glossary Synopsis: Azure Portal
 
-> This is a template to help you create a synopsis. [You can see an example here](https://github.com/lbugnion/ms-glossary/blob/master/synopsis/aad.md).
+> This is a template to help you create a synopsis. [You can see an example here](https://aka.ms/glossary/sample/synopsis).
 
-> Go to [the instructions to get started with a new topic!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/contributing-synopsis.md)
+> Go to [the instructions to get started with a new term!](https://github.com/lbugnion/ms-glossary/blob/master/instructions/getting-started.md)
 
 ## Submitted by
 
@@ -27,17 +27,17 @@ The web-based user interface used to manage all Azure services in the web browse
 
 ˈæʒər ˈpɔrtəl
 
-## Topics
+## Personal notes
 
 - Explain that there are many ways to manage Azure services
-  - Command line interaction (CLI)
-  - Powershell
-  - Bash
-  - Some development tools like Visual Studio or Visual Studio Code
-  - Azure portal on the web
+- -> Command line interaction (CLI)
+- -> Powershell
+- -> Bash
+- -> Some development tools like Visual Studio or Visual Studio Code
+- -> Azure portal on the web
 - Because of its ease of use, many people start on the web
 - Provides a dashboard where you can put shortcuts of your services
-  - Can have multiple dashboards
+- Can have multiple dashboards
 - Also provides visualizations of metrics
 - Easy to create new resources, for example a web app
 - Did you know that you can also do a lot with the Azure app on Android and iOS
@@ -59,7 +59,6 @@ Portal, Dashboard, Marketplace, Azure Marketplace, Azure App
 - [Azure portal overview](https://docs.microsoft.com/azure/azure-portal/azure-portal-overview)
 - [Create and share dashboards in the Azure portal](https://docs.microsoft.com/azure/azure-portal/azure-portal-dashboards)
 - [Azure portal how-to video series](https://docs.microsoft.com/azure/azure-portal/azure-portal-video-series)
-- [Azure app](TODO)
 
 ## Links to Learn
 
@@ -67,8 +66,9 @@ Portal, Dashboard, Marketplace, Azure Marketplace, Azure App
 
 ## Other Links (optional)
 
-- [Azure app in Google Play](TODO)
-- [Azure app in the App store](TODO)
+- [Azure app](https://azure.microsoft.com/features/azure-portal/mobile-app/)
+- [Azure app in Google Play](https://play.google.com/store/apps/details?id=com.microsoft.azure)
+- [Azure app in the iOS App store](https://apps.apple.com/us/app/microsoft-azure/id1219013620?ls=1)
 
 ## Script
 
