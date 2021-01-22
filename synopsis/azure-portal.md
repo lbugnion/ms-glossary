@@ -10,7 +10,7 @@ Name: Laurent Bugnion
 
 Email: lbugnion@microsoft.com
 
-Twitter: @LBugnion
+Twitter: LBugnion
 
 GitHub: LBugnion
 
@@ -20,9 +20,8 @@ The web-based user interface used to manage all Azure services in the web browse
 
 ## Phonetics
 
-[https://tophonetics.com](https://tophonetics.com/)
-
 > Add the phonetics of the word or the expression.
+
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/master/instructions/synopsis-template-notes.md#phonetics)
 
 ˈæʒər ˈpɔrtəl
@@ -41,6 +40,7 @@ The web-based user interface used to manage all Azure services in the web browse
 - Also provides visualizations of metrics
 - Easy to create new resources, for example a web app
 - Did you know that you can also do a lot with the Azure app on Android and iOS
+- New note, ignore
 
 ## Keywords
 
@@ -91,3 +91,4 @@ The Azure Portal is quite easy to use and also convenient as you can create cust
 Another thing you might want to check is the Azure app running on iOS and Android. This app provides many of the functionalities of the web portal, including access to the cloud shell. It can show notifications when something happens in your applications and allows you to manage your services even when you don't have a laptop.
 
 You can get more information about the Azure Portal and the Azure app here, don't forget to check the links. Thank you so much for watching Microsoft Azure Words of the Day. Today's words of the day were: Azure Portal.
+
