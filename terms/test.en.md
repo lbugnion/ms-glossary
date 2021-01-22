@@ -8,7 +8,7 @@
 
 > Keywords: Test, Testing, Authentication
 
-> Blurb: A term used to for tests only.
+> Blurb: A term used to for tests only, that you should probably also ignore.
 
 > Author name: Laurent Bugnion
 
