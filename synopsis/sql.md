@@ -10,7 +10,7 @@ Name: Laurent Bugnion
 
 Email: lbugnion@microsoft.com
 
-Twitter: @LBugnion
+Twitter: LBugnion
 
 GitHub: LBugnion
 
@@ -20,7 +20,7 @@ Structured Query Language. SQL is used to communicate with a relational database
 
 ## Phonetics
 
-wɜrd
+ɛs-kju-ɛl
 
 ## Personal notes
 
@@ -57,3 +57,4 @@ Today's word of the day is an abbreviation: ABBREVIATION.
 > Enter production notes like this. This is to help you while filming or while editing the video.
 
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
+
