@@ -48,11 +48,7 @@ Keyword 1, Keyword 2, Another keyword
 
 ## Script
 
-Today's word of the day is: WORD.
-
-Today's words of the day are: EXPRESSION.
-
-Today's word of the day is an abbreviation: ABBREVIATION.
+Today's word of the day is an abbreviation: SQL, also pronounced "sequel".
 
 > Enter production notes like this. This is to help you while filming or while editing the video.
 
