@@ -32,6 +32,12 @@ You can write the Synopsis by following the process described below in this docu
 
 > You can see [an example of completed Synopsis here](https://aka.ms/glossary/sample/synopsis).
 
+### Commit
+
+When you edit the Synopsis, you will see the term "commit" coming up here and there.
+
+TODO Continue
+
 ## What should you do first?
 
 If you have not done this already, [you should submit the "New term" form](https://aka.ms/define/new).
