@@ -8,16 +8,23 @@ Note that the new synopsis is into a GitHub `branch`. It means that your changes
 
 You have already entered your information when you submitted the form above. Please check that the following is available:
 
-- Your name
-- Your email address
-- Your Twitter username
-- Your GitHub username
+Name: Your name
+Email: Your email address
+Twitter: Your Twitter username
+GitHub: Your GitHub username
+
+If more than one author is present, please use comma-separated lists, for example:
+
+Name: Laurent Bugnion, Scott Cate
+Email: lbugnion@microsoft.com, scottca@microsoft.com
+Twitter: LBugnion, ScottCa
+GitHub: LBugnion, ScottCa
 
 ## Short Description
 
 You should see here the Short Description that you entered in the form. It will be used later in the social videos, in the title card. You can see an example here:
 
-> IMPORTANT **Please keep the Short Description to about 25 words maximum**.
+> IMPORTANT **Please keep the Short Description between 60 and 200 characters**.
 
 ![Microsoft Glossary Social Video Title Card](./images/ShortDescription.png).
 

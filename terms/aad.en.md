@@ -10,13 +10,13 @@
 
 > Blurb: An abbreviation meaning Azure Active Directory, a service used to manage identity, authentication and authorization on Microsoft Azure
 
-> Author name: Laurent Bugnion | Scott Cate
+> Author name: Laurent Bugnion, Scott Cate
 
-> Email: LBugnion@Microsoft.com | scottca@microsoft.com
+> Email: LBugnion@Microsoft.com, scottca@microsoft.com
 
-> GitHub: LBugnion | ScottCate
+> GitHub: LBugnion, ScottCate
 
-> Twitter: @LBugnion | @ScottCate
+> Twitter: @LBugnion, @ScottCate
 
 > [This term was published here](https://aka.ms/define/aad).
 
