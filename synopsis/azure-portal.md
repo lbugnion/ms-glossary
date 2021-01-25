@@ -86,5 +86,7 @@ The Azure Portal is quite easy to use and also convenient as you can create cust
 
 Another thing you might want to check is the Azure app running on iOS and Android. This app provides many of the functionalities of the web portal, including access to the cloud shell. It can show notifications when something happens in your applications and allows you to manage your services even when you don't have a laptop.
 
-You can get more information about the Azure Portal and the Azure app here, don't forget to check the links. Thank you so much for watching Microsoft Azure Words of the Day. Today's words of the day were: Azure Portal.
+> Show the Azure app on Android, navigate through resources. Show a notification.
+
+You can get more information about the Azure Portal and the Azure app here so don't forget to check the links. Thank you so much for watching Microsoft Azure Words of the Day. Today's words of the day were: Azure Portal.
 
