@@ -22,9 +22,11 @@ GitHub: LBugnion, ScottCa
 
 ## Short Description
 
-You should see here the Short Description that you entered in the form. It will be used later in the social videos, in the title card. You can see an example here:
+You should see here the Short Description that you entered in the form. It will be used later in the social videos, in the title card. 
 
 > IMPORTANT **Please keep the Short Description between 60 and 200 characters**.
+
+You can see an example here:
 
 ![Microsoft Glossary Social Video Title Card](./images/ShortDescription.png).
 
