@@ -1,10 +1,23 @@
 # Completing the Synopsis
 
+In this step you will use an application called the Synopsis Client. It runs like a web page on your computer and on your phone, at the following address: [Synopsis Client](https://www.ms-glossary-synopsis.cloud). 
+
+> You can also get to this application by clicking on the link in the email you received (recommended) 
+
 The synopsis has the following sections that you should fill before submitting it for review.
 
-Note that the new synopsis is into a GitHub `branch`. It means that your changes will be into a kind of sandbox and won't affect the rest of the site until you are ready to submit. [More information about GitHub branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
+![Synopsis client navigation menu](TODO)
 
-## Submitted by
+> Click on name of the section to get more detailed information and Screenshots. 
+
+- [Title](TODO) : The Synopsis title, which is usually also the name of the page that will be created in the Glossary for this term. 
+- [Authors](TODO) : one or more author for the Synopsis. 
+- [Description](TODO) : A short description we'll use later in the video. 
+- [Phonetics](TODO) : 
+- [Notes](TODO) : 
+- [Keywords](TODO) : 
+
+## Authors
 
 You have already entered your information when you submitted the form above. Please check that the following is available:
 
