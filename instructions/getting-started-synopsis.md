@@ -1,6 +1,8 @@
-# Completing the Synopsis
+# Using the Synopsis Client
 
-The synopsis has the following sections that you should fill before submitting it for review.
+> Previous page: [Creating content for the Glossary: Getting started](./getting-started.md)
+
+The synopsis has the following sections that you must fill before submitting it for review.
 
 Note that the new synopsis is into a GitHub `branch`. It means that your changes will be into a kind of sandbox and won't affect the rest of the site until you are ready to submit. [More information about GitHub branches](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
 
@@ -11,7 +13,7 @@ You have already entered your information when you submitted the form above. Ple
 Name: Your name
 Email: Your email address
 Twitter: Your Twitter username
-GitHub: Your GitHub username
+GitHub: Your GitHub username. This information is optional.
 
 If more than one author is present, please use comma-separated lists, for example:
 
