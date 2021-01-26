@@ -1,69 +1,118 @@
-# Completing the Synopsis
+# Using the Synopsis client
 
 > Previous page: [Creating content for the Glossary: Getting started](./getting-started.md)
 
-In this step you will use an application called the Synopsis Client. It runs like a web page on your computer and on your phone, at the following address: [Synopsis Client](https://www.ms-glossary-synopsis.cloud). 
+> Next page: [Submitting a Synopsis for review](./getting-started-synopsis-review.md)
 
-> You can also get to this application by clicking on the link in the email you received (recommended) 
+## Introduction
 
-The synopsis has the following sections that you should fill before submitting it for review.
+In this step you will use an application called the Synopsis Client. It runs like a web page on your computer and on your phone, at the following address: [Synopsis Client](https://www.ms-glossary-synopsis.cloud).
 
-![Synopsis client navigation menu](TODO)
+> You can also get to this application by clicking on the link in the email you received (recommended).
+
+*Synopsis client in landscape mode*:
+![Synopsis client in landscape mode](./images/synopsis-client/2021-01-26_16-11-52.png)
+
+*Synopsis client on mobile phone*
+
+![Synopsis client on mobile phone](./images/synopsis-client/Screenshot_20210126-183018.jpg)
 
 > Click on name of the section to get more detailed information and Screenshots. 
 
-- [Title](TODO) : The Synopsis title, which is usually also the name of the page that will be created in the Glossary for this term. 
-- [Authors](TODO) : one or more author for the Synopsis. 
-- [Description](TODO) : A short description we'll use later in the video. 
-- [Phonetics](TODO) : 
-- [Notes](TODO) : 
-- [Keywords](TODO) : 
+- [Title](#title): The Synopsis title, which is usually also the name of the page that will be created in the Glossary for this term.
+- [Authors](#authors) : one or more author for the Synopsis.
+- [Description](#short-description) : A short description we'll use later in the video.
+- [Phonetics](#phonetics): The phonetic transcription of the term.
+- [Notes](#personal-notes): Personal notes to help you getting started and keeping track of your progress.
+- [Keywords](#keywords-or-key-expressions): Keywords that we'll use later to cross reference terms. [See the definition of a keyword](/getting-started.md#keyword).
+- [Demos](#demos): A list of demos that you want to use in the video.
+- [Links to Docs](#links-to-docs): A list of links leading to the Microsoft Docs.
+- [Links to Learn](#links-to-learn): A list of links leading to Microsoft Learn learning paths and modules.
+- [Other Links](#other-links): A list of links leading to other destinations, either on Microsoft' properties or elsewhere.
+- [Script](#script): The script for your video.
+
+## Common elements
+
+Each screen has the following elements in common:
+
+![TITLE](./images/synopsis-client/2021-01-26_22-02-29.png)
+
+- `Save local`: This button is enabled when the Synopsis can be saved in local storage. You can take your time to edit the Synopsis and save your changes in the mean time before you are ready to save to the cloud.
+- `Commit to Cloud`: This will save the Synopsis you are editing to GitHub. This doesn't however submit it for review yet. You can save to the Cloud as often as you need.
+
+> When you commit to the Cloud, you have to enter a message which will be saved to GitHub as well.
+
+- `Reload local`: This will cancel all your unsaved changes and reload the last version of the Synopsis that you saved locally.
+- `Reload from Cloud`: This will cancel all your local changes, connect to GitHub and reload the Synopsis from there.
+
+> Be careful when reloading from the Cloud, all your local changes will be erased, even the ones you saved locally!!
+
+- `This synopsis in GitHub` leads you to the markdown file for your Synopsis as it is available in GitHub.
+
+### Validation
+
+Some fields are optional, others need to be filled. You will see validation messages where needed.
+
+![Validation message](./images/synopsis-client/2021-01-26_22-14-19.png)
+
+## Title
+
+This is where you update the title of the Synopsis. This will be the term shown on the Glossary page. For example `App service`, `Azure Portal` etc.
+
+![Title screen](./images/synopsis-client/2021-01-26_22-02-30.png)
 
 ## Authors
 
-You have already entered your information when you submitted the form above. Please check that the following is available:
+![Authors screen](./images/synopsis-client/2021-01-26_22-10-55.png)
 
-Name: Your name
-Email: Your email address
-Twitter: Your Twitter username
-GitHub: Your GitHub username. This information is optional.
+You have already entered your information when you submitted the form above. Here you can modify your information, add or remove some authors.
 
-If more than one author is present, please use comma-separated lists, for example:
-
-Name: Laurent Bugnion, Scott Cate
-Email: lbugnion@microsoft.com, scottca@microsoft.com
-Twitter: LBugnion, ScottCa
-GitHub: LBugnion, ScottCa
+> Note that **at least one author** must be defined.
+> Each author must have a **name, email address and Twitter username** defined. Optionally an author's GitHub username can also be defined.
 
 ## Short Description
 
-You should see here the Short Description that you entered in the form. It will be used later in the social videos, in the title card. 
+![Short description screen](./images/synopsis-client/2021-01-26_22-25-51.png)
 
-> IMPORTANT **Please keep the Short Description between 60 and 200 characters**.
+You should see here the Short Description that you entered in the form. It will be used later in the social videos, in the title card.
 
-You can see an example here:
+![Video intro card](./images/ShortDescription.png)
 
-![Microsoft Glossary Social Video Title Card](./images/ShortDescription.png).
+> IMPORTANT **Please keep the Short Description between 40 and 150 characters**.
 
 ## Phonetics
 
-We show a phonetic transcription of the term to create a feeling of being in a dictionary. You can easily create the phonetics with the following steps:
+![Phonetics screen](./images/synopsis-client/2021-01-26_22-30-22.png)
+
+We show a phonetic transcription of the term to create a feeling of being in a dictionary.
+
+![Video intro card](./images/Phonetics.png)
+
+You can easily create the phonetics with the following steps:
 
 1. Go to [https://tophonetics.com](https://tophonetics.com/).
 2. Paste or type your english text in the box.
 
-![tophonetics screenshot](images/2020-04-29_17-21-27.png)
+![tophonetics screenshot](images/synopsis-client/2020-04-29_17-21-27.png)
 
 3. Make sure that `American` is selected. This is just to ensure that we have consistent phonetics through all the entries.
 4. Click on `Show Transcription`.
 5. Copy the transcription.
-6. Include the transcription into your Synopsis markdown.
+6. Paste the transcription in the Synopsis client.
 
 ## Personal notes
 
+![Personal notes screen](./images/synopsis-client/2021-01-26_22-52-32.png)
+
 This section is intended as a notepad where you can quickly jot down some ideas about the video. For example when doing some research online, this is a convenient place to create a bullet points list, and to consult it later when you create the script.
 
+Use the `Delete` button to delete a note.
+
+> You can delete all the notes if you want, however each note needs to have some text defined.
+
 ## Keywords or key expressions
+
+![Keywords screen](./images/synopsis-client/2021-01-26_23-19-39.png)
 
 The list of keywords will be used to cross-reference items within the Glossary. They can be one word, a short expression, 2-3 words. They can also be abbreviations.
 
@@ -82,6 +131,8 @@ then after processing, the text becomes
 > A given keyword or key expression can be used in multiple pages. In that case a disambiguation page will be created to help the user choose which page he wants to read.
 
 ## Demos
+
+![Demos screen](./images/synopsis-client/2021-01-26_23-28-43.png)
 
 We try to illustrate each term with some small "demos" (note the quote signs here...). By this we mean that the demos are not necessarily aimed at showing a technical solution, but rather to illustrate the point you are making. The demos should be short (a few seconds), for example a quick action in the Azure portal, a navigation through some items, some screenshots, etc.
 
@@ -117,30 +168,37 @@ You can see a few examples of "demos" below.
 
 ## Links to Docs
 
+![Links to Docs screen](./images/synopsis-client/2021-01-26_23-29-42.png)
+
 One of the goals of this project is to drive traffic to the Microsoft documentation and Learn pages. For each term, you should provide a list of Docs and Learn links.
 
-Each link will be instrumented with information allowing us to track the clicks. You don't have to worry about that however. In the synopsis document, simply list the links, for example:
-
-- [App Service overview](https://docs.microsoft.com/azure/app-service/overview)
-- [App Service documentation](https://docs.microsoft.com/azure/app-service)
+> You need to define at least one link to Microsoft Docs. Each link will be instrumented with information allowing us to track the clicks. You don't have to worry about that at the moment.
 
 ## Links to Learn
 
-Similarly to Docs links, we also ask you to provide a list of Microsoft Learn links, in order to drive traffic to these modules. 
+![Links to Learn screen](./images/synopsis-client/2021-01-26_23-50-55.png)
+
+Similarly to Docs links, we also ask you to provide a list of Microsoft Learn links, in order to drive traffic to these modules.
 
 You can either provide a link to a Learning path, or to a specific module, or both.
 
-For example:
+> You need to define at least one link to Microsoft Learn. Each link will be instrumented with information allowing us to track the clicks. You don't have to worry about that at the moment.
 
-- [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service) *(learning path)*
-- [Capture Web Application Logs with App Service Diagnostics Logging](https://docs.microsoft.com/learn/modules/capture-application-logs-app-service) *(module)*
-- [Create and publish a web application with Azure App Service and Visual Studio Code](https://docs.microsoft.com/learn/modules/create-publish-webapp-app-service-vs-code) *(module)*
+## Other links
+
+![Other links screen](./images/synopsis-client/2021-01-27_00-03-41.png)
+
+You can also provide other links, for example links to other Microsoft properties, or third party websites (blog articles, app store, etc etc). Note that non-Microsoft links cannot be tracked.
 
 ## Script
 
-> For the script, we recommend aiming for **330 - 350 words** for the 2 minutes video.
+![Script screen](./images/synopsis-client/2021-01-27_00-06-36.png)
 
-Maybe the most important part of the synopsis, and the one you'll spend the most time creating, is the script.
+> For the script, we recommend aiming for **280 - 320 words** for the 2 minutes video. After you change a line of script, click out of the field to see the new word count.
+
+> The script is composed of lines of script (which you will say on camera) and production notes (which are just indications for you to make it easier to film or to edit).
+
+The most important part of the synopsis, and the one you'll spend the most time creating, is the script.
 
 All Microsoft Glossary videos are scripted. This serves a few purposes:
 
@@ -152,7 +210,7 @@ You can see examples of scripts [here](../synopsis/aad.md#script) and [here](../
 
 - Keep it simple. Start by writing what you want to say, then go over the script again and remove unnecessary words, repetitions, etc. Going through the script a few times will make it tighter and better.
 
-- Add production notes as a `> blockquote`. These notes will be useful for you later when you are ready to record. For example:
+- Add production notes. These notes will be useful for you later when you are ready to record. For example:
 
 > Speak to the camera
 
@@ -160,6 +218,8 @@ or
 
 > Show the portal on the application insights dashboard
 
-If you have images, screenshots etc, add them to the script too (you can save the images in the [synopsis/images](../synopsis/images/) folder). Any information you add to the script will be helpful later when recording the video.
-
 Don't worry, we will also review the script and help you get it right before filming the video :)
+
+> Previous page: [Creating content for the Glossary: Getting started](./getting-started.md)
+
+> Next page: [Submitting a Synopsis for review](./getting-started-synopsis-review.md)
