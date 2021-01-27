@@ -73,11 +73,11 @@ Some fields are optional, others need to be filled. You will see validation mess
 
 ## Title
 
+![Title screen](./images/synopsis-client/2021-01-26_22-02-30.png)
+
 This is where you update the title of the Synopsis. This will be the term shown on the Glossary page. For example `App service`, `Azure Portal` etc.
 
-> Changing the title of the synopsis does NOT change its address. For example if you are editing https://ms-glossary-synopsis.cloud?edit=azure-portal and you change the title from `Azure Portal` to `Microsoft Azure Portal`, the link above remains unchanged.
-
-![Title screen](./images/synopsis-client/2021-01-26_22-02-30.png)
+> Changing the title of the synopsis does NOT change its address. For example if you are editing `https://ms-glossary-synopsis.cloud?edit=azure-portal` and you change the title from `Azure Portal` to `Microsoft Azure Portal`, the link above remains unchanged.
 
 ## Authors
 
