@@ -2,7 +2,7 @@
 
 Thank you so much for contributing to the Glossary. With your help, we can grow and maintain the content to create a reference repository of words, expressions and abbreviations.
 
-> Next page: [Using the Synopsis Client](./synopsis-client-guide.md)
+> Next page: [Using the Synopsis Client](./getting-started-synopsis.md)
 
 ## Definitions
 
@@ -74,4 +74,4 @@ Laurent
 
 Click on the link following the text `You can edit the Synopsis here`. This opens the Synopsis Client in your web browser. You can then start the editing process.
 
-> Next page: [Using the Synopsis Client](./synopsis-client-guide.md)
+> Next page: [Using the Synopsis Client](./getting-started-synopsis.md)
