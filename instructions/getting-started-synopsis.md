@@ -128,7 +128,7 @@ This section is intended as a notepad where you can quickly jot down some ideas 
 
 Use the `Delete` button to delete a note.
 
-> You can delete all the notes if you want, however each note needs to have some text defined.
+> You can delete all the notes if you want, however each existing note needs to have some text defined.
 
 ## Keywords or key expressions
 
@@ -156,7 +156,7 @@ then after processing, the text becomes
 
 We try to illustrate each term with some small "demos" (note the quote signs here...). By this we mean that the demos are not necessarily aimed at showing a technical solution, but rather to illustrate the point you are making. The demos should be short (a few seconds), for example a quick action in the Azure portal, a navigation through some items, some screenshots, etc.
 
-For "on camera" scenes, you can also add some logos in overlay to make things more interesting.
+For "on camera" scenes, you can also add some overlays to make things more interesting.
 
 You can see a few examples of "demos" below.
 
@@ -228,7 +228,11 @@ All Microsoft Glossary videos are scripted. This serves a few purposes:
 - Help you create videos that are short (below 2:20 so they can be posted to Twitter) and to the point.
 - Help create captions for the videos.
 
-You can see examples of scripts [here](../synopsis/aad.md#script) and [here](../synopsis/app-service.md#script). Here are some tips:
+You can see an examples of script [here](../synopsis/app-service.md#script).
+
+> Note: At the moment it's not possible to add images to a script in the Synopsis client.
+
+Here are some tips:
 
 - Keep it simple. Start by writing what you want to say, then go over the script again and remove unnecessary words, repetitions, etc. Going through the script a few times will make it tighter and better.
 
