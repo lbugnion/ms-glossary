@@ -51,7 +51,7 @@ Each screen has the following elements in common:
 
 ### Validation
 
-Some fields are optional, others need to be filled. You will see validation messages where needed.
+Some fields are optional, others need to be filled. You will see validation messages where needed. For example:
 
 ![Validation message](./images/synopsis-client/2021-01-26_22-14-19.png)
 
@@ -59,13 +59,15 @@ Some fields are optional, others need to be filled. You will see validation mess
 
 This is where you update the title of the Synopsis. This will be the term shown on the Glossary page. For example `App service`, `Azure Portal` etc.
 
+> Changing the title of the synopsis does NOT change its address. For example if you are editing https://ms-glossary-synopsis.cloud?edit=azure-portal and you change the title from `Azure Portal` to `Microsoft Azure Portal`, the link above remains unchanged.
+
 ![Title screen](./images/synopsis-client/2021-01-26_22-02-30.png)
 
 ## Authors
 
 ![Authors screen](./images/synopsis-client/2021-01-26_22-10-55.png)
 
-You have already entered your information when you submitted the form above. Here you can modify your information, add or remove some authors.
+You have already entered your information when you submitted the getting started form. Here you can modify your information, add or remove some authors.
 
 > Note that **at least one author** must be defined.
 > Each author must have a **name, email address and Twitter username** defined. Optionally an author's GitHub username can also be defined.
@@ -76,9 +78,9 @@ You have already entered your information when you submitted the form above. Her
 
 You should see here the Short Description that you entered in the form. It will be used later in the social videos, in the title card.
 
-![Video intro card](./images/ShortDescription.png)
-
 > IMPORTANT **Please keep the Short Description between 40 and 150 characters**.
+
+![Video intro card](./images/ShortDescription.png)
 
 ## Phonetics
 
@@ -99,6 +101,8 @@ You can easily create the phonetics with the following steps:
 4. Click on `Show Transcription`.
 5. Copy the transcription.
 6. Paste the transcription in the Synopsis client.
+
+> The Phonetics field is required.
 
 ## Personal notes
 
@@ -190,13 +194,15 @@ You can either provide a link to a Learning path, or to a specific module, or bo
 
 You can also provide other links, for example links to other Microsoft properties, or third party websites (blog articles, app store, etc etc). Note that non-Microsoft links cannot be tracked.
 
+> Links to Microsoft Docs and Microsoft Learn are required, however other links are optional.
+
 ## Script
 
 ![Script screen](./images/synopsis-client/2021-01-27_00-06-36.png)
 
 > For the script, we recommend aiming for **280 - 320 words** for the 2 minutes video. After you change a line of script, click out of the field to see the new word count.
 
-> The script is composed of lines of script (which you will say on camera) and production notes (which are just indications for you to make it easier to film or to edit).
+> The script is composed of lines of script (which you will say on camera) and production notes (which are just indications for you to make it easier to film or to edit). In the Synopsis client, production notes have a black background.
 
 The most important part of the synopsis, and the one you'll spend the most time creating, is the script.
 
