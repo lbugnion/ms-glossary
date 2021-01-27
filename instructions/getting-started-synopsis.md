@@ -19,6 +19,7 @@ In this step you will use an application called the Synopsis Client. It runs lik
 
 > Click on name of the section to get more detailed information and Screenshots. 
 
+- [Logging in](#logging-in): Before you start you will need to log into the client.
 - [Title](#title): The Synopsis title, which is usually also the name of the page that will be created in the Glossary for this term.
 - [Authors](#authors) : one or more author for the Synopsis.
 - [Description](#short-description) : A short description we'll use later in the video.
@@ -30,6 +31,19 @@ In this step you will use an application called the Synopsis Client. It runs lik
 - [Links to Learn](#links-to-learn): A list of links leading to Microsoft Learn learning paths and modules.
 - [Other Links](#other-links): A list of links leading to other destinations, either on Microsoft' properties or elsewhere.
 - [Script](#script): The script for your video.
+
+## Logging in
+
+You need to log into the Synopsis client when you want to edit a term. The login process needs two pieces of information:
+
+- Your email address: This must be the same email address defined in the Synopsis. After you log in, you have the possibility to change this address in the `authors` section. You can also add other authors as needed.
+- The name of the file you want to edit.
+
+> We ask that you enter the file name and NOT the synopsis title. The file name is the last part of the URL you received in the confirmation email. For example in `https://www.ms-glossary-synopsis.cloud?edit=azure-portal`, the file name is `azure-portal`.
+
+![Log in screen](./images/synopsis-client/2021-01-27_11-28-09.png)
+
+> After you are logged in, you can also log out. However please note that logging out will lose all your local changes. Make sure to `Commit to cloud` before you log out.
 
 ## Common elements
 
