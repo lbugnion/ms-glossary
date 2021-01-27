@@ -2,6 +2,8 @@
 
 Thank you so much for contributing to the Glossary. With your help, we can grow and maintain the content to create a reference repository of words, expressions and abbreviations.
 
+If you have any issue, please contact [ms-glossary-help@microsoft.com](mailto:ms-glossary-help@microsoft.com)
+
 > Next page: [Using the Synopsis Client](./getting-started-synopsis.md)
 
 ## Definitions
@@ -37,6 +39,10 @@ You can write the Synopsis by following the process described below in this docu
 ### Commit
 
 When you edit the Synopsis, you will see the term `commit` coming up here and there. This is a technical term used in GitHub (a source control system used to manage the Glossary's files). For example `commit to the cloud` means "save your file to the cloud". This will allow us to see your changes.
+
+### Pull request
+
+Just like `Commit`, `Pull request` is a term used in the source control system GitHub, which we use to manage the files. `Submitting a pull request` means that you are sending your Synopsis to the team so that we can review it.
 
 ## What should you do first?
 
