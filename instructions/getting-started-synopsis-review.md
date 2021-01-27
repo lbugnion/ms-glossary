@@ -1,5 +1,7 @@
 # Submitting a Synopsis for review
 
+> Previous page: [Using the Synopsis Client](./getting-started-synopsis.md)
+
 Work in progress, come back in a few days.
 
 TODO Continue
@@ -30,3 +32,5 @@ Once you are done editing the document, you should submit it for review. This is
 ![Confirmation page](./images/2020-06-07_17-56-29.png)
 
 That's it, you have contributed your synopsis!! We will review your proposal and contact you to coordinate the next steps.
+
+> Previous page: [Using the Synopsis Client](./getting-started-synopsis.md)

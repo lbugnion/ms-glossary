@@ -17,7 +17,9 @@ In this step you will use an application called the Synopsis Client. It runs lik
 
 ![Synopsis client on mobile phone](./images/synopsis-client/Screenshot_20210126-183018.jpg)
 
-> Click on name of the section to get more detailed information and Screenshots. 
+> In narrow mode (mobile phone in portrait orientation for example), you can use the button on the top right to open the navigation menu.
+
+Click on name of the section to get more detailed information and Screenshots. 
 
 - [Logging in](#logging-in): Before you start you will need to log into the client.
 - [Title](#title): The Synopsis title, which is usually also the name of the page that will be created in the Glossary for this term.
@@ -25,7 +27,7 @@ In this step you will use an application called the Synopsis Client. It runs lik
 - [Description](#short-description) : A short description we'll use later in the video.
 - [Phonetics](#phonetics): The phonetic transcription of the term.
 - [Notes](#personal-notes): Personal notes to help you getting started and keeping track of your progress.
-- [Keywords](#keywords-or-key-expressions): Keywords that we'll use later to cross reference terms. [See the definition of a keyword](/getting-started.md#keyword).
+- [Keywords](#keywords-or-key-expressions): Keywords that we'll use later to cross reference terms. [See the definition of a keyword](./getting-started.md#keyword).
 - [Demos](#demos): A list of demos that you want to use in the video.
 - [Links to Docs](#links-to-docs): A list of links leading to the Microsoft Docs.
 - [Links to Learn](#links-to-learn): A list of links leading to Microsoft Learn learning paths and modules.
