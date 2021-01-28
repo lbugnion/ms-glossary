@@ -8,7 +8,7 @@
 
 Name: Laurent Bugnion
 
-Email: lbugnion@microsoft.com
+Email: lbugnion2@microsoft.com
 
 Twitter: LBugnion
 
