@@ -6,13 +6,13 @@
 
 ## Submitted by
 
-Name: Fred Muster
+Name: Fred Muster, Laurent Bugnion
 
-Email: FredMu@microsoft.com
+Email: FredMu@microsoft.com, lbugnion@microsoft.com
 
-Twitter: FredMu
+Twitter: FredMu, LBugnion
 
-GitHub: FredMu
+GitHub: FredMu, LBugnion
 
 ## Short description
 
@@ -20,20 +20,22 @@ A term used in programming, this is often the very first output that programmers
 
 ## Phonetics
 
-wɜrd
+həˈloʊ wɜrld
 
 ## Personal notes
 
-- Note 1
-- Note 2
+- This is the first term used in programming
+- Emphasize that this is great for beginners
+- Maybe we can do some demos around this
 
 ## Keywords
 
-Keyword 1, Keyword 2, Another keyword
+Console app, Hello
 
 ## Demos
 
-- Short description of the demo.
+- Write Hello World to the Console
+- Is there a Wikipedia entry for this?
 
 ## Links to docs
 
@@ -46,15 +48,19 @@ Keyword 1, Keyword 2, Another keyword
 
 ## Other Links (optional)
 
+- [NO_LINK_TITLE](http://domain.com/path)
+
 ## Script
 
-Today's word of the day is: WORD.
+Today's words of the day are: Hello World
 
-Today's words of the day are: EXPRESSION.
-
-Today's word of the day is an abbreviation: ABBREVIATION.
-
-> Enter production notes like this. This is to help you while filming or while editing the video.
+> Start with the guest on camera
 
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
+
+Hello World is often the very first output that programmers write to a console.
+
+> Switch to console application outputting Hello World
+
+As you can see here, this is a very simple instruction
 
