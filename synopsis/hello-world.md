@@ -8,9 +8,9 @@
 
 Name: Fred Muster
 
-Email: lbugnion@microsoft.com
+Email: FredMu@microsoft.com
 
-Twitter: @FredMu
+Twitter: FredMu
 
 GitHub: FredMu
 
@@ -57,3 +57,4 @@ Today's word of the day is an abbreviation: ABBREVIATION.
 > Enter production notes like this. This is to help you while filming or while editing the video.
 
 Hello and welcome to Microsoft Azure Words of the Day, the show that teaches you the Azure vocabulary!
+
